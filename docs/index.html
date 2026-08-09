@@ -14,7 +14,8 @@
     <div class="updated" id="last-updated">Loading…</div>
   </div>
   <nav class="tabs" id="tabs">
-    <button class="tab-btn active" data-tab="analysis">Analysis</button>
+    <button class="tab-btn active" data-tab="signals">Buy/Sell Signals</button>
+    <button class="tab-btn" data-tab="analysis">Analysis</button>
     <button class="tab-btn" data-tab="portfolio">Portfolio</button>
     <button class="tab-btn" data-tab="alerts">Alerts</button>
     <button class="tab-btn" data-tab="backtest">Backtest</button>
@@ -22,7 +23,25 @@
 </header>
 
 <main id="app">
-  <section id="tab-analysis" class="tab-panel active">
+  <section id="tab-signals" class="tab-panel active">
+    <h2>Today's signals</h2>
+    <p class="disclaimer">
+      These are <strong>mechanical technical-indicator signals</strong> — SMA20/SMA50 trend
+      crossover + RSI14 — the same rules used in the Backtest tab. They are <strong>not
+      personalized financial advice</strong>, not a recommendation, and nothing here places
+      any trade. Do your own research before acting.
+    </p>
+    <div class="table-wrap">
+      <table id="signals-table">
+        <thead>
+          <tr><th>Symbol</th><th>Price</th><th>Action</th><th>Why</th><th>When to exit</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="tab-analysis" class="tab-panel">
     <div class="panel-header">
       <h2>Watchlist analysis</h2>
       <select id="analysis-symbol-select"></select>

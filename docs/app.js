@@ -20,6 +20,10 @@ function signalBadgeClass(signal) {
   return { Bullish: "badge-bullish", Bearish: "badge-bearish" }[signal] || "badge-neutral";
 }
 
+function actionBadgeClass(action) {
+  return { BUY: "badge-bullish", SELL: "badge-bearish" }[action] || "badge-neutral";
+}
+
 function setupTabs() {
   const buttons = document.querySelectorAll(".tab-btn");
   buttons.forEach((btn) => {
@@ -33,6 +37,28 @@ function setupTabs() {
 }
 
 let analysisChart, backtestChart;
+
+function renderSignals(quotesDoc, analysisDoc) {
+  const quotes = quotesDoc.quotes;
+  const analysis = analysisDoc.analysis;
+  const symbols = Object.keys(quotes).sort((a, b) => {
+    const order = { BUY: 0, HOLD: 1, SELL: 2 };
+    return (order[analysis[a]?.action] ?? 1) - (order[analysis[b]?.action] ?? 1);
+  });
+
+  const tbody = document.querySelector("#signals-table tbody");
+  tbody.innerHTML = symbols.map((sym) => {
+    const q = quotes[sym];
+    const a = analysis[sym] || {};
+    return `<tr>
+      <td>${q.name}<br><span class="hint">${sym}</span></td>
+      <td>${fmt(q.price)}</td>
+      <td><span class="badge ${actionBadgeClass(a.action)}">${a.action || "—"}</span></td>
+      <td class="wrap">${a.action_reason || "—"}</td>
+      <td class="wrap">${a.exit_rule || "—"}</td>
+    </tr>`;
+  }).join("");
+}
 
 function renderAnalysis(quotesDoc, analysisDoc) {
   const quotes = quotesDoc.quotes;
@@ -198,6 +224,7 @@ async function main() {
     document.getElementById("last-updated").textContent =
       "Last updated: " + new Date(quotes.updated).toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
 
+    renderSignals(quotes, analysis);
     renderAnalysis(quotes, analysis);
     renderPortfolio(portfolio);
     renderAlerts(alerts);

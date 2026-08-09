@@ -40,6 +40,45 @@ def classify_signal(sma20, sma50, rsi14):
     return "Neutral"
 
 
+def classify_action(sma20, sma50, rsi14):
+    """Mechanical BUY/HOLD/SELL call from the same SMA20/50 + RSI14 rules used
+    in the backtest. Not personalized advice — a rule-based technical read."""
+    if sma20 is None or sma50 is None or rsi14 is None:
+        return {
+            "action": "HOLD",
+            "reason": "Not enough price history yet to compute a signal.",
+            "exit_rule": "—",
+        }
+
+    trend_up = sma20 > sma50
+    overbought = rsi14 >= 70
+    oversold = rsi14 <= 30
+
+    if trend_up and not overbought:
+        return {
+            "action": "BUY",
+            "reason": f"Uptrend (SMA20 {sma20:.0f} > SMA50 {sma50:.0f}), RSI {rsi14:.0f} not overbought.",
+            "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought — consider booking profit).",
+        }
+    if trend_up and overbought:
+        return {
+            "action": "HOLD",
+            "reason": f"Uptrend intact but RSI {rsi14:.0f} is overbought — chasing here is riskier.",
+            "exit_rule": "Consider booking partial profit now; full exit if SMA20 crosses below SMA50.",
+        }
+    if not trend_up:
+        return {
+            "action": "SELL",
+            "reason": f"Downtrend (SMA20 {sma20:.0f} < SMA50 {sma50:.0f}){' , RSI oversold at ' + format(rsi14, '.0f') if oversold else ''}.",
+            "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
+        }
+    return {
+        "action": "HOLD",
+        "reason": "No clear trend signal right now.",
+        "exit_rule": "Wait for SMA20/SMA50 to separate clearly before acting.",
+    }
+
+
 def main():
     watchlist = load_watchlist()
     if not watchlist:
@@ -104,6 +143,8 @@ def main():
         chart_sma20 = sma20.tail(CHART_DAYS)
         chart_sma50 = sma50.tail(CHART_DAYS)
 
+        action = classify_action(latest_sma20, latest_sma50, latest_rsi)
+
         analysis[symbol] = {
             "sma20": round(latest_sma20, 2) if latest_sma20 else None,
             "sma50": round(latest_sma50, 2) if latest_sma50 else None,
@@ -111,6 +152,9 @@ def main():
             "macd": round(float(macd_line.iloc[-1]), 2) if pd.notna(macd_line.iloc[-1]) else None,
             "macd_signal": round(float(macd_signal.iloc[-1]), 2) if pd.notna(macd_signal.iloc[-1]) else None,
             "signal": classify_signal(latest_sma20, latest_sma50, latest_rsi),
+            "action": action["action"],
+            "action_reason": action["reason"],
+            "exit_rule": action["exit_rule"],
             "history": [
                 {
                     "date": d.strftime("%Y-%m-%d"),
