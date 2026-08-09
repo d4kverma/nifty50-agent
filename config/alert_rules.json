@@ -1,0 +1,4 @@
+{
+  "description": "Alert rules, evaluated on every scheduled run against the latest close price. condition is one of: price_above, price_below, pct_change_above, pct_change_below (pct_change is the day's % move). Example: { \"symbol\": \"TCS.NS\", \"condition\": \"price_below\", \"value\": 3500, \"label\": \"TCS below 3500\" }.",
+  "rules": []
+}

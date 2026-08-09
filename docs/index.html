@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Nifty50 Agent</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1>Nifty50 Agent</h1>
+    <div class="updated" id="last-updated">Loading…</div>
+  </div>
+  <nav class="tabs" id="tabs">
+    <button class="tab-btn active" data-tab="analysis">Analysis</button>
+    <button class="tab-btn" data-tab="portfolio">Portfolio</button>
+    <button class="tab-btn" data-tab="alerts">Alerts</button>
+    <button class="tab-btn" data-tab="backtest">Backtest</button>
+  </nav>
+</header>
+
+<main id="app">
+  <section id="tab-analysis" class="tab-panel active">
+    <div class="panel-header">
+      <h2>Watchlist analysis</h2>
+      <select id="analysis-symbol-select"></select>
+    </div>
+    <div class="chart-card">
+      <canvas id="analysis-chart" height="90"></canvas>
+    </div>
+    <div class="table-wrap">
+      <table id="analysis-table">
+        <thead>
+          <tr>
+            <th>Symbol</th><th>Price</th><th>Chg %</th><th>SMA20</th><th>SMA50</th>
+            <th>RSI14</th><th>Signal</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="tab-portfolio" class="tab-panel">
+    <h2>Portfolio</h2>
+    <div class="stat-row" id="portfolio-stats"></div>
+    <div class="table-wrap">
+      <table id="portfolio-table">
+        <thead>
+          <tr>
+            <th>Symbol</th><th>Qty</th><th>Buy price</th><th>Current price</th>
+            <th>Invested</th><th>Value</th><th>P&amp;L</th><th>P&amp;L %</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="empty-hint" id="portfolio-empty" hidden>
+      No holdings yet. Add positions to <code>config/holdings.json</code> and they'll show up
+      here after the next scheduled run.
+    </p>
+  </section>
+
+  <section id="tab-alerts" class="tab-panel">
+    <h2>Alerts</h2>
+    <div class="table-wrap">
+      <table id="alerts-table">
+        <thead>
+          <tr><th>Status</th><th>Label</th><th>Symbol</th><th>Condition</th><th>Current</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="empty-hint" id="alerts-empty" hidden>
+      No alert rules yet. Add rules to <code>config/alert_rules.json</code> and they'll be
+      evaluated on the next scheduled run.
+    </p>
+  </section>
+
+  <section id="tab-backtest" class="tab-panel">
+    <div class="panel-header">
+      <h2>Backtest — SMA(20/50) crossover vs. buy &amp; hold</h2>
+      <select id="backtest-symbol-select"></select>
+    </div>
+    <p class="hint">Historical simulation only. Not investment advice, no live trading.</p>
+    <div class="chart-card">
+      <canvas id="backtest-chart" height="90"></canvas>
+    </div>
+    <div class="table-wrap">
+      <table id="backtest-table">
+        <thead>
+          <tr>
+            <th>Symbol</th><th>Strategy return</th><th>Buy &amp; hold return</th>
+            <th>Trades</th><th>Win rate</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<footer>
+  Data via Yahoo Finance (yfinance). Updated automatically on a schedule. Not financial advice.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

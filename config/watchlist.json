@@ -1,0 +1,25 @@
+{
+  "description": "Top 20 Nifty 50 constituents by index weightage (as of Aug 2026). Edit freely — add/remove symbols using the NSE ticker with a .NS suffix.",
+  "symbols": [
+    { "symbol": "RELIANCE.NS", "name": "Reliance Industries" },
+    { "symbol": "BHARTIARTL.NS", "name": "Bharti Airtel" },
+    { "symbol": "HDFCBANK.NS", "name": "HDFC Bank" },
+    { "symbol": "ICICIBANK.NS", "name": "ICICI Bank" },
+    { "symbol": "SBIN.NS", "name": "State Bank of India" },
+    { "symbol": "TCS.NS", "name": "Tata Consultancy Services" },
+    { "symbol": "BAJFINANCE.NS", "name": "Bajaj Finance" },
+    { "symbol": "LT.NS", "name": "Larsen & Toubro" },
+    { "symbol": "HINDUNILVR.NS", "name": "Hindustan Unilever" },
+    { "symbol": "INFY.NS", "name": "Infosys" },
+    { "symbol": "SUNPHARMA.NS", "name": "Sun Pharmaceutical Industries" },
+    { "symbol": "MARUTI.NS", "name": "Maruti Suzuki India" },
+    { "symbol": "TITAN.NS", "name": "Titan Company" },
+    { "symbol": "M&M.NS", "name": "Mahindra & Mahindra" },
+    { "symbol": "ADANIENT.NS", "name": "Adani Enterprises" },
+    { "symbol": "KOTAKBANK.NS", "name": "Kotak Mahindra Bank" },
+    { "symbol": "ADANIPORTS.NS", "name": "Adani Ports and SEZ" },
+    { "symbol": "AXISBANK.NS", "name": "Axis Bank" },
+    { "symbol": "HCLTECH.NS", "name": "HCL Technologies" },
+    { "symbol": "ITC.NS", "name": "ITC" }
+  ]
+}

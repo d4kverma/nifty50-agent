@@ -1,0 +1,225 @@
+{
+  "updated": "2026-08-09T09:31:32+00:00",
+  "quotes": {
+    "RELIANCE.NS": {
+      "name": "Reliance Industries",
+      "price": 1334.8,
+      "prev_close": 1325.0,
+      "change": 9.8,
+      "pct_change": 0.74,
+      "day_high": 1337.0,
+      "day_low": 1316.6,
+      "volume": 9885638,
+      "date": "2026-08-07"
+    },
+    "BHARTIARTL.NS": {
+      "name": "Bharti Airtel",
+      "price": 1959.9,
+      "prev_close": 1948.0,
+      "change": 11.9,
+      "pct_change": 0.61,
+      "day_high": 1961.0,
+      "day_low": 1938.3,
+      "volume": 3019876,
+      "date": "2026-08-07"
+    },
+    "HDFCBANK.NS": {
+      "name": "HDFC Bank",
+      "price": 731.0,
+      "prev_close": 734.3,
+      "change": -3.3,
+      "pct_change": -0.45,
+      "day_high": 736.0,
+      "day_low": 728.2,
+      "volume": 19382042,
+      "date": "2026-08-07"
+    },
+    "ICICIBANK.NS": {
+      "name": "ICICI Bank",
+      "price": 1421.0,
+      "prev_close": 1457.5,
+      "change": -36.5,
+      "pct_change": -2.5,
+      "day_high": 1455.0,
+      "day_low": 1418.2,
+      "volume": 14395789,
+      "date": "2026-08-07"
+    },
+    "SBIN.NS": {
+      "name": "State Bank of India",
+      "price": 1097.2,
+      "prev_close": 1085.0,
+      "change": 12.2,
+      "pct_change": 1.12,
+      "day_high": 1124.5,
+      "day_low": 1075.7,
+      "volume": 29410622,
+      "date": "2026-08-07"
+    },
+    "TCS.NS": {
+      "name": "Tata Consultancy Services",
+      "price": 2452.7,
+      "prev_close": 2373.0,
+      "change": 79.7,
+      "pct_change": 3.36,
+      "day_high": 2457.7,
+      "day_low": 2375.0,
+      "volume": 4547979,
+      "date": "2026-08-07"
+    },
+    "BAJFINANCE.NS": {
+      "name": "Bajaj Finance",
+      "price": 1078.0,
+      "prev_close": 1144.8,
+      "change": -66.8,
+      "pct_change": -5.84,
+      "day_high": 1113.0,
+      "day_low": 1074.5,
+      "volume": 15614001,
+      "date": "2026-08-07"
+    },
+    "LT.NS": {
+      "name": "Larsen & Toubro",
+      "price": 4056.0,
+      "prev_close": 4061.8,
+      "change": -5.8,
+      "pct_change": -0.14,
+      "day_high": 4062.0,
+      "day_low": 4030.0,
+      "volume": 901290,
+      "date": "2026-08-07"
+    },
+    "HINDUNILVR.NS": {
+      "name": "Hindustan Unilever",
+      "price": 2096.0,
+      "prev_close": 2079.5,
+      "change": 16.5,
+      "pct_change": 0.79,
+      "day_high": 2099.4,
+      "day_low": 2077.2,
+      "volume": 1054665,
+      "date": "2026-08-07"
+    },
+    "INFY.NS": {
+      "name": "Infosys",
+      "price": 1175.1,
+      "prev_close": 1165.0,
+      "change": 10.1,
+      "pct_change": 0.87,
+      "day_high": 1183.0,
+      "day_low": 1155.6,
+      "volume": 7581410,
+      "date": "2026-08-07"
+    },
+    "SUNPHARMA.NS": {
+      "name": "Sun Pharmaceutical Industries",
+      "price": 1945.0,
+      "prev_close": 1951.0,
+      "change": -6.0,
+      "pct_change": -0.31,
+      "day_high": 1957.0,
+      "day_low": 1925.1,
+      "volume": 2425268,
+      "date": "2026-08-07"
+    },
+    "MARUTI.NS": {
+      "name": "Maruti Suzuki India",
+      "price": 14037.0,
+      "prev_close": 13940.0,
+      "change": 97.0,
+      "pct_change": 0.7,
+      "day_high": 14038.0,
+      "day_low": 13811.0,
+      "volume": 324104,
+      "date": "2026-08-07"
+    },
+    "TITAN.NS": {
+      "name": "Titan Company",
+      "price": 4941.0,
+      "prev_close": 4998.0,
+      "change": -57.0,
+      "pct_change": -1.14,
+      "day_high": 5003.0,
+      "day_low": 4891.3,
+      "volume": 1166858,
+      "date": "2026-08-07"
+    },
+    "M&M.NS": {
+      "name": "Mahindra & Mahindra",
+      "price": 3502.0,
+      "prev_close": 3406.0,
+      "change": 96.0,
+      "pct_change": 2.82,
+      "day_high": 3504.9,
+      "day_low": 3402.1,
+      "volume": 3299237,
+      "date": "2026-08-07"
+    },
+    "ADANIENT.NS": {
+      "name": "Adani Enterprises",
+      "price": 3020.0,
+      "prev_close": 3026.0,
+      "change": -6.0,
+      "pct_change": -0.2,
+      "day_high": 3039.5,
+      "day_low": 3004.5,
+      "volume": 788881,
+      "date": "2026-08-07"
+    },
+    "KOTAKBANK.NS": {
+      "name": "Kotak Mahindra Bank",
+      "price": 390.75,
+      "prev_close": 394.0,
+      "change": -3.25,
+      "pct_change": -0.82,
+      "day_high": 394.85,
+      "day_low": 387.75,
+      "volume": 7315232,
+      "date": "2026-08-07"
+    },
+    "ADANIPORTS.NS": {
+      "name": "Adani Ports and SEZ",
+      "price": 1693.5,
+      "prev_close": 1695.0,
+      "change": -1.5,
+      "pct_change": -0.09,
+      "day_high": 1702.3,
+      "day_low": 1676.7,
+      "volume": 2387389,
+      "date": "2026-08-07"
+    },
+    "AXISBANK.NS": {
+      "name": "Axis Bank",
+      "price": 1238.0,
+      "prev_close": 1256.0,
+      "change": -18.0,
+      "pct_change": -1.43,
+      "day_high": 1256.0,
+      "day_low": 1238.0,
+      "volume": 3628823,
+      "date": "2026-08-07"
+    },
+    "HCLTECH.NS": {
+      "name": "HCL Technologies",
+      "price": 1356.6,
+      "prev_close": 1335.0,
+      "change": 21.6,
+      "pct_change": 1.62,
+      "day_high": 1369.0,
+      "day_low": 1328.0,
+      "volume": 1725616,
+      "date": "2026-08-07"
+    },
+    "ITC.NS": {
+      "name": "ITC",
+      "price": 286.1,
+      "prev_close": 285.9,
+      "change": 0.2,
+      "pct_change": 0.07,
+      "day_high": 286.1,
+      "day_low": 284.4,
+      "volume": 6128841,
+      "date": "2026-08-07"
+    }
+  }
+}
