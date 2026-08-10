@@ -25,6 +25,12 @@ jobs:
       - name: Fetch quotes and compute analysis
         run: python scripts/fetch_and_analyze.py
 
+      - name: Fetch fundamentals
+        run: python scripts/fundamentals.py
+
+      - name: Fetch news
+        run: python scripts/news.py
+
       - name: Compute portfolio P&L
         run: python scripts/portfolio.py
 

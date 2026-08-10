@@ -16,8 +16,9 @@ here places or suggests live trades.
 - `config/alert_rules.json` — price/percent-change rules to watch (edit to add rules)
 - `.github/workflows/update.yml` — runs on a schedule (weekdays 15:35 IST, shortly
   after NSE close) and on-demand, via **Actions → Update market data → Run workflow**
-- `scripts/*.py` — fetch quotes, compute indicators, portfolio P&L, alert status,
-  and the backtest; each writes JSON into `docs/data/`
+- `scripts/*.py` — fetch quotes, compute indicators (+ a mechanical BUY/HOLD/SELL
+  call), fundamentals (P/E, market cap, ROE, 52-week range), recent news headlines,
+  portfolio P&L, alert status, and the backtest; each writes JSON into `docs/data/`
 - `docs/` — the static site (GitHub Pages serves this folder), reads the JSON at
   page load, no build step
 
@@ -51,6 +52,8 @@ external push (no email/Telegram/etc.) — check the page to see current alerts.
 python3 -m venv .venv
 .venv/bin/pip install -r scripts/requirements.txt
 .venv/bin/python scripts/fetch_and_analyze.py
+.venv/bin/python scripts/fundamentals.py
+.venv/bin/python scripts/news.py
 .venv/bin/python scripts/portfolio.py
 .venv/bin/python scripts/alerts.py
 .venv/bin/python scripts/backtest.py

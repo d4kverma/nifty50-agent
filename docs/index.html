@@ -34,7 +34,7 @@
     <div class="table-wrap">
       <table id="signals-table">
         <thead>
-          <tr><th>Symbol</th><th>Price</th><th>Action</th><th>Why</th><th>When to exit</th></tr>
+          <tr><th>Symbol</th><th>Price</th><th>P/E</th><th>Action</th><th>Why</th><th>When to exit</th></tr>
         </thead>
         <tbody></tbody>
       </table>
@@ -49,6 +49,18 @@
     <div class="chart-card">
       <canvas id="analysis-chart" height="90"></canvas>
     </div>
+
+    <div class="detail-grid">
+      <div class="chart-card">
+        <h3>Fundamentals</h3>
+        <div class="fundamentals-grid" id="fundamentals-grid"></div>
+      </div>
+      <div class="chart-card">
+        <h3>Recent news</h3>
+        <ul class="news-list" id="news-list"></ul>
+      </div>
+    </div>
+
     <div class="table-wrap">
       <table id="analysis-table">
         <thead>

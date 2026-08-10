@@ -38,9 +38,10 @@ function setupTabs() {
 
 let analysisChart, backtestChart;
 
-function renderSignals(quotesDoc, analysisDoc) {
+function renderSignals(quotesDoc, analysisDoc, fundamentalsDoc) {
   const quotes = quotesDoc.quotes;
   const analysis = analysisDoc.analysis;
+  const fundamentals = fundamentalsDoc.fundamentals || {};
   const symbols = Object.keys(quotes).sort((a, b) => {
     const order = { BUY: 0, HOLD: 1, SELL: 2 };
     return (order[analysis[a]?.action] ?? 1) - (order[analysis[b]?.action] ?? 1);
@@ -50,9 +51,11 @@ function renderSignals(quotesDoc, analysisDoc) {
   tbody.innerHTML = symbols.map((sym) => {
     const q = quotes[sym];
     const a = analysis[sym] || {};
+    const f = fundamentals[sym] || {};
     return `<tr>
       <td>${q.name}<br><span class="hint">${sym}</span></td>
       <td>${fmt(q.price)}</td>
+      <td>${f.pe_ratio !== null && f.pe_ratio !== undefined ? fmt(f.pe_ratio, 1) : "—"}</td>
       <td><span class="badge ${actionBadgeClass(a.action)}">${a.action || "—"}</span></td>
       <td class="wrap">${a.action_reason || "—"}</td>
       <td class="wrap">${a.exit_rule || "—"}</td>
@@ -60,9 +63,11 @@ function renderSignals(quotesDoc, analysisDoc) {
   }).join("");
 }
 
-function renderAnalysis(quotesDoc, analysisDoc) {
+function renderAnalysis(quotesDoc, analysisDoc, fundamentalsDoc, newsDoc) {
   const quotes = quotesDoc.quotes;
   const analysis = analysisDoc.analysis;
+  const fundamentals = fundamentalsDoc.fundamentals || {};
+  const news = newsDoc.news || {};
   const symbols = Object.keys(quotes).sort();
 
   const tbody = document.querySelector("#analysis-table tbody");
@@ -82,8 +87,51 @@ function renderAnalysis(quotesDoc, analysisDoc) {
 
   const select = document.getElementById("analysis-symbol-select");
   select.innerHTML = symbols.map((s) => `<option value="${s}">${quotes[s].name} (${s})</option>`).join("");
-  select.addEventListener("change", () => drawAnalysisChart(analysis, select.value));
-  if (symbols.length) drawAnalysisChart(analysis, symbols[0]);
+  const showDetail = (sym) => {
+    drawAnalysisChart(analysis, sym);
+    renderFundamentals(fundamentals[sym]);
+    renderNews(news[sym]);
+  };
+  select.addEventListener("change", () => showDetail(select.value));
+  if (symbols.length) showDetail(symbols[0]);
+}
+
+function renderFundamentals(f) {
+  const grid = document.getElementById("fundamentals-grid");
+  if (!f) {
+    grid.innerHTML = `<div class="hint">No fundamentals data yet.</div>`;
+    return;
+  }
+  const rows = [
+    ["Market cap", f.market_cap_cr ? `₹${fmt(f.market_cap_cr, 0)} Cr` : "—"],
+    ["P/E (trailing)", f.pe_ratio ?? "—"],
+    ["P/E (forward)", f.forward_pe ?? "—"],
+    ["EPS", f.eps ? fmt(f.eps) : "—"],
+    ["Dividend yield", f.dividend_yield_pct ? `${fmt(f.dividend_yield_pct)}%` : "—"],
+    ["ROE", f.roe_pct ? `${fmt(f.roe_pct)}%` : "—"],
+    ["Beta", f.beta ?? "—"],
+    ["52w range", f.week52_low && f.week52_high ? `${fmt(f.week52_low)} – ${fmt(f.week52_high)}` : "—"],
+    ["Sector", f.sector || "—"],
+    ["Industry", f.industry || "—"],
+  ];
+  grid.innerHTML = rows.map(([label, value]) => `
+    <div class="fund-item"><div class="fund-label">${label}</div><div class="fund-value">${value}</div></div>
+  `).join("");
+}
+
+function renderNews(items) {
+  const list = document.getElementById("news-list");
+  if (!items || !items.length) {
+    list.innerHTML = `<li class="hint">No recent news found.</li>`;
+    return;
+  }
+  list.innerHTML = items.map((n) => {
+    const date = n.published ? new Date(n.published).toLocaleDateString("en-IN", { day: "numeric", month: "short" }) : "";
+    return `<li>
+      <a href="${n.url}" target="_blank" rel="noopener noreferrer">${n.title}</a>
+      <div class="hint">${n.publisher || ""}${date ? " · " + date : ""}</div>
+    </li>`;
+  }).join("");
 }
 
 function drawAnalysisChart(analysis, symbol) {
@@ -213,19 +261,21 @@ function drawBacktestChart(results, symbol) {
 async function main() {
   setupTabs();
   try {
-    const [quotes, analysis, portfolio, alerts, backtest] = await Promise.all([
+    const [quotes, analysis, portfolio, alerts, backtest, fundamentals, news] = await Promise.all([
       getJSON("data/quotes.json"),
       getJSON("data/analysis.json"),
       getJSON("data/portfolio.json"),
       getJSON("data/alerts.json"),
       getJSON("data/backtest.json"),
+      getJSON("data/fundamentals.json"),
+      getJSON("data/news.json"),
     ]);
 
     document.getElementById("last-updated").textContent =
       "Last updated: " + new Date(quotes.updated).toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
 
-    renderSignals(quotes, analysis);
-    renderAnalysis(quotes, analysis);
+    renderSignals(quotes, analysis, fundamentals);
+    renderAnalysis(quotes, analysis, fundamentals, news);
     renderPortfolio(portfolio);
     renderAlerts(alerts);
     renderBacktest(backtest);
