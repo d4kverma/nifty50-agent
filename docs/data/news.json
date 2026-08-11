@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T11:16:23+00:00",
+  "updated": "2026-08-11T11:00:08+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -35,6 +35,12 @@
     ],
     "BHARTIARTL.NS": [
       {
+        "title": "India's Vodafone Idea narrows quarterly loss on bigger per-user revenue",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-vodafone-idea-narrows-quarterly-134758108.html",
+        "published": "2026-08-10T14:25:57Z"
+      },
+      {
         "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
@@ -57,12 +63,6 @@
         "publisher": "BeInCrypto",
         "url": "https://finance.yahoo.com/markets/crypto/articles/kucoin-pay-wants-crypto-blend-220234537.html",
         "published": "2026-07-21T22:02:34Z"
-      },
-      {
-        "title": "Singtel winds up Mauritius unit linked to Bharti Airtel investment",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/singtel-winds-mauritius-unit-linked-121750266.html",
-        "published": "2026-07-13T12:17:50Z"
       }
     ],
     "HDFCBANK.NS": [
@@ -355,6 +355,12 @@
     ],
     "MARUTI.NS": [
       {
+        "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
+        "published": "2026-08-10T16:09:07Z"
+      },
+      {
         "title": "India's Maruti sees passenger vehicle market rising to up to 6.3 million units by 2031",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-maruti-sees-passenger-vehicle-090706819.html",
@@ -377,12 +383,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-maruti-suzuki-posts-quarterly-111809600.html",
         "published": "2026-07-31T11:18:09Z"
-      },
-      {
-        "title": "Indian court orders Maruti to replace car in first E20 fuel damage ruling",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indian-court-orders-maruti-replace-121955757.html",
-        "published": "2026-07-16T14:39:23Z"
       }
     ],
     "TITAN.NS": [
