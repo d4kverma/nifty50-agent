@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T11:00:08+00:00",
+  "updated": "2026-08-12T11:07:49+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -131,6 +131,12 @@
     ],
     "SBIN.NS": [
       {
+        "title": "State Bank of India returns to dollar debt market, bankers see strong demand",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/state-bank-india-returns-dollar-110032371.html",
+        "published": "2026-08-11T11:00:32Z"
+      },
+      {
         "title": "State Bank of India (SBKFF) (Q1 2027) Earnings Call Highlights: Record Profit and Digital Push ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/state-bank-india-sbkff-q1-190158807.html",
@@ -153,15 +159,15 @@
         "publisher": "Energy Monitor",
         "url": "https://finance.yahoo.com/energy/articles/avaada-secures-1-3bn-financing-085635159.html",
         "published": "2026-08-03T08:56:35Z"
-      },
-      {
-        "title": "State Bank of India's perpetual bond demand seen spurring more issuances, bankers say",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/state-bank-indias-perpetual-bond-104605991.html",
-        "published": "2026-07-31T10:46:05Z"
       }
     ],
     "TCS.NS": [
+      {
+        "title": "India's Tata Group stocks extend slide after chairman Chandrasekaran quits",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-tata-group-stocks-tumble-055139723.html",
+        "published": "2026-08-12T06:09:13Z"
+      },
       {
         "title": "India's TCS says received alerts alleging exposure of some employee data",
         "publisher": "Reuters",
@@ -185,12 +191,6 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-rzlv-just-put-220949078.html",
         "published": "2026-07-28T22:09:49Z"
-      },
-      {
-        "title": "Infosys Cuts Revenue Forecast as IT Service Demand Remains Muted",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/technology/articles/infosys-cuts-revenue-forecast-demand-110904155.html",
-        "published": "2026-07-23T11:09:04Z"
       }
     ],
     "BAJFINANCE.NS": [
