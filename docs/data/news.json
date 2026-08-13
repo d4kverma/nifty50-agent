@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T11:07:49+00:00",
+  "updated": "2026-08-13T11:07:03+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -35,6 +35,12 @@
     ],
     "BHARTIARTL.NS": [
       {
+        "title": "Singtel's quarterly profit tops estimates on Optus, digital services strength",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/singtel-posts-21-rise-first-234459872.html",
+        "published": "2026-08-12T23:44:59Z"
+      },
+      {
         "title": "India's Vodafone Idea narrows quarterly loss on bigger per-user revenue",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-vodafone-idea-narrows-quarterly-134758108.html",
@@ -57,12 +63,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bharti-airtel-posts-profit-110123142.html",
         "published": "2026-08-04T11:01:23Z"
-      },
-      {
-        "title": "KuCoin Pay Wants Crypto to Blend into Local Payment Rails",
-        "publisher": "BeInCrypto",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/kucoin-pay-wants-crypto-blend-220234537.html",
-        "published": "2026-07-21T22:02:34Z"
       }
     ],
     "HDFCBANK.NS": [
@@ -227,6 +227,18 @@
     ],
     "LT.NS": [
       {
+        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
+        "published": "2026-08-13T06:15:43Z"
+      },
+      {
+        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
+        "published": "2026-08-13T06:15:43Z"
+      },
+      {
         "title": "ONGC awards offshore contracts to L&T Energy Hydrocarbon Offshore",
         "publisher": "Offshore Technology",
         "url": "https://finance.yahoo.com/energy/articles/ongc-awards-offshore-contracts-l-080407262.html",
@@ -243,18 +255,6 @@
         "publisher": "Offshore Technology",
         "url": "https://finance.yahoo.com/energy/articles/l-t-led-consortium-secures-141029688.html",
         "published": "2026-08-04T14:10:29Z"
-      },
-      {
-        "title": "L&T secures LNTP for Lara Stage-III project in Chhattisgarh, India",
-        "publisher": "Power Technology",
-        "url": "https://finance.yahoo.com/energy/articles/l-t-secures-lntp-lara-142708329.html",
-        "published": "2026-07-30T14:27:08Z"
-      },
-      {
-        "title": "L&T wins KOC contract for Jurassic Light Oil export facilities",
-        "publisher": "Offshore Technology",
-        "url": "https://finance.yahoo.com/energy/articles/l-t-wins-koc-contract-103335267.html",
-        "published": "2026-07-30T10:33:35Z"
       }
     ],
     "HINDUNILVR.NS": [
@@ -355,6 +355,12 @@
     ],
     "MARUTI.NS": [
       {
+        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
+        "published": "2026-08-13T06:01:20Z"
+      },
+      {
         "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
@@ -377,12 +383,6 @@
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-q1-profit-falls-100817010.html",
         "published": "2026-08-03T10:08:17Z"
-      },
-      {
-        "title": "India's Maruti Suzuki posts quarterly profit fall",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-maruti-suzuki-posts-quarterly-111809600.html",
-        "published": "2026-07-31T11:18:09Z"
       }
     ],
     "TITAN.NS": [
@@ -419,6 +419,12 @@
     ],
     "M&M.NS": [
       {
+        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
+        "published": "2026-08-13T06:01:20Z"
+      },
+      {
         "title": "Mahindra & Mahindra Ltd (MAHMF) (Q1 2027) Earnings Call Highlights: Strong Profit Growth ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-mahindra-ltd-mahmf-q1-010431854.html",
@@ -441,12 +447,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-mahindra-transfer-truck-bus-083919234.html",
         "published": "2026-07-29T08:39:19Z"
-      },
-      {
-        "title": "Howie Mandel, Ne-Yo back new esports platform: Global Gaming League CEO",
-        "publisher": "Yahoo Finance Video",
-        "url": "https://finance.yahoo.com/video/howie-mandel-ne-yo-back-new-esports-platform-global-gaming-league-ceo-211710786.html",
-        "published": "2026-07-20T21:17:10Z"
       }
     ],
     "ADANIENT.NS": [
