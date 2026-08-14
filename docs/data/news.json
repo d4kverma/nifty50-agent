@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T11:07:03+00:00",
+  "updated": "2026-08-14T11:04:46+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -227,10 +227,22 @@
     ],
     "LT.NS": [
       {
-        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
-        "published": "2026-08-13T06:15:43Z"
+        "title": "What Does Nvidia (NVDA) Gain From Its New AI Factory Push In India?",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-gain-ai-101028140.html",
+        "published": "2026-08-14T10:10:28Z"
+      },
+      {
+        "title": "L&T\u2019s Vyoma.AI to construct NVIDIA B300 AI Factory\u202fin India",
+        "publisher": "World Construction Network",
+        "url": "https://finance.yahoo.com/technology/ai/articles/l-t-vyoma-ai-construct-100000397.html",
+        "published": "2026-08-14T10:00:00Z"
+      },
+      {
+        "title": "Sector Update: Tech Stocks Gain Thursday Afternoon",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-thursday-173236999.html",
+        "published": "2026-08-13T17:32:36Z"
       },
       {
         "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
@@ -239,22 +251,10 @@
         "published": "2026-08-13T06:15:43Z"
       },
       {
-        "title": "ONGC awards offshore contracts to L&T Energy Hydrocarbon Offshore",
-        "publisher": "Offshore Technology",
-        "url": "https://finance.yahoo.com/energy/articles/ongc-awards-offshore-contracts-l-080407262.html",
-        "published": "2026-08-10T08:04:07Z"
-      },
-      {
-        "title": "L&T says unit that houses drones to see threefold revenue growth over five years",
+        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/l-t-says-unit-houses-111015231.html",
-        "published": "2026-08-07T11:10:15Z"
-      },
-      {
-        "title": "L&T-led consortium secures offshore project contract from ADNOC",
-        "publisher": "Offshore Technology",
-        "url": "https://finance.yahoo.com/energy/articles/l-t-led-consortium-secures-141029688.html",
-        "published": "2026-08-04T14:10:29Z"
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
+        "published": "2026-08-13T06:15:43Z"
       }
     ],
     "HINDUNILVR.NS": [
@@ -291,6 +291,12 @@
     ],
     "INFY.NS": [
       {
+        "title": "Crocs inks AI tech deal",
+        "publisher": "Retail Dive",
+        "url": "https://finance.yahoo.com/technology/ai/articles/crocs-inks-ai-tech-deal-103300984.html",
+        "published": "2026-08-13T10:33:00Z"
+      },
+      {
         "title": "Microsoft Opens Fourth Data Center Region in India for Azure",
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-fourth-data-center-125248171.html",
@@ -313,12 +319,6 @@
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-q1-earnings-miss-estimates-160500537.html",
         "published": "2026-07-24T16:05:00Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144031292.html",
-        "published": "2026-07-24T14:40:31Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -419,6 +419,12 @@
     ],
     "M&M.NS": [
       {
+        "title": "Divgi TorqTransfer Systems Ltd (BOM:543812) (Q1 2027) Earnings Call Highlights: Navigating ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/divgi-torqtransfer-systems-ltd-bom-010531560.html",
+        "published": "2026-08-14T01:05:31Z"
+      },
+      {
         "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
@@ -441,12 +447,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-mahindra-posts-quarterly-profit-074304884.html",
         "published": "2026-07-30T07:43:04Z"
-      },
-      {
-        "title": "India's Mahindra to transfer truck, bus business to SML Mahindra",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-mahindra-transfer-truck-bus-083919234.html",
-        "published": "2026-07-29T08:39:19Z"
       }
     ],
     "ADANIENT.NS": [
