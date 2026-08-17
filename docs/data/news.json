@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T11:04:46+00:00",
+  "updated": "2026-08-17T10:41:22+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144754995.html",
+        "published": "2026-08-14T14:47:54Z"
+      },
+      {
         "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
@@ -89,12 +95,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-largest-india-data-123312683.html",
         "published": "2026-08-06T12:33:12Z"
-      },
-      {
-        "title": "BKEAY vs. HDB: Which Stock Is the Better Value Option?",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bkeay-vs-hdb-stock-better-154002021.html",
-        "published": "2026-08-03T15:40:02Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -156,8 +156,8 @@
       },
       {
         "title": "Avaada secures $1.3bn in financing for 2.15GW renewable energy projects",
-        "publisher": "Energy Monitor",
-        "url": "https://finance.yahoo.com/energy/articles/avaada-secures-1-3bn-financing-085635159.html",
+        "publisher": "Power Technology",
+        "url": "https://finance.yahoo.com/energy/articles/avaada-secures-1-3bn-financing-085635977.html",
         "published": "2026-08-03T08:56:35Z"
       }
     ],
@@ -245,15 +245,15 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
-        "published": "2026-08-13T06:15:43Z"
-      },
-      {
         "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
+        "published": "2026-08-13T06:15:43Z"
+      },
+      {
+        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -355,6 +355,12 @@
     ],
     "MARUTI.NS": [
       {
+        "title": "Lumax Industries Ltd (BOM:517206) (Q1 2027) Earnings Call Highlights: Strong Revenue Growth and ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lumax-industries-ltd-bom-517206-010455714.html",
+        "published": "2026-08-15T01:04:55Z"
+      },
+      {
         "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
@@ -377,12 +383,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-india-ltd-bom-010450585.html",
         "published": "2026-08-04T01:04:50Z"
-      },
-      {
-        "title": "Maruti Suzuki Q1 profit falls despite rise in net sales",
-        "publisher": "Just Auto",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-q1-profit-falls-100817010.html",
-        "published": "2026-08-03T10:08:17Z"
       }
     ],
     "TITAN.NS": [
@@ -483,6 +483,12 @@
     ],
     "KOTAKBANK.NS": [
       {
+        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
+        "publisher": "Private Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
+        "published": "2026-08-14T11:52:36Z"
+      },
+      {
         "title": "India's Kotak Investment Banking appoints co-CEOs",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-kotak-investment-banking-appoints-122745893.html",
@@ -505,12 +511,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-kotak-bank-reports-26-090724940.html",
         "published": "2026-07-18T09:07:24Z"
-      },
-      {
-        "title": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indian-shares-likely-open-higher-022746814.html",
-        "published": "2026-07-06T10:16:21Z"
       }
     ],
     "ADANIPORTS.NS": [
