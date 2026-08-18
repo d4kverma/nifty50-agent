@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-17T10:41:22+00:00",
+  "updated": "2026-08-18T10:38:48+00:00",
   "news": {
     "RELIANCE.NS": [
+      {
+        "title": "Rolls-Royce Stock Hits First New High In 14 Years. Firm Announces Engine Project.",
+        "publisher": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/rolls-royce-jet-engines-india/?src=A00220&yptr=yahoo",
+        "published": "2026-08-17T18:27:44Z"
+      },
       {
         "title": "ELAM: Let\u2019s make deal \u2013 not",
         "publisher": "Odessa American, Texas",
@@ -25,15 +31,15 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-industries-ltd-wbo-rli-010025257.html",
         "published": "2026-07-25T01:00:25Z"
-      },
-      {
-        "title": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly",
-        "publisher": "Oilprice.com",
-        "url": "https://finance.yahoo.com/energy/articles/global-refiners-cutting-oil-traders-000000289.html",
-        "published": "2026-07-23T00:00:00Z"
       }
     ],
     "BHARTIARTL.NS": [
+      {
+        "title": "India's Airtel Payments Bank names Shabnam Sinha chairperson",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-airtel-payments-bank-names-124642016.html",
+        "published": "2026-08-17T12:46:42Z"
+      },
       {
         "title": "Singtel's quarterly profit tops estimates on Optus, digital services strength",
         "publisher": "Reuters",
@@ -57,12 +63,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bharti-airtel-ltd-bom-532454-010337318.html",
         "published": "2026-08-07T01:03:37Z"
-      },
-      {
-        "title": "India's Bharti Airtel posts profit rise on subscriber upgrades",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-bharti-airtel-posts-profit-110123142.html",
-        "published": "2026-08-04T11:01:23Z"
       }
     ],
     "HDFCBANK.NS": [
@@ -156,12 +156,18 @@
       },
       {
         "title": "Avaada secures $1.3bn in financing for 2.15GW renewable energy projects",
-        "publisher": "Power Technology",
-        "url": "https://finance.yahoo.com/energy/articles/avaada-secures-1-3bn-financing-085635977.html",
+        "publisher": "Energy Monitor",
+        "url": "https://finance.yahoo.com/energy/articles/avaada-secures-1-3bn-financing-085635159.html",
         "published": "2026-08-03T08:56:35Z"
       }
     ],
     "TCS.NS": [
+      {
+        "title": "India's IT outsourcing industry feels AI's impact on hiring",
+        "publisher": "Quartz",
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-outsourcing-industry-feels-ais-152111368.html",
+        "published": "2026-08-17T15:21:11Z"
+      },
       {
         "title": "India's Tata Group stocks extend slide after chairman Chandrasekaran quits",
         "publisher": "Reuters",
@@ -185,12 +191,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/technology/ai/articles/dxc-technology-co-dxc-q1-050104027.html",
         "published": "2026-07-31T05:01:04Z"
-      },
-      {
-        "title": "Rezolve AI (RZLV) Just Put Up $127 Million In First Half Revenue",
-        "publisher": "Simply Wall St.",
-        "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-rzlv-just-put-220949078.html",
-        "published": "2026-07-28T22:09:49Z"
       }
     ],
     "BAJFINANCE.NS": [
