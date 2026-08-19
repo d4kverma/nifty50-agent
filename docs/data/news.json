@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T10:38:48+00:00",
+  "updated": "2026-08-19T10:38:19+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -24,7 +24,7 @@
         "title": "India's Reliance ramps up diesel exports to Europe, Brazil in July, sources say",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-reliance-ramps-diesel-exports-100646238.html",
-        "published": "2026-07-30T10:06:46Z"
+        "published": "2026-07-31T01:54:53Z"
       },
       {
         "title": "Reliance Industries Ltd (WBO:RLI) Q1 2027 Earnings Call Highlights: Strong Revenue Growth Amid ...",
@@ -99,6 +99,24 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Track Lower in Tuesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144111972.html",
+        "published": "2026-08-18T14:41:11Z"
+      },
+      {
+        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
+        "published": "2026-08-18T13:11:34Z"
+      },
+      {
+        "title": "India's ICICI Bank, Axis Bank tap dollar debt again in less than two months, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-icici-bank-axis-bank-102907020.html",
+        "published": "2026-08-07T10:29:07Z"
+      },
+      {
         "title": "HSBC Q2 Pre-Tax Earnings Improve Y/Y on Higher Revenues, Lower Costs",
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-q2-pre-tax-earnings-145900290.html",
@@ -109,24 +127,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/state-bank-india-hsbc-icici-094537063.html",
         "published": "2026-08-03T09:45:37Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Surge in Thursday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144047810.html",
-        "published": "2026-07-30T14:40:47Z"
-      },
-      {
-        "title": "UBS Group Q2 Earnings & Revenues Increase Y/Y Despite Higher Expenses",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-group-q2-earnings-revenues-175700720.html",
-        "published": "2026-07-29T17:57:00Z"
-      },
-      {
-        "title": "Barclays Q2 Earnings & Revenues Improve Y/Y, Cost Woes Linger",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-q2-earnings-revenues-improve-144800581.html",
-        "published": "2026-07-28T14:48:00Z"
       }
     ],
     "SBIN.NS": [
@@ -213,16 +213,16 @@
         "published": "2026-07-31T19:01:39Z"
       },
       {
-        "title": "Indian shares trade flat as financials, autos counter IT pullback",
+        "title": "Indian shares notch monthly gains as AI unwind, upbeat earnings draw foreign inflows",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indian-shares-seen-opening-higher-023045799.html",
-        "published": "2026-07-31T04:52:23Z"
+        "published": "2026-07-31T10:18:29Z"
       },
       {
-        "title": "India's Bajaj Finance at record high after first-quarter profit beat",
+        "title": "India's Bajaj Finance hits record high on strong loan growth, asset quality",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bajaj-finance-record-high-043826183.html",
-        "published": "2026-07-31T04:38:26Z"
+        "published": "2026-07-31T10:15:48Z"
       }
     ],
     "LT.NS": [
@@ -265,16 +265,16 @@
         "published": "2026-07-28T19:00:30Z"
       },
       {
+        "title": "Unilever India signals more price hikes as commodity inflation persists",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/unilever-india-posts-smaller-quarterly-043627667.html",
+        "published": "2026-07-28T10:18:21Z"
+      },
+      {
         "title": "India's Swiggy names Nandita Sinha as CEO of quick commerce arm Instamart",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-swiggy-names-nandita-sinha-070820337.html",
         "published": "2026-07-28T07:24:19Z"
-      },
-      {
-        "title": "Unilever India posts lower quarterly profit as costs weigh",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/unilever-india-posts-smaller-quarterly-043627667.html",
-        "published": "2026-07-28T04:43:19Z"
       },
       {
         "title": "India Inc hikes prices, shrinks packs as Iran war squeezes margins",
@@ -290,6 +290,12 @@
       }
     ],
     "INFY.NS": [
+      {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Track Lower in Tuesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144111972.html",
+        "published": "2026-08-18T14:41:11Z"
+      },
       {
         "title": "Crocs inks AI tech deal",
         "publisher": "Retail Dive",
@@ -313,12 +319,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144900423.html",
         "published": "2026-07-28T14:49:00Z"
-      },
-      {
-        "title": "Infosys Q1 Earnings Miss Estimates, Revenues Increase Y/Y",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-q1-earnings-miss-estimates-160500537.html",
-        "published": "2026-07-24T16:05:00Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -379,10 +379,10 @@
         "published": "2026-08-09T09:07:06Z"
       },
       {
-        "title": "Maruti Suzuki India Ltd (BOM:532500) (Q1 2027) Earnings Call Highlights: Record Volumes Amid ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-india-ltd-bom-010450585.html",
-        "published": "2026-08-04T01:04:50Z"
+        "title": "India's Apollo Tyres posts quarterly profit rise on price hikes, firm demand in key markets",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-apollo-tyres-posts-quarterly-132207122.html",
+        "published": "2026-08-06T13:22:07Z"
       }
     ],
     "TITAN.NS": [
@@ -419,6 +419,12 @@
     ],
     "M&M.NS": [
       {
+        "title": "Volkswagen open to ceding majority control of India unit \u2013 report",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/small-business/articles/volkswagen-open-ceding-majority-control-102305426.html",
+        "published": "2026-08-19T10:23:05Z"
+      },
+      {
         "title": "Divgi TorqTransfer Systems Ltd (BOM:543812) (Q1 2027) Earnings Call Highlights: Navigating ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/divgi-torqtransfer-systems-ltd-bom-010531560.html",
@@ -437,16 +443,10 @@
         "published": "2026-08-01T01:04:31Z"
       },
       {
-        "title": "Indian shares trade flat as financials, autos counter IT pullback",
+        "title": "Indian shares notch monthly gains as AI unwind, upbeat earnings draw foreign inflows",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indian-shares-seen-opening-higher-023045799.html",
-        "published": "2026-07-31T04:52:23Z"
-      },
-      {
-        "title": "India's Mahindra posts quarterly profit rise on sustained SUV demand",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-mahindra-posts-quarterly-profit-074304884.html",
-        "published": "2026-07-30T07:43:04Z"
+        "published": "2026-07-31T10:18:29Z"
       }
     ],
     "ADANIENT.NS": [
@@ -466,22 +466,28 @@
         "title": "India's Adani Enterprises posts quarterly loss on US settlement charge",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-adani-enterprises-posts-second-091732477.html",
-        "published": "2026-07-29T09:31:58Z"
+        "published": "2026-07-29T10:28:16Z"
       },
       {
-        "title": "India's Adani says not evaluating proposal to enter airline business",
+        "title": "India's Adani Enterprises says not evaluating proposal to enter airline business",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-adani-says-not-evaluating-021549107.html",
-        "published": "2026-07-24T02:24:45Z"
+        "published": "2026-07-24T03:18:20Z"
       },
       {
-        "title": "Factbox-A look at billionaire Adani's businesses as he weighs starting an airline",
+        "title": "Billionaire Adani weighs airline launch in Indian duopoly market, sources say",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/factbox-look-billionaire-adanis-businesses-060808956.html",
-        "published": "2026-07-23T06:08:08Z"
+        "url": "https://finance.yahoo.com/news/indias-adani-group-considers-launching-050554840.html",
+        "published": "2026-07-23T08:20:42Z"
       }
     ],
     "KOTAKBANK.NS": [
+      {
+        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
+        "published": "2026-08-18T13:11:34Z"
+      },
       {
         "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
         "publisher": "Private Banker International",
@@ -505,12 +511,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/kotak-mahindra-bank-ltd-bom-010045699.html",
         "published": "2026-07-20T01:00:45Z"
-      },
-      {
-        "title": "India's Kotak bank reports 26% jump in Q1 profit, beats estimates",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-kotak-bank-reports-26-090724940.html",
-        "published": "2026-07-18T09:07:24Z"
       }
     ],
     "ADANIPORTS.NS": [
@@ -547,6 +547,18 @@
     ],
     "AXISBANK.NS": [
       {
+        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
+        "published": "2026-08-18T13:11:34Z"
+      },
+      {
+        "title": "India's ICICI Bank, Axis Bank tap dollar debt again in less than two months, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-icici-bank-axis-bank-102907020.html",
+        "published": "2026-08-07T10:29:07Z"
+      },
+      {
         "title": "State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/state-bank-india-hsbc-icici-094537063.html",
@@ -563,18 +575,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/axis-bank-ltd-fra-uzc-010112772.html",
         "published": "2026-07-20T01:01:12Z"
-      },
-      {
-        "title": "India's Axis Bank report 23% rise in Q1 net profit, beating estimates",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-axis-bank-report-23-064244743.html",
-        "published": "2026-07-18T06:42:44Z"
-      },
-      {
-        "title": "Indian shares rise to 10-week high; HDFC Bank leads after strong Q1 growth",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indian-shares-likely-open-higher-022746814.html",
-        "published": "2026-07-06T10:16:21Z"
       }
     ],
     "HCLTECH.NS": [
