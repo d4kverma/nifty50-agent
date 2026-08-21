@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T10:39:47+00:00",
+  "updated": "2026-08-21T10:39:41+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -99,6 +99,12 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143754359.html",
+        "published": "2026-08-20T14:37:54Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Track Lower in Tuesday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144111972.html",
@@ -121,12 +127,6 @@
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-q2-pre-tax-earnings-145900290.html",
         "published": "2026-08-04T14:59:00Z"
-      },
-      {
-        "title": "State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/state-bank-india-hsbc-icici-094537063.html",
-        "published": "2026-08-03T09:45:37Z"
       }
     ],
     "SBIN.NS": [
@@ -163,6 +163,12 @@
     ],
     "TCS.NS": [
       {
+        "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
+        "published": "2026-08-20T23:02:07Z"
+      },
+      {
         "title": "India's IT outsourcing industry feels AI's impact on hiring",
         "publisher": "Quartz",
         "url": "https://finance.yahoo.com/technology/ai/articles/indias-outsourcing-industry-feels-ais-152111368.html",
@@ -185,12 +191,6 @@
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-fourth-data-center-125248171.html",
         "published": "2026-08-06T12:52:48Z"
-      },
-      {
-        "title": "DXC Technology Co (DXC) (Q1 2027) Earnings Call Highlights: AI Momentum and Strategic Execution ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/technology/ai/articles/dxc-technology-co-dxc-q1-050104027.html",
-        "published": "2026-07-31T05:01:04Z"
       }
     ],
     "BAJFINANCE.NS": [
@@ -227,6 +227,12 @@
     ],
     "LT.NS": [
       {
+        "title": "L&T and MHI to build 50km people mover system at Al Maktoum Airport",
+        "publisher": "World Construction Network",
+        "url": "https://finance.yahoo.com/technology/articles/l-t-mhi-build-50km-100741491.html",
+        "published": "2026-08-21T10:07:41Z"
+      },
+      {
         "title": "What Does Nvidia (NVDA) Gain From Its New AI Factory Push In India?",
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-gain-ai-101028140.html",
@@ -248,12 +254,6 @@
         "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
-        "published": "2026-08-13T06:15:43Z"
-      },
-      {
-        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -291,6 +291,12 @@
     ],
     "INFY.NS": [
       {
+        "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
+        "published": "2026-08-20T23:02:07Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Track Lower in Tuesday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144111972.html",
@@ -313,12 +319,6 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-nsei-infy-stock-fair-220859737.html",
         "published": "2026-07-31T22:08:59Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144900423.html",
-        "published": "2026-07-28T14:49:00Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -419,6 +419,12 @@
     ],
     "M&M.NS": [
       {
+        "title": "Tech Mahindra, ServiceNow expand partnership to advance enterprise AI",
+        "publisher": "Verdict",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tech-mahindra-servicenow-expand-partnership-084323493.html",
+        "published": "2026-08-21T08:43:23Z"
+      },
+      {
         "title": "Volkswagen open to ceding majority control of India unit \u2013 report",
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/small-business/articles/volkswagen-open-ceding-majority-control-102305426.html",
@@ -441,12 +447,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-mahindra-ltd-mahmf-q1-010431854.html",
         "published": "2026-08-01T01:04:31Z"
-      },
-      {
-        "title": "Indian shares notch monthly gains as AI unwind, upbeat earnings draw foreign inflows",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indian-shares-seen-opening-higher-023045799.html",
-        "published": "2026-07-31T10:18:29Z"
       }
     ],
     "ADANIENT.NS": [
@@ -579,6 +579,12 @@
     ],
     "HCLTECH.NS": [
       {
+        "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
+        "published": "2026-08-20T23:02:07Z"
+      },
+      {
         "title": "India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-hcltech-sarvam-set-1-065004954.html",
@@ -601,12 +607,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-hcltech-slips-unchanged-fy27-035529751.html",
         "published": "2026-07-14T10:13:11Z"
-      },
-      {
-        "title": "HCL Technologies Ltd (BOM:532281) Q1 2027 Earnings Call Highlights: Record Bookings Amidst ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hcl-technologies-ltd-bom-532281-210026577.html",
-        "published": "2026-07-13T21:00:26Z"
       }
     ],
     "ITC.NS": [
