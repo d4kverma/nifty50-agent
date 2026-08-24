@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T10:39:41+00:00",
+  "updated": "2026-08-24T10:47:51+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "BKEAY or HDB: Which Is the Better Value Stock Right Now?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bkeay-hdb-better-value-stock-154001336.html",
+        "published": "2026-08-21T15:40:01Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144754995.html",
@@ -89,12 +95,6 @@
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-fourth-data-center-125248171.html",
         "published": "2026-08-06T12:52:48Z"
-      },
-      {
-        "title": "Microsoft opens its largest India data center hub as AI race heats up",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-largest-india-data-123312683.html",
-        "published": "2026-08-06T12:33:12Z"
       }
     ],
     "ICICIBANK.NS": [
