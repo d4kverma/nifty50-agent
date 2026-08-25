@@ -1,23 +1,17 @@
 {
-  "updated": "2026-08-24T10:47:30+00:00",
+  "updated": "2026-08-25T10:42:28+00:00",
   "analysis": {
     "RELIANCE.NS": {
-      "sma20": 1309.46,
-      "sma50": 1306.65,
-      "rsi14": 57.01,
-      "macd": 3.47,
-      "macd_signal": 3.8,
+      "sma20": 1311.93,
+      "sma50": 1306.41,
+      "rsi14": 64.1,
+      "macd": 3.49,
+      "macd_signal": 3.74,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1309 > SMA50 1307), RSI 57 not overbought.",
+      "action_reason": "Uptrend (SMA20 1312 > SMA50 1306), RSI 64 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 1533.51,
-          "sma20": 1526.95,
-          "sma50": 1459.71
-        },
         {
           "date": "2025-12-08",
           "close": 1535.9,
@@ -1091,26 +1085,26 @@
           "close": 1309.8,
           "sma20": 1309.46,
           "sma50": 1306.65
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1317.0,
+          "sma20": 1311.93,
+          "sma50": 1306.41
         }
       ]
     },
     "BHARTIARTL.NS": {
-      "sma20": 1949.49,
-      "sma50": 1906.79,
-      "rsi14": 43.91,
-      "macd": 9.58,
-      "macd_signal": 14.73,
+      "sma20": 1951.75,
+      "sma50": 1909.13,
+      "rsi14": 44.7,
+      "macd": 9.15,
+      "macd_signal": 13.61,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1949 > SMA50 1907), RSI 44 not overbought.",
+      "action_reason": "Uptrend (SMA20 1952 > SMA50 1909), RSI 45 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 2082.59,
-          "sma20": 2084.79,
-          "sma50": 2011.94
-        },
         {
           "date": "2025-12-08",
           "close": 2060.27,
@@ -2184,26 +2178,26 @@
           "close": 1935.0,
           "sma20": 1949.49,
           "sma50": 1906.79
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1947.0,
+          "sma20": 1951.75,
+          "sma50": 1909.13
         }
       ]
     },
     "HDFCBANK.NS": {
-      "sma20": 733.75,
-      "sma50": 768.57,
-      "rsi14": 33.33,
-      "macd": -11.8,
-      "macd_signal": -13.08,
+      "sma20": 733.36,
+      "sma50": 767.68,
+      "rsi14": 38.81,
+      "macd": -11.1,
+      "macd_signal": -12.69,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 734 < SMA50 769).",
+      "action_reason": "Downtrend (SMA20 733 < SMA50 768).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 986.98,
-          "sma20": 980.55,
-          "sma50": 971.8
-        },
         {
           "date": "2025-12-08",
           "close": 986.78,
@@ -3277,26 +3271,26 @@
           "close": 729.0,
           "sma20": 733.75,
           "sma50": 768.57
+        },
+        {
+          "date": "2026-08-25",
+          "close": 727.5,
+          "sma20": 733.36,
+          "sma50": 767.68
         }
       ]
     },
     "ICICIBANK.NS": {
-      "sma20": 1426.32,
-      "sma50": 1402.12,
-      "rsi14": 35.51,
-      "macd": 2.57,
-      "macd_signal": 7.19,
+      "sma20": 1426.51,
+      "sma50": 1404.11,
+      "rsi14": 40.2,
+      "macd": 2.72,
+      "macd_signal": 6.3,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1426 > SMA50 1402), RSI 36 not overbought.",
+      "action_reason": "Uptrend (SMA20 1427 > SMA50 1404), RSI 40 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 1380.86,
-          "sma20": 1364.9,
-          "sma50": 1361.34
-        },
         {
           "date": "2025-12-08",
           "close": 1377.98,
@@ -4370,26 +4364,26 @@
           "close": 1415.0,
           "sma20": 1426.32,
           "sma50": 1402.12
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1422.7,
+          "sma20": 1426.51,
+          "sma50": 1404.11
         }
       ]
     },
     "SBIN.NS": {
-      "sma20": 1053.66,
-      "sma50": 1041.43,
-      "rsi14": 48.92,
-      "macd": 4.21,
-      "macd_signal": 8.13,
+      "sma20": 1055.4,
+      "sma50": 1042.08,
+      "rsi14": 47.57,
+      "macd": 3.43,
+      "macd_signal": 7.19,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1054 > SMA50 1041), RSI 49 not overbought.",
+      "action_reason": "Uptrend (SMA20 1055 > SMA50 1042), RSI 48 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 954.3,
-          "sma20": 951.21,
-          "sma50": 909.75
-        },
         {
           "date": "2025-12-08",
           "close": 939.47,
@@ -5463,26 +5457,26 @@
           "close": 1039.5,
           "sma20": 1053.66,
           "sma50": 1041.43
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1048.0,
+          "sma20": 1055.4,
+          "sma50": 1042.08
         }
       ]
     },
     "TCS.NS": {
-      "sma20": 2376.89,
-      "sma50": 2233.01,
-      "rsi14": 31.28,
-      "macd": 9.32,
-      "macd_signal": 30.86,
+      "sma20": 2371.8,
+      "sma50": 2235.2,
+      "rsi14": 36.57,
+      "macd": 6.26,
+      "macd_signal": 25.94,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 2377 > SMA50 2233), RSI 31 not overbought.",
+      "action_reason": "Uptrend (SMA20 2372 > SMA50 2235), RSI 37 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 3120.73,
-          "sma20": 3019.44,
-          "sma50": 2937.65
-        },
         {
           "date": "2025-12-08",
           "close": 3119.09,
@@ -5505,7 +5499,7 @@
           "date": "2025-12-11",
           "close": 3076.11,
           "sma20": 3044.31,
-          "sma50": 2958.49
+          "sma50": 2958.5
         },
         {
           "date": "2025-12-12",
@@ -5564,7 +5558,7 @@
         {
           "date": "2025-12-26",
           "close": 3161.01,
-          "sma20": 3110.42,
+          "sma20": 3110.43,
           "sma50": 3016.89
         },
         {
@@ -5641,13 +5635,13 @@
         },
         {
           "date": "2026-01-14",
-          "close": 3076.68,
+          "close": 3076.69,
           "sma20": 3135.78,
           "sma50": 3068.74
         },
         {
           "date": "2026-01-15",
-          "close": 3076.68,
+          "close": 3076.69,
           "sma20": 3134.56,
           "sma50": 3072.64
         },
@@ -5821,14 +5815,14 @@
         },
         {
           "date": "2026-02-26",
-          "close": 2598.04,
+          "close": 2598.03,
           "sma20": 2784.07,
           "sma50": 2987.03
         },
         {
           "date": "2026-02-27",
           "close": 2587.93,
-          "sma20": 2760.21,
+          "sma20": 2760.2,
           "sma50": 2976.77
         },
         {
@@ -6140,7 +6134,7 @@
         {
           "date": "2026-05-19",
           "close": 2283.45,
-          "sma20": 2352.44,
+          "sma20": 2352.43,
           "sma50": 2399.35
         },
         {
@@ -6556,26 +6550,26 @@
           "close": 2284.1,
           "sma20": 2376.89,
           "sma50": 2233.01
+        },
+        {
+          "date": "2026-08-25",
+          "close": 2296.2,
+          "sma20": 2371.8,
+          "sma50": 2235.2
         }
       ]
     },
     "BAJFINANCE.NS": {
-      "sma20": 1098.97,
-      "sma50": 1044.76,
-      "rsi14": 30.65,
-      "macd": 11.88,
-      "macd_signal": 18.58,
+      "sma20": 1100.92,
+      "sma50": 1047.43,
+      "rsi14": 30.87,
+      "macd": 10.74,
+      "macd_signal": 17.01,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1099 > SMA50 1045), RSI 31 not overbought.",
+      "action_reason": "Uptrend (SMA20 1101 > SMA50 1047), RSI 31 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 1041.6,
-          "sma20": 1014.43,
-          "sma50": 1026.32
-        },
         {
           "date": "2025-12-08",
           "close": 1020.13,
@@ -7649,18 +7643,24 @@
           "close": 1077.0,
           "sma20": 1098.97,
           "sma50": 1044.76
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1087.4,
+          "sma20": 1100.92,
+          "sma50": 1047.43
         }
       ]
     },
     "LT.NS": {
-      "sma20": 4027.56,
-      "sma50": 4012.44,
-      "rsi14": 64.05,
-      "macd": 36.85,
-      "macd_signal": 30.39,
+      "sma20": 4029.01,
+      "sma50": 4013.02,
+      "rsi14": 67.03,
+      "macd": 39.16,
+      "macd_signal": 30.85,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 4028 > SMA50 4012), RSI 64 not overbought.",
+      "action_reason": "Uptrend (SMA20 4029 > SMA50 4013), RSI 67 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
         {
@@ -8738,30 +8738,24 @@
           "sma50": 4014.03
         },
         {
-          "date": "2026-08-24",
-          "close": 4090.0,
-          "sma20": 4027.56,
-          "sma50": 4012.44
+          "date": "2026-08-25",
+          "close": 4119.0,
+          "sma20": 4029.01,
+          "sma50": 4013.02
         }
       ]
     },
     "HINDUNILVR.NS": {
-      "sma20": 2070.64,
-      "sma50": 2123.65,
-      "rsi14": 33.55,
-      "macd": -28.22,
-      "macd_signal": -23.68,
+      "sma20": 2070.71,
+      "sma50": 2120.58,
+      "rsi14": 34.47,
+      "macd": -28.28,
+      "macd_signal": -24.6,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 2071 < SMA50 2124).",
+      "action_reason": "Downtrend (SMA20 2071 < SMA50 2121).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 2315.05,
-          "sma20": 2405.62,
-          "sma50": 2445.16
-        },
         {
           "date": "2025-12-08",
           "close": 2290.7,
@@ -9835,26 +9829,26 @@
           "close": 2030.0,
           "sma20": 2070.64,
           "sma50": 2123.65
+        },
+        {
+          "date": "2026-08-25",
+          "close": 2024.2,
+          "sma20": 2070.71,
+          "sma50": 2120.58
         }
       ]
     },
     "INFY.NS": {
-      "sma20": 1152.89,
-      "sma50": 1100.3,
-      "rsi14": 37.49,
-      "macd": 6.46,
-      "macd_signal": 13.87,
+      "sma20": 1154.8,
+      "sma50": 1100.31,
+      "rsi14": 40.47,
+      "macd": 6.38,
+      "macd_signal": 12.37,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1153 > SMA50 1100), RSI 37 not overbought.",
+      "action_reason": "Uptrend (SMA20 1155 > SMA50 1100), RSI 40 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 1581.97,
-          "sma20": 1514.1,
-          "sma50": 1465.74
-        },
         {
           "date": "2025-12-08",
           "close": 1576.68,
@@ -10928,18 +10922,24 @@
           "close": 1130.0,
           "sma20": 1152.89,
           "sma50": 1100.3
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1144.0,
+          "sma20": 1154.8,
+          "sma50": 1100.31
         }
       ]
     },
     "SUNPHARMA.NS": {
-      "sma20": 1939.38,
-      "sma50": 1914.32,
-      "rsi14": 32.35,
-      "macd": -7.35,
-      "macd_signal": -0.14,
+      "sma20": 1939.98,
+      "sma50": 1914.56,
+      "rsi14": 37.27,
+      "macd": -6.4,
+      "macd_signal": 0.06,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1939 > SMA50 1914), RSI 32 not overbought.",
+      "action_reason": "Uptrend (SMA20 1940 > SMA50 1915), RSI 37 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
         {
@@ -12017,22 +12017,22 @@
           "sma50": 1912.14
         },
         {
-          "date": "2026-08-24",
-          "close": 1910.0,
-          "sma20": 1939.38,
-          "sma50": 1914.32
+          "date": "2026-08-25",
+          "close": 1922.0,
+          "sma20": 1939.98,
+          "sma50": 1914.56
         }
       ]
     },
     "MARUTI.NS": {
-      "sma20": 13875.59,
-      "sma50": 13719.33,
-      "rsi14": 32.64,
-      "macd": -3.76,
-      "macd_signal": 46.51,
+      "sma20": 13878.49,
+      "sma50": 13720.49,
+      "rsi14": 35.82,
+      "macd": 0.87,
+      "macd_signal": 47.44,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 13876 > SMA50 13719), RSI 33 not overbought.",
+      "action_reason": "Uptrend (SMA20 13878 > SMA50 13720), RSI 36 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
         {
@@ -13110,22 +13110,22 @@
           "sma50": 13720.29
         },
         {
-          "date": "2026-08-24",
-          "close": 13620.0,
-          "sma20": 13875.59,
-          "sma50": 13719.33
+          "date": "2026-08-25",
+          "close": 13678.0,
+          "sma20": 13878.49,
+          "sma50": 13720.49
         }
       ]
     },
     "TITAN.NS": {
-      "sma20": 5003.33,
-      "sma50": 4698.92,
-      "rsi14": 64.38,
-      "macd": 113.77,
-      "macd_signal": 128.09,
+      "sma20": 5005.62,
+      "sma50": 4699.84,
+      "rsi14": 67.82,
+      "macd": 117.42,
+      "macd_signal": 128.82,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 5003 > SMA50 4699), RSI 64 not overbought.",
+      "action_reason": "Uptrend (SMA20 5006 > SMA50 4700), RSI 68 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
         {
@@ -14203,30 +14203,24 @@
           "sma50": 4682.73
         },
         {
-          "date": "2026-08-24",
-          "close": 5079.0,
-          "sma20": 5003.33,
-          "sma50": 4698.92
+          "date": "2026-08-25",
+          "close": 5124.8,
+          "sma20": 5005.62,
+          "sma50": 4699.84
         }
       ]
     },
     "M&M.NS": {
-      "sma20": 3405.77,
-      "sma50": 3236.62,
-      "rsi14": 47.75,
-      "macd": 54.13,
-      "macd_signal": 66.83,
+      "sma20": 3414.36,
+      "sma50": 3243.38,
+      "rsi14": 48.55,
+      "macd": 52.71,
+      "macd_signal": 64.01,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 3406 > SMA50 3237), RSI 48 not overbought.",
+      "action_reason": "Uptrend (SMA20 3414 > SMA50 3243), RSI 49 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 3678.47,
-          "sma20": 3669.72,
-          "sma50": 3562.06
-        },
         {
           "date": "2025-12-08",
           "close": 3643.44,
@@ -15300,26 +15294,26 @@
           "close": 3414.1,
           "sma20": 3405.77,
           "sma50": 3236.62
+        },
+        {
+          "date": "2026-08-25",
+          "close": 3443.0,
+          "sma20": 3414.36,
+          "sma50": 3243.38
         }
       ]
     },
     "ADANIENT.NS": {
-      "sma20": 3014.06,
-      "sma50": 3058.92,
-      "rsi14": 37.67,
-      "macd": -16.48,
-      "macd_signal": -14.58,
+      "sma20": 3019.45,
+      "sma50": 3062.24,
+      "rsi14": 59.38,
+      "macd": -6.98,
+      "macd_signal": -13.06,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 3014 < SMA50 3059).",
+      "action_reason": "Downtrend (SMA20 3019 < SMA50 3062).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 2264.39,
-          "sma20": 2339.51,
-          "sma50": 2447.25
-        },
         {
           "date": "2025-12-08",
           "close": 2215.21,
@@ -16393,15 +16387,21 @@
           "close": 2998.6,
           "sma20": 3014.06,
           "sma50": 3058.92
+        },
+        {
+          "date": "2026-08-25",
+          "close": 3110.0,
+          "sma20": 3019.45,
+          "sma50": 3062.24
         }
       ]
     },
     "KOTAKBANK.NS": {
-      "sma20": 393.4,
-      "sma50": 391.55,
-      "rsi14": 53.99,
-      "macd": 2.49,
-      "macd_signal": 1.6,
+      "sma20": 393.41,
+      "sma50": 391.56,
+      "rsi14": 54.18,
+      "macd": 2.5,
+      "macd_signal": 1.61,
       "signal": "Bullish",
       "action": "BUY",
       "action_reason": "Uptrend (SMA20 393 > SMA50 392), RSI 54 not overbought.",
@@ -17482,30 +17482,24 @@
           "sma50": 391.62
         },
         {
-          "date": "2026-08-24",
-          "close": 401.45,
-          "sma20": 393.4,
-          "sma50": 391.55
+          "date": "2026-08-25",
+          "close": 401.6,
+          "sma20": 393.41,
+          "sma50": 391.56
         }
       ]
     },
     "ADANIPORTS.NS": {
-      "sma20": 1692.34,
-      "sma50": 1769.07,
-      "rsi14": 38.82,
-      "macd": -24.14,
-      "macd_signal": -27.93,
+      "sma20": 1688.74,
+      "sma50": 1766.69,
+      "rsi14": 50.76,
+      "macd": -21.37,
+      "macd_signal": -26.62,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 1692 < SMA50 1769).",
+      "action_reason": "Downtrend (SMA20 1689 < SMA50 1767).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 1503.07,
-          "sma20": 1491.66,
-          "sma50": 1451.75
-        },
         {
           "date": "2025-12-08",
           "close": 1474.29,
@@ -18579,26 +18573,26 @@
           "close": 1672.1,
           "sma20": 1692.34,
           "sma50": 1769.07
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1702.7,
+          "sma20": 1688.74,
+          "sma50": 1766.69
         }
       ]
     },
     "AXISBANK.NS": {
-      "sma20": 1239.17,
-      "sma50": 1289.27,
-      "rsi14": 40.24,
-      "macd": -11.0,
-      "macd_signal": -14.72,
+      "sma20": 1239.75,
+      "sma50": 1286.67,
+      "rsi14": 42.46,
+      "macd": -10.54,
+      "macd_signal": -13.88,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 1239 < SMA50 1289).",
+      "action_reason": "Downtrend (SMA20 1240 < SMA50 1287).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 1281.51,
-          "sma20": 1260.71,
-          "sma50": 1224.54
-        },
         {
           "date": "2025-12-08",
           "close": 1272.82,
@@ -19672,26 +19666,26 @@
           "close": 1236.0,
           "sma20": 1239.17,
           "sma50": 1289.27
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1235.0,
+          "sma20": 1239.75,
+          "sma50": 1286.67
         }
       ]
     },
     "HCLTECH.NS": {
-      "sma20": 1342.99,
-      "sma50": 1228.31,
-      "rsi14": 38.62,
-      "macd": 21.98,
-      "macd_signal": 34.25,
+      "sma20": 1342.85,
+      "sma50": 1231.68,
+      "rsi14": 41.31,
+      "macd": 19.5,
+      "macd_signal": 31.3,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1343 > SMA50 1228), RSI 39 not overbought.",
+      "action_reason": "Uptrend (SMA20 1343 > SMA50 1232), RSI 41 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 1622.94,
-          "sma20": 1559.98,
-          "sma50": 1477.45
-        },
         {
           "date": "2025-12-08",
           "close": 1628.34,
@@ -20212,7 +20206,7 @@
           "date": "2026-04-16",
           "close": 1408.58,
           "sma20": 1349.19,
-          "sma50": 1393.56
+          "sma50": 1393.55
         },
         {
           "date": "2026-04-17",
@@ -20765,26 +20759,26 @@
           "close": 1322.0,
           "sma20": 1342.99,
           "sma50": 1228.31
+        },
+        {
+          "date": "2026-08-25",
+          "close": 1315.8,
+          "sma20": 1342.85,
+          "sma50": 1231.68
         }
       ]
     },
     "ITC.NS": {
-      "sma20": 279.36,
-      "sma50": 283.22,
-      "rsi14": 21.78,
-      "macd": -4.0,
-      "macd_signal": -2.79,
+      "sma20": 278.7,
+      "sma50": 282.82,
+      "rsi14": 27.03,
+      "macd": -3.92,
+      "macd_signal": -3.02,
       "signal": "Neutral",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 279 < SMA50 283) , RSI oversold at 22.",
+      "action_reason": "Downtrend (SMA20 279 < SMA50 283) , RSI oversold at 27.",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-05",
-          "close": 386.12,
-          "sma20": 385.78,
-          "sma50": 387.6
-        },
         {
           "date": "2025-12-08",
           "close": 383.59,
@@ -21858,6 +21852,12 @@
           "close": 269.7,
           "sma20": 279.36,
           "sma50": 283.22
+        },
+        {
+          "date": "2026-08-25",
+          "close": 271.4,
+          "sma20": 278.7,
+          "sma50": 282.82
         }
       ]
     }

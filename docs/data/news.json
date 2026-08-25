@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T10:47:51+00:00",
+  "updated": "2026-08-25T10:42:50+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
+        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
+        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -419,6 +419,12 @@
     ],
     "M&M.NS": [
       {
+        "title": "ServiceNow (NOW) Expands Multiyear AI Partnership For Enterprise Deployments",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-expands-multiyear-ai-151138392.html",
+        "published": "2026-08-24T15:11:38Z"
+      },
+      {
         "title": "Tech Mahindra, ServiceNow expand partnership to advance enterprise AI",
         "publisher": "Verdict",
         "url": "https://finance.yahoo.com/technology/ai/articles/tech-mahindra-servicenow-expand-partnership-084323493.html",
@@ -441,12 +447,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
         "published": "2026-08-13T06:01:20Z"
-      },
-      {
-        "title": "Mahindra & Mahindra Ltd (MAHMF) (Q1 2027) Earnings Call Highlights: Strong Profit Growth ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-mahindra-ltd-mahmf-q1-010431854.html",
-        "published": "2026-08-01T01:04:31Z"
       }
     ],
     "ADANIENT.NS": [
@@ -547,6 +547,12 @@
     ],
     "AXISBANK.NS": [
       {
+        "title": "India's Axis Bank bets on data centres to gold loans to outpace industry credit growth",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-axis-bank-bets-data-065341753.html",
+        "published": "2026-08-25T08:45:39Z"
+      },
+      {
         "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
@@ -569,12 +575,6 @@
         "publisher": "Barchart",
         "url": "https://finance.yahoo.com/markets/stocks/articles/india-private-sector-banks-sold-181344955.html",
         "published": "2026-07-21T18:13:44Z"
-      },
-      {
-        "title": "Axis Bank Ltd (FRA:UZC) Q1 2027 Earnings Call Highlights: Strong Advances and Profit Growth ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/axis-bank-ltd-fra-uzc-010112772.html",
-        "published": "2026-07-20T01:01:12Z"
       }
     ],
     "HCLTECH.NS": [
