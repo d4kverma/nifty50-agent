@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:42:50+00:00",
+  "updated": "2026-08-26T10:45:01+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -99,6 +99,12 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144411158.html",
+        "published": "2026-08-25T14:44:11Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143754359.html",
@@ -121,12 +127,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-icici-bank-axis-bank-102907020.html",
         "published": "2026-08-07T10:29:07Z"
-      },
-      {
-        "title": "HSBC Q2 Pre-Tax Earnings Improve Y/Y on Higher Revenues, Lower Costs",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-q2-pre-tax-earnings-145900290.html",
-        "published": "2026-08-04T14:59:00Z"
       }
     ],
     "SBIN.NS": [
@@ -163,6 +163,24 @@
     ],
     "TCS.NS": [
       {
+        "title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
+        "publisher": "Bloomberg",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-deflate-value-25-hexaware-013005383.html",
+        "published": "2026-08-26T01:30:05Z"
+      },
+      {
+        "title": "Porsche sharpens focus on core business with MHP sale to India\u2019s TCS",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/technology/ai/articles/porsche-sharpens-focus-core-business-180245000.html",
+        "published": "2026-08-25T18:02:45Z"
+      },
+      {
+        "title": "Porsche sells MHP consulting unit to TCS in $1.5 billion AI deal",
+        "publisher": "Quartz",
+        "url": "https://finance.yahoo.com/technology/ai/articles/porsche-sells-mhp-consulting-unit-125425554.html",
+        "published": "2026-08-25T12:54:25Z"
+      },
+      {
         "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
@@ -173,24 +191,6 @@
         "publisher": "Quartz",
         "url": "https://finance.yahoo.com/technology/ai/articles/indias-outsourcing-industry-feels-ais-152111368.html",
         "published": "2026-08-17T15:21:11Z"
-      },
-      {
-        "title": "India's Tata Group stocks extend slide after chairman Chandrasekaran quits",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-tata-group-stocks-tumble-055139723.html",
-        "published": "2026-08-12T06:09:13Z"
-      },
-      {
-        "title": "India's TCS says received alerts alleging exposure of some employee data",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-tcs-says-received-alerts-104707300.html",
-        "published": "2026-08-10T10:49:56Z"
-      },
-      {
-        "title": "Microsoft Opens Fourth Data Center Region in India for Azure",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-fourth-data-center-125248171.html",
-        "published": "2026-08-06T12:52:48Z"
       }
     ],
     "BAJFINANCE.NS": [
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -291,6 +291,12 @@
     ],
     "INFY.NS": [
       {
+        "title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
+        "publisher": "Bloomberg",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-deflate-value-25-hexaware-013005383.html",
+        "published": "2026-08-26T01:30:05Z"
+      },
+      {
         "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
@@ -313,12 +319,6 @@
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-fourth-data-center-125248171.html",
         "published": "2026-08-06T12:52:48Z"
-      },
-      {
-        "title": "Infosys (NSEI:INFY) Stock Fair Value Falls After Analysts Cut Targets On Weaker Outlook",
-        "publisher": "Simply Wall St.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-nsei-infy-stock-fair-220859737.html",
-        "published": "2026-07-31T22:08:59Z"
       }
     ],
     "SUNPHARMA.NS": [
