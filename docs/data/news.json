@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:45:01+00:00",
+  "updated": "2026-08-27T20:18:49+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "India's HDFC Bank slips to 2-1/2-year low as legal, leadership woes linger",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-hdfc-bank-slips-2-091645918.html",
+        "published": "2026-08-27T10:44:12Z"
+      },
+      {
         "title": "BKEAY or HDB: Which Is the Better Value Stock Right Now?",
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bkeay-hdb-better-value-stock-154001336.html",
@@ -89,15 +95,21 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/technology/articles/microsofts-india-cloud-bet-just-200350013.html",
         "published": "2026-08-06T20:03:50Z"
-      },
-      {
-        "title": "Microsoft Opens Fourth Data Center Region in India for Azure",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-fourth-data-center-125248171.html",
-        "published": "2026-08-06T12:52:48Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Head Slightly Lower in Thursday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145341703.html",
+        "published": "2026-08-27T14:53:41Z"
+      },
+      {
+        "title": "Prudential to sell 2% stake in ICICI Prudential AMC worth about $333 million",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/prudential-sell-2-stake-icici-104449355.html",
+        "published": "2026-08-26T10:44:49Z"
+      },
       {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading",
         "publisher": "MT Newswires",
@@ -111,22 +123,10 @@
         "published": "2026-08-20T14:37:54Z"
       },
       {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Track Lower in Tuesday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144111972.html",
-        "published": "2026-08-18T14:41:11Z"
-      },
-      {
-        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "title": "Swiggy shareholders back move for Indian-owned status",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
-        "published": "2026-08-18T13:11:34Z"
-      },
-      {
-        "title": "India's ICICI Bank, Axis Bank tap dollar debt again in less than two months, bankers say",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-icici-bank-axis-bank-102907020.html",
-        "published": "2026-08-07T10:29:07Z"
+        "url": "https://finance.yahoo.com/news/swiggy-shareholders-back-move-indian-144538379.html",
+        "published": "2026-08-18T15:37:49Z"
       }
     ],
     "SBIN.NS": [
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
+        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
+        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -291,6 +291,18 @@
     ],
     "INFY.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Head Slightly Lower in Thursday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145341703.html",
+        "published": "2026-08-27T14:53:41Z"
+      },
+      {
+        "title": "CIOs are still waiting for AI\u2019s cost savings",
+        "publisher": "CIO Dive",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cios-still-waiting-ai-cost-160055325.html",
+        "published": "2026-08-26T16:00:55Z"
+      },
+      {
         "title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-deflate-value-25-hexaware-013005383.html",
@@ -307,18 +319,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144111972.html",
         "published": "2026-08-18T14:41:11Z"
-      },
-      {
-        "title": "Crocs inks AI tech deal",
-        "publisher": "Retail Dive",
-        "url": "https://finance.yahoo.com/technology/ai/articles/crocs-inks-ai-tech-deal-103300984.html",
-        "published": "2026-08-13T10:33:00Z"
-      },
-      {
-        "title": "Microsoft Opens Fourth Data Center Region in India for Azure",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-opens-fourth-data-center-125248171.html",
-        "published": "2026-08-06T12:52:48Z"
       }
     ],
     "SUNPHARMA.NS": [
