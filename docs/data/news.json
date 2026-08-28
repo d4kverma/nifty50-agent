@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T20:18:49+00:00",
+  "updated": "2026-08-28T21:10:32+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading, Up 2% for Week",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143711971.html",
+        "published": "2026-08-28T14:37:11Z"
+      },
+      {
         "title": "India's HDFC Bank slips to 2-1/2-year low as legal, leadership woes linger",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-hdfc-bank-slips-2-091645918.html",
@@ -89,12 +95,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
         "published": "2026-08-07T06:53:14Z"
-      },
-      {
-        "title": "Microsoft's India Cloud Bet Just Got Much Bigger",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/technology/articles/microsofts-india-cloud-bet-just-200350013.html",
-        "published": "2026-08-06T20:03:50Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
