@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T21:10:32+00:00",
+  "updated": "2026-08-31T17:32:46+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -99,6 +99,12 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144332208.html",
+        "published": "2026-08-31T14:43:32Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Head Slightly Lower in Thursday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145341703.html",
@@ -121,12 +127,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143754359.html",
         "published": "2026-08-20T14:37:54Z"
-      },
-      {
-        "title": "Swiggy shareholders back move for Indian-owned status",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/swiggy-shareholders-back-move-indian-144538379.html",
-        "published": "2026-08-18T15:37:49Z"
       }
     ],
     "SBIN.NS": [
@@ -163,6 +163,12 @@
     ],
     "TCS.NS": [
       {
+        "title": "Porsche (XTRA:P911) Stock May Be 13% Undervalued Following Its MHP Sale",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-xtra-p911-stock-may-141357892.html",
+        "published": "2026-08-29T14:13:57Z"
+      },
+      {
         "title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-deflate-value-25-hexaware-013005383.html",
@@ -185,12 +191,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
         "published": "2026-08-20T23:02:07Z"
-      },
-      {
-        "title": "India's IT outsourcing industry feels AI's impact on hiring",
-        "publisher": "Quartz",
-        "url": "https://finance.yahoo.com/technology/ai/articles/indias-outsourcing-industry-feels-ais-152111368.html",
-        "published": "2026-08-17T15:21:11Z"
       }
     ],
     "BAJFINANCE.NS": [
