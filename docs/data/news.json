@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T14:21:19+00:00",
+  "updated": "2026-09-03T14:24:31+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -99,6 +99,12 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143931763.html",
+        "published": "2026-09-02T14:39:31Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144332208.html",
@@ -121,12 +127,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144411158.html",
         "published": "2026-08-25T14:44:11Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143754359.html",
-        "published": "2026-08-20T14:37:54Z"
       }
     ],
     "SBIN.NS": [
@@ -156,12 +156,18 @@
       },
       {
         "title": "Avaada secures $1.3bn in financing for 2.15GW renewable energy projects",
-        "publisher": "Energy Monitor",
-        "url": "https://finance.yahoo.com/energy/articles/avaada-secures-1-3bn-financing-085635159.html",
+        "publisher": "Power Technology",
+        "url": "https://finance.yahoo.com/energy/articles/avaada-secures-1-3bn-financing-085635977.html",
         "published": "2026-08-03T08:56:35Z"
       }
     ],
     "TCS.NS": [
+      {
+        "title": "Rezolve\u2019s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-rzlv-revenue-surge-turning-084132796.html",
+        "published": "2026-09-03T08:41:32Z"
+      },
       {
         "title": "RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith",
         "publisher": "Stocktwits",
@@ -185,12 +191,6 @@
         "publisher": "Stocktwits",
         "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-ai-stock-drops-net-141501147.html",
         "published": "2026-09-01T14:15:01Z"
-      },
-      {
-        "title": "Rezolve AI H1 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-h1-earnings-call-140336076.html",
-        "published": "2026-09-01T14:03:36Z"
       }
     ],
     "BAJFINANCE.NS": [
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
+        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
+        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -323,6 +323,12 @@
     ],
     "SUNPHARMA.NS": [
       {
+        "title": "Trump Expands Drug Pricing Deals With 9 Pharma Companies, Bringing Total to 26 \u2014 RFK Jr. Details 'Very, Very Emotional' Conversations With President",
+        "publisher": "Benzinga",
+        "url": "https://finance.yahoo.com/healthcare/articles/trump-expands-drug-pricing-deals-220007792.html",
+        "published": "2026-09-02T22:00:07Z"
+      },
+      {
         "title": "Trump's MFN Push Goes Beyond Big Pharma, Adds 9 Mid-Sized Drugmakers",
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/healthcare/articles/trumps-mfn-push-goes-beyond-163500680.html",
@@ -345,12 +351,6 @@
         "publisher": "Stocktwits",
         "url": "https://finance.yahoo.com/healthcare/articles/19-6b-infusion-us-plants-224359435.html",
         "published": "2026-08-31T22:43:59Z"
-      },
-      {
-        "title": "Trump Strikes Medicaid Drug Price Deals With Nine Pharma Firms",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/healthcare/articles/trump-strikes-medicaid-drug-price-193421815.html",
-        "published": "2026-08-31T19:34:21Z"
       }
     ],
     "MARUTI.NS": [
@@ -545,7 +545,38 @@
         "published": "2026-06-30T03:38:02Z"
       }
     ],
-    "AXISBANK.NS": [],
+    "AXISBANK.NS": [
+      {
+        "title": "India's Axis Bank bets on data centres to gold loans to outpace industry credit growth",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-axis-bank-bets-data-065341753.html",
+        "published": "2026-08-25T08:45:39Z"
+      },
+      {
+        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
+        "published": "2026-08-18T13:11:34Z"
+      },
+      {
+        "title": "India's ICICI Bank, Axis Bank tap dollar debt again in less than two months, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-icici-bank-axis-bank-102907020.html",
+        "published": "2026-08-07T10:29:07Z"
+      },
+      {
+        "title": "State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/state-bank-india-hsbc-icici-094537063.html",
+        "published": "2026-08-03T09:45:37Z"
+      },
+      {
+        "title": "India\u2019s Private-Sector Banks Sold Off on NIM Fears. Ignore the Panic and Buy the Dip in HDFC Stock Here.",
+        "publisher": "Barchart",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/india-private-sector-banks-sold-181344955.html",
+        "published": "2026-07-21T18:13:44Z"
+      }
+    ],
     "HCLTECH.NS": [
       {
         "title": "AI reshapes India's IT services sector contracts as clients demand more for less",

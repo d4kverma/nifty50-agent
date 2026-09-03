@@ -1,23 +1,17 @@
 {
-  "updated": "2026-09-02T14:20:58+00:00",
+  "updated": "2026-09-03T14:24:08+00:00",
   "analysis": {
     "RELIANCE.NS": {
-      "sma20": 1311.92,
-      "sma50": 1303.34,
-      "rsi14": 48.55,
-      "macd": -1.89,
-      "macd_signal": -0.55,
+      "sma20": 1310.79,
+      "sma50": 1303.03,
+      "rsi14": 47.28,
+      "macd": -1.8,
+      "macd_signal": -0.8,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1312 > SMA50 1303), RSI 49 not overbought.",
+      "action_reason": "Uptrend (SMA20 1311 > SMA50 1303), RSI 47 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 1535.2,
-          "sma20": 1539.27,
-          "sma50": 1483.75
-        },
         {
           "date": "2025-12-17",
           "close": 1537.29,
@@ -1091,26 +1085,26 @@
           "close": 1313.1,
           "sma20": 1311.92,
           "sma50": 1303.34
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1302.5,
+          "sma20": 1310.79,
+          "sma50": 1303.03
         }
       ]
     },
     "BHARTIARTL.NS": {
-      "sma20": 1922.61,
-      "sma50": 1909.11,
-      "rsi14": 40.3,
-      "macd": -15.39,
-      "macd_signal": -3.24,
+      "sma20": 1918.66,
+      "sma50": 1909.94,
+      "rsi14": 32.23,
+      "macd": -16.29,
+      "macd_signal": -5.85,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1923 > SMA50 1909), RSI 40 not overbought.",
+      "action_reason": "Uptrend (SMA20 1919 > SMA50 1910), RSI 32 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 2075.87,
-          "sma20": 2082.89,
-          "sma50": 2036.1
-        },
         {
           "date": "2025-12-17",
           "close": 2081.8,
@@ -2184,26 +2178,26 @@
           "close": 1862.8,
           "sma20": 1922.61,
           "sma50": 1909.11
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1869.0,
+          "sma20": 1918.66,
+          "sma50": 1909.94
         }
       ]
     },
     "HDFCBANK.NS": {
-      "sma20": 723.35,
-      "sma50": 759.39,
-      "rsi14": 33.78,
-      "macd": -12.09,
-      "macd_signal": -11.69,
+      "sma20": 721.97,
+      "sma50": 757.6,
+      "rsi14": 37.03,
+      "macd": -12.1,
+      "macd_signal": -11.77,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 723 < SMA50 759).",
+      "action_reason": "Downtrend (SMA20 722 < SMA50 758).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 978.12,
-          "sma20": 983.07,
-          "sma50": 977.79
-        },
         {
           "date": "2025-12-17",
           "close": 967.99,
@@ -3277,26 +3271,26 @@
           "close": 700.8,
           "sma20": 723.35,
           "sma50": 759.39
+        },
+        {
+          "date": "2026-09-03",
+          "close": 706.65,
+          "sma20": 721.97,
+          "sma50": 757.6
         }
       ]
     },
     "ICICIBANK.NS": {
-      "sma20": 1425.43,
-      "sma50": 1415.96,
-      "rsi14": 56.35,
-      "macd": 5.98,
-      "macd_signal": 5.84,
+      "sma20": 1424.06,
+      "sma50": 1417.04,
+      "rsi14": 54.38,
+      "macd": 5.58,
+      "macd_signal": 5.79,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1425 > SMA50 1416), RSI 56 not overbought.",
+      "action_reason": "Uptrend (SMA20 1424 > SMA50 1417), RSI 54 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 1354.58,
-          "sma20": 1365.35,
-          "sma50": 1362.01
-        },
         {
           "date": "2025-12-17",
           "close": 1341.09,
@@ -4370,26 +4364,26 @@
           "close": 1426.5,
           "sma20": 1425.43,
           "sma50": 1415.96
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1430.0,
+          "sma20": 1424.06,
+          "sma50": 1417.04
         }
       ]
     },
     "SBIN.NS": {
-      "sma20": 1057.83,
-      "sma50": 1043.16,
-      "rsi14": 24.69,
-      "macd": -1.67,
-      "macd_signal": 2.48,
+      "sma20": 1054.75,
+      "sma50": 1042.72,
+      "rsi14": 29.85,
+      "macd": -3.27,
+      "macd_signal": 1.33,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1058 > SMA50 1043), RSI 25 not overbought.",
+      "action_reason": "Uptrend (SMA20 1055 > SMA50 1043), RSI 30 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 944.13,
-          "sma20": 951.26,
-          "sma50": 922.94
-        },
         {
           "date": "2025-12-17",
           "close": 958.57,
@@ -5463,26 +5457,26 @@
           "close": 1020.9,
           "sma20": 1057.83,
           "sma50": 1043.16
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1023.4,
+          "sma20": 1054.75,
+          "sma50": 1042.72
         }
       ]
     },
     "TCS.NS": {
-      "sma20": 2341.1,
-      "sma50": 2259.18,
-      "rsi14": 46.6,
-      "macd": 10.75,
-      "macd_signal": 11.24,
+      "sma20": 2338.45,
+      "sma50": 2263.91,
+      "rsi14": 45.02,
+      "macd": 8.92,
+      "macd_signal": 10.78,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 2341 > SMA50 2259), RSI 47 not overbought.",
+      "action_reason": "Uptrend (SMA20 2338 > SMA50 2264), RSI 45 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 3088.83,
-          "sma20": 3061.68,
-          "sma50": 2977.45
-        },
         {
           "date": "2025-12-17",
           "close": 3101.07,
@@ -5599,13 +5593,13 @@
         },
         {
           "date": "2026-01-14",
-          "close": 3076.68,
+          "close": 3076.69,
           "sma20": 3135.78,
           "sma50": 3068.74
         },
         {
           "date": "2026-01-15",
-          "close": 3076.68,
+          "close": 3076.69,
           "sma20": 3134.56,
           "sma50": 3072.64
         },
@@ -6556,26 +6550,26 @@
           "close": 2348.0,
           "sma20": 2341.1,
           "sma50": 2259.18
+        },
+        {
+          "date": "2026-09-03",
+          "close": 2320.1,
+          "sma20": 2338.45,
+          "sma50": 2263.91
         }
       ]
     },
     "BAJFINANCE.NS": {
-      "sma20": 1086.16,
-      "sma50": 1060.42,
-      "rsi14": 33.21,
-      "macd": -0.34,
-      "macd_signal": 7.2,
+      "sma20": 1081.37,
+      "sma50": 1061.91,
+      "rsi14": 32.24,
+      "macd": -2.36,
+      "macd_signal": 5.28,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1086 > SMA50 1060), RSI 33 not overbought.",
+      "action_reason": "Uptrend (SMA20 1081 > SMA50 1062), RSI 32 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 992.3,
-          "sma20": 1010.48,
-          "sma50": 1028.18
-        },
         {
           "date": "2025-12-17",
           "close": 993.49,
@@ -7649,26 +7643,26 @@
           "close": 1055.9,
           "sma20": 1086.16,
           "sma50": 1060.42
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1049.0,
+          "sma20": 1081.37,
+          "sma50": 1061.91
         }
       ]
     },
     "LT.NS": {
-      "sma20": 4053.76,
-      "sma50": 3990.04,
-      "rsi14": 37.18,
-      "macd": 9.56,
-      "macd_signal": 23.02,
+      "sma20": 4049.42,
+      "sma50": 3985.21,
+      "rsi14": 38.02,
+      "macd": 4.27,
+      "macd_signal": 19.27,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 4054 > SMA50 3990), RSI 37 not overbought.",
+      "action_reason": "Uptrend (SMA20 4049 > SMA50 3985), RSI 38 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 4024.49,
-          "sma20": 3992.89,
-          "sma50": 3910.21
-        },
         {
           "date": "2025-12-17",
           "close": 4023.1,
@@ -8742,26 +8736,26 @@
           "close": 3981.0,
           "sma20": 4053.76,
           "sma50": 3990.04
+        },
+        {
+          "date": "2026-09-03",
+          "close": 3975.0,
+          "sma20": 4049.42,
+          "sma50": 3985.21
         }
       ]
     },
     "HINDUNILVR.NS": {
-      "sma20": 2037.25,
-      "sma50": 2099.64,
-      "rsi14": 23.31,
-      "macd": -33.09,
-      "macd_signal": -29.46,
+      "sma20": 2031.38,
+      "sma50": 2095.39,
+      "rsi14": 23.53,
+      "macd": -34.65,
+      "macd_signal": -30.5,
       "signal": "Neutral",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 2037 < SMA50 2100) , RSI oversold at 23.",
+      "action_reason": "Downtrend (SMA20 2031 < SMA50 2095) , RSI oversold at 24.",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 2258.13,
-          "sma20": 2362.95,
-          "sma50": 2415.62
-        },
         {
           "date": "2025-12-17",
           "close": 2252.69,
@@ -9835,26 +9829,26 @@
           "close": 1975.0,
           "sma20": 2037.25,
           "sma50": 2099.64
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1962.0,
+          "sma20": 2031.38,
+          "sma50": 2095.39
         }
       ]
     },
     "INFY.NS": {
-      "sma20": 1146.92,
-      "sma50": 1106.65,
-      "rsi14": 42.11,
-      "macd": 3.87,
-      "macd_signal": 5.69,
+      "sma20": 1145.19,
+      "sma50": 1108.43,
+      "rsi14": 41.38,
+      "macd": 2.97,
+      "macd_signal": 5.14,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1147 > SMA50 1107), RSI 42 not overbought.",
+      "action_reason": "Uptrend (SMA20 1145 > SMA50 1108), RSI 41 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 1559.16,
-          "sma20": 1541.33,
-          "sma50": 1488.06
-        },
         {
           "date": "2025-12-17",
           "close": 1568.07,
@@ -10928,26 +10922,26 @@
           "close": 1140.0,
           "sma20": 1146.92,
           "sma50": 1106.65
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1130.3,
+          "sma20": 1145.19,
+          "sma50": 1108.43
         }
       ]
     },
     "SUNPHARMA.NS": {
-      "sma20": 1923.11,
-      "sma50": 1927.21,
-      "rsi14": 49.95,
-      "macd": 0.83,
-      "macd_signal": -1.73,
+      "sma20": 1921.36,
+      "sma50": 1928.37,
+      "rsi14": 47.56,
+      "macd": -0.12,
+      "macd_signal": -1.41,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 1923 < SMA50 1927).",
+      "action_reason": "Downtrend (SMA20 1921 < SMA50 1928).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 1765.18,
-          "sma20": 1779.72,
-          "sma50": 1718.3
-        },
         {
           "date": "2025-12-17",
           "close": 1776.67,
@@ -12021,26 +12015,26 @@
           "close": 1931.7,
           "sma20": 1923.11,
           "sma50": 1927.21
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1916.0,
+          "sma20": 1921.36,
+          "sma50": 1928.37
         }
       ]
     },
     "MARUTI.NS": {
-      "sma20": 13658.65,
-      "sma50": 13718.89,
-      "rsi14": 21.64,
-      "macd": -160.31,
-      "macd_signal": -62.65,
+      "sma20": 13604.5,
+      "sma50": 13703.86,
+      "rsi14": 22.85,
+      "macd": -192.47,
+      "macd_signal": -88.62,
       "signal": "Neutral",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 13659 < SMA50 13719) , RSI oversold at 22.",
+      "action_reason": "Downtrend (SMA20 13604 < SMA50 13704) , RSI oversold at 23.",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 16191.39,
-          "sma20": 15930.56,
-          "sma50": 15890.63
-        },
         {
           "date": "2025-12-17",
           "close": 16234.95,
@@ -13114,26 +13108,26 @@
           "close": 12849.0,
           "sma20": 13658.65,
           "sma50": 13718.89
+        },
+        {
+          "date": "2026-09-03",
+          "close": 12857.0,
+          "sma20": 13604.5,
+          "sma50": 13703.86
         }
       ]
     },
     "TITAN.NS": {
-      "sma20": 5077.69,
-      "sma50": 4805.56,
-      "rsi14": 51.4,
-      "macd": 80.92,
-      "macd_signal": 102.17,
+      "sma20": 5079.14,
+      "sma50": 4820.55,
+      "rsi14": 46.41,
+      "macd": 70.49,
+      "macd_signal": 95.83,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 5078 > SMA50 4806), RSI 51 not overbought.",
+      "action_reason": "Uptrend (SMA20 5079 > SMA50 4821), RSI 46 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 3916.65,
-          "sma20": 3855.97,
-          "sma50": 3756.07
-        },
         {
           "date": "2025-12-17",
           "close": 3895.12,
@@ -14207,26 +14201,26 @@
           "close": 5074.0,
           "sma20": 5077.69,
           "sma50": 4805.56
+        },
+        {
+          "date": "2026-09-03",
+          "close": 5027.0,
+          "sma20": 5079.14,
+          "sma50": 4820.55
         }
       ]
     },
     "M&M.NS": {
-      "sma20": 3392.97,
-      "sma50": 3272.9,
-      "rsi14": 19.45,
-      "macd": -5.83,
-      "macd_signal": 28.41,
+      "sma20": 3380.17,
+      "sma50": 3272.92,
+      "rsi14": 17.62,
+      "macd": -19.78,
+      "macd_signal": 18.77,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 3393 > SMA50 3273), RSI 19 not overbought.",
+      "action_reason": "Uptrend (SMA20 3380 > SMA50 3273), RSI 18 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 3583.37,
-          "sma20": 3646.28,
-          "sma50": 3586.79
-        },
         {
           "date": "2025-12-17",
           "close": 3575.25,
@@ -15300,26 +15294,26 @@
           "close": 3190.0,
           "sma20": 3392.97,
           "sma50": 3272.9
+        },
+        {
+          "date": "2026-09-03",
+          "close": 3150.0,
+          "sma20": 3380.17,
+          "sma50": 3272.92
         }
       ]
     },
     "ADANIENT.NS": {
-      "sma20": 3010.11,
-      "sma50": 3061.61,
-      "rsi14": 44.26,
-      "macd": -22.08,
-      "macd_signal": -6.93,
+      "sma20": 3003.86,
+      "sma50": 3058.87,
+      "rsi14": 38.35,
+      "macd": -27.93,
+      "macd_signal": -11.13,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 3010 < SMA50 3062).",
+      "action_reason": "Downtrend (SMA20 3004 < SMA50 3059).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 2246.9,
-          "sma20": 2289.9,
-          "sma50": 2403.71
-        },
         {
           "date": "2025-12-17",
           "close": 2231.5,
@@ -16393,1119 +16387,26 @@
           "close": 2891.8,
           "sma20": 3010.11,
           "sma50": 3061.61
-        }
-      ]
-    },
-    "KOTAKBANK.NS": {
-      "sma20": 402.58,
-      "sma50": 393.85,
-      "rsi14": 76.36,
-      "macd": 8.86,
-      "macd_signal": 6.11,
-      "signal": "Neutral",
-      "action": "HOLD",
-      "action_reason": "Uptrend intact but RSI 76 is overbought \u2014 chasing here is riskier.",
-      "exit_rule": "Consider booking partial profit now; full exit if SMA20 crosses below SMA50.",
-      "history": [
-        {
-          "date": "2025-12-16",
-          "close": 435.73,
-          "sma20": 425.5,
-          "sma50": 426.04
-        },
-        {
-          "date": "2025-12-17",
-          "close": 433.89,
-          "sma20": 426.17,
-          "sma50": 426.15
-        },
-        {
-          "date": "2025-12-18",
-          "close": 432.17,
-          "sma20": 426.83,
-          "sma50": 426.3
-        },
-        {
-          "date": "2025-12-19",
-          "close": 431.16,
-          "sma20": 427.55,
-          "sma50": 426.46
-        },
-        {
-          "date": "2025-12-22",
-          "close": 429.2,
-          "sma20": 428.17,
-          "sma50": 426.48
-        },
-        {
-          "date": "2025-12-23",
-          "close": 431.79,
-          "sma20": 429.1,
-          "sma50": 426.53
-        },
-        {
-          "date": "2025-12-24",
-          "close": 431.99,
-          "sma20": 429.7,
-          "sma50": 426.58
-        },
-        {
-          "date": "2025-12-26",
-          "close": 432.09,
-          "sma20": 430.23,
-          "sma50": 426.63
-        },
-        {
-          "date": "2025-12-29",
-          "close": 430.98,
-          "sma20": 430.58,
-          "sma50": 426.66
-        },
-        {
-          "date": "2025-12-30",
-          "close": 429.8,
-          "sma20": 430.63,
-          "sma50": 426.45
-        },
-        {
-          "date": "2025-12-31",
-          "close": 439.46,
-          "sma20": 431.21,
-          "sma50": 426.44
-        },
-        {
-          "date": "2026-01-01",
-          "close": 442.8,
-          "sma20": 431.93,
-          "sma50": 426.45
-        },
-        {
-          "date": "2026-01-02",
-          "close": 438.26,
-          "sma20": 432.52,
-          "sma50": 426.44
-        },
-        {
-          "date": "2026-01-05",
-          "close": 437.42,
-          "sma20": 432.88,
-          "sma50": 426.31
-        },
-        {
-          "date": "2026-01-06",
-          "close": 428.54,
-          "sma20": 433.03,
-          "sma50": 426.14
-        },
-        {
-          "date": "2026-01-07",
-          "close": 428.06,
-          "sma20": 433.19,
-          "sma50": 426.13
-        },
-        {
-          "date": "2026-01-08",
-          "close": 425.86,
-          "sma20": 433.23,
-          "sma50": 426.01
-        },
-        {
-          "date": "2026-01-09",
-          "close": 424.63,
-          "sma20": 432.7,
-          "sma50": 425.92
-        },
-        {
-          "date": "2026-01-12",
-          "close": 425.92,
-          "sma20": 432.26,
-          "sma50": 425.9
-        },
-        {
-          "date": "2026-01-13",
-          "close": 425.78,
-          "sma20": 431.78,
-          "sma50": 426.03
-        },
-        {
-          "date": "2026-01-14",
-          "close": 420.27,
-          "sma20": 431.0,
-          "sma50": 425.99
-        },
-        {
-          "date": "2026-01-15",
-          "close": 420.27,
-          "sma20": 430.32,
-          "sma50": 426.02
-        },
-        {
-          "date": "2026-01-16",
-          "close": 417.48,
-          "sma20": 429.59,
-          "sma50": 426.06
-        },
-        {
-          "date": "2026-01-19",
-          "close": 426.16,
-          "sma20": 429.34,
-          "sma50": 426.24
-        },
-        {
-          "date": "2026-01-20",
-          "close": 423.07,
-          "sma20": 429.03,
-          "sma50": 426.35
-        },
-        {
-          "date": "2026-01-21",
-          "close": 420.87,
-          "sma20": 428.49,
-          "sma50": 426.43
-        },
-        {
-          "date": "2026-01-22",
-          "close": 425.27,
-          "sma20": 428.15,
-          "sma50": 426.61
-        },
-        {
-          "date": "2026-01-23",
-          "close": 422.07,
-          "sma20": 427.65,
-          "sma50": 426.77
-        },
-        {
-          "date": "2026-01-27",
-          "close": 408.0,
-          "sma20": 426.5,
-          "sma50": 426.62
-        },
-        {
-          "date": "2026-01-28",
-          "close": 411.69,
-          "sma20": 425.6,
-          "sma50": 426.46
-        },
-        {
-          "date": "2026-01-29",
-          "close": 411.69,
-          "sma20": 424.21,
-          "sma50": 426.33
-        },
-        {
-          "date": "2026-01-30",
-          "close": 407.3,
-          "sma20": 422.43,
-          "sma50": 426.07
-        },
-        {
-          "date": "2026-02-02",
-          "close": 407.5,
-          "sma20": 420.89,
-          "sma50": 425.84
-        },
-        {
-          "date": "2026-02-03",
-          "close": 415.08,
-          "sma20": 419.78,
-          "sma50": 425.81
-        },
-        {
-          "date": "2026-02-04",
-          "close": 411.64,
-          "sma20": 418.93,
-          "sma50": 425.7
-        },
-        {
-          "date": "2026-02-05",
-          "close": 408.05,
-          "sma20": 417.93,
-          "sma50": 425.6
-        },
-        {
-          "date": "2026-02-06",
-          "close": 421.62,
-          "sma20": 417.72,
-          "sma50": 425.63
-        },
-        {
-          "date": "2026-02-09",
-          "close": 428.06,
-          "sma20": 417.89,
-          "sma50": 425.77
-        },
-        {
-          "date": "2026-02-10",
-          "close": 428.56,
-          "sma20": 418.02,
-          "sma50": 425.85
-        },
-        {
-          "date": "2026-02-11",
-          "close": 428.81,
-          "sma20": 418.17,
-          "sma50": 425.85
-        },
-        {
-          "date": "2026-02-12",
-          "close": 425.52,
-          "sma20": 418.44,
-          "sma50": 425.81
-        },
-        {
-          "date": "2026-02-13",
-          "close": 419.93,
-          "sma20": 418.42,
-          "sma50": 425.64
-        },
-        {
-          "date": "2026-02-16",
-          "close": 424.87,
-          "sma20": 418.79,
-          "sma50": 425.61
-        },
-        {
-          "date": "2026-02-17",
-          "close": 423.72,
-          "sma20": 418.66,
-          "sma50": 425.48
-        },
-        {
-          "date": "2026-02-18",
-          "close": 425.62,
-          "sma20": 418.79,
-          "sma50": 425.48
-        },
-        {
-          "date": "2026-02-19",
-          "close": 415.68,
-          "sma20": 418.53,
-          "sma50": 425.3
-        },
-        {
-          "date": "2026-02-20",
-          "close": 420.62,
-          "sma20": 418.3,
-          "sma50": 425.21
-        },
-        {
-          "date": "2026-02-23",
-          "close": 429.96,
-          "sma20": 418.69,
-          "sma50": 425.1
-        },
-        {
-          "date": "2026-02-24",
-          "close": 426.96,
-          "sma20": 419.64,
-          "sma50": 424.95
-        },
-        {
-          "date": "2026-02-25",
-          "close": 424.22,
-          "sma20": 420.27,
-          "sma50": 424.72
-        },
-        {
-          "date": "2026-02-26",
-          "close": 423.82,
-          "sma20": 420.88,
-          "sma50": 424.48
-        },
-        {
-          "date": "2026-02-27",
-          "close": 414.48,
-          "sma20": 421.24,
-          "sma50": 424.1
-        },
-        {
-          "date": "2026-03-02",
-          "close": 412.39,
-          "sma20": 421.48,
-          "sma50": 423.7
-        },
-        {
-          "date": "2026-03-04",
-          "close": 402.65,
-          "sma20": 420.86,
-          "sma50": 423.13
-        },
-        {
-          "date": "2026-03-05",
-          "close": 406.6,
-          "sma20": 420.61,
-          "sma50": 422.68
-        },
-        {
-          "date": "2026-03-06",
-          "close": 399.11,
-          "sma20": 420.16,
-          "sma50": 422.02
-        },
-        {
-          "date": "2026-03-09",
-          "close": 385.68,
-          "sma20": 418.36,
-          "sma50": 421.1
-        },
-        {
-          "date": "2026-03-10",
-          "close": 391.17,
-          "sma20": 416.52,
-          "sma50": 420.28
-        },
-        {
-          "date": "2026-03-11",
-          "close": 382.54,
-          "sma20": 414.22,
-          "sma50": 419.31
-        },
-        {
-          "date": "2026-03-12",
-          "close": 374.65,
-          "sma20": 411.51,
-          "sma50": 418.21
-        },
-        {
-          "date": "2026-03-13",
-          "close": 366.22,
-          "sma20": 408.54,
-          "sma50": 416.74
-        },
-        {
-          "date": "2026-03-16",
-          "close": 369.21,
-          "sma20": 406.01,
-          "sma50": 415.27
-        },
-        {
-          "date": "2026-03-17",
-          "close": 373.56,
-          "sma20": 403.44,
-          "sma50": 413.98
-        },
-        {
-          "date": "2026-03-18",
-          "close": 374.75,
-          "sma20": 401.0,
-          "sma50": 412.72
-        },
-        {
-          "date": "2026-03-19",
-          "close": 367.52,
-          "sma20": 398.09,
-          "sma50": 411.5
-        },
-        {
-          "date": "2026-03-20",
-          "close": 366.12,
-          "sma20": 395.61,
-          "sma50": 410.26
-        },
-        {
-          "date": "2026-03-23",
-          "close": 355.94,
-          "sma20": 392.38,
-          "sma50": 408.87
-        },
-        {
-          "date": "2026-03-24",
-          "close": 366.22,
-          "sma20": 389.19,
-          "sma50": 407.7
-        },
-        {
-          "date": "2026-03-25",
-          "close": 370.46,
-          "sma20": 386.37,
-          "sma50": 406.59
-        },
-        {
-          "date": "2026-03-27",
-          "close": 365.52,
-          "sma20": 383.43,
-          "sma50": 405.38
-        },
-        {
-          "date": "2026-03-30",
-          "close": 352.79,
-          "sma20": 379.88,
-          "sma50": 404.03
-        },
-        {
-          "date": "2026-04-01",
-          "close": 355.44,
-          "sma20": 376.93,
-          "sma50": 402.74
-        },
-        {
-          "date": "2026-04-02",
-          "close": 357.38,
-          "sma20": 374.18,
-          "sma50": 401.53
-        },
-        {
-          "date": "2026-04-06",
-          "close": 359.93,
-          "sma20": 372.04,
-          "sma50": 400.21
-        },
-        {
-          "date": "2026-04-07",
-          "close": 362.32,
-          "sma20": 369.83,
-          "sma50": 399.0
-        },
-        {
-          "date": "2026-04-08",
-          "close": 379.49,
-          "sma20": 368.85,
-          "sma50": 398.17
-        },
-        {
-          "date": "2026-04-09",
-          "close": 371.26,
-          "sma20": 368.12,
-          "sma50": 397.09
-        },
-        {
-          "date": "2026-04-10",
-          "close": 373.9,
-          "sma20": 367.26,
-          "sma50": 396.12
-        },
-        {
-          "date": "2026-04-13",
-          "close": 371.26,
-          "sma20": 366.7,
-          "sma50": 395.39
-        },
-        {
-          "date": "2026-04-15",
-          "close": 381.74,
-          "sma20": 367.05,
-          "sma50": 394.79
-        },
-        {
-          "date": "2026-04-16",
-          "close": 378.5,
-          "sma20": 367.67,
-          "sma50": 394.13
-        },
-        {
-          "date": "2026-04-17",
-          "close": 382.94,
-          "sma20": 368.35,
-          "sma50": 393.64
-        },
-        {
-          "date": "2026-04-20",
-          "close": 378.55,
-          "sma20": 368.6,
-          "sma50": 393.06
-        },
-        {
-          "date": "2026-04-21",
-          "close": 381.49,
-          "sma20": 368.94,
-          "sma50": 392.39
-        },
-        {
-          "date": "2026-04-22",
-          "close": 376.2,
-          "sma20": 369.37,
-          "sma50": 391.68
-        },
-        {
-          "date": "2026-04-23",
-          "close": 369.76,
-          "sma20": 369.55,
-          "sma50": 390.91
-        },
-        {
-          "date": "2026-04-24",
-          "close": 370.21,
-          "sma20": 370.27,
-          "sma50": 389.89
-        },
-        {
-          "date": "2026-04-27",
-          "close": 376.15,
-          "sma20": 370.76,
-          "sma50": 388.85
-        },
-        {
-          "date": "2026-04-28",
-          "close": 377.3,
-          "sma20": 371.11,
-          "sma50": 387.82
-        },
-        {
-          "date": "2026-04-29",
-          "close": 381.34,
-          "sma20": 371.9,
-          "sma50": 386.87
-        },
-        {
-          "date": "2026-04-30",
-          "close": 382.64,
-          "sma20": 373.39,
-          "sma50": 386.02
-        },
-        {
-          "date": "2026-05-01",
-          "close": 382.64,
-          "sma20": 374.75,
-          "sma50": 385.27
-        },
-        {
-          "date": "2026-05-04",
-          "close": 371.01,
-          "sma20": 375.43,
-          "sma50": 384.19
-        },
-        {
-          "date": "2026-05-05",
-          "close": 370.71,
-          "sma20": 375.97,
-          "sma50": 383.13
-        },
-        {
-          "date": "2026-05-06",
-          "close": 375.95,
-          "sma20": 376.65,
-          "sma50": 382.14
-        },
-        {
-          "date": "2026-05-07",
-          "close": 378.75,
-          "sma20": 376.61,
-          "sma50": 381.4
-        },
-        {
-          "date": "2026-05-08",
-          "close": 380.14,
-          "sma20": 377.06,
-          "sma50": 380.59
-        },
-        {
-          "date": "2026-05-11",
-          "close": 380.39,
-          "sma20": 377.38,
-          "sma50": 379.6
-        },
-        {
-          "date": "2026-05-12",
-          "close": 375.35,
-          "sma20": 377.59,
-          "sma50": 378.57
-        },
-        {
-          "date": "2026-05-13",
-          "close": 377.0,
-          "sma20": 377.35,
-          "sma50": 377.62
-        },
-        {
-          "date": "2026-05-14",
-          "close": 382.54,
-          "sma20": 377.55,
-          "sma50": 376.8
-        },
-        {
-          "date": "2026-05-15",
-          "close": 386.38,
-          "sma20": 377.73,
-          "sma50": 376.24
-        },
-        {
-          "date": "2026-05-18",
-          "close": 391.12,
-          "sma20": 378.35,
-          "sma50": 375.81
-        },
-        {
-          "date": "2026-05-19",
-          "close": 381.29,
-          "sma20": 378.34,
-          "sma50": 375.38
-        },
-        {
-          "date": "2026-05-20",
-          "close": 382.54,
-          "sma20": 378.66,
-          "sma50": 374.9
-        },
-        {
-          "date": "2026-05-21",
-          "close": 380.19,
-          "sma20": 379.18,
-          "sma50": 374.52
-        },
-        {
-          "date": "2026-05-22",
-          "close": 383.49,
-          "sma20": 379.85,
-          "sma50": 374.48
-        },
-        {
-          "date": "2026-05-25",
-          "close": 392.17,
-          "sma20": 380.65,
-          "sma50": 374.5
-        },
-        {
-          "date": "2026-05-26",
-          "close": 387.98,
-          "sma20": 381.18,
-          "sma50": 374.61
-        },
-        {
-          "date": "2026-05-27",
-          "close": 388.03,
-          "sma20": 381.52,
-          "sma50": 374.88
-        },
-        {
-          "date": "2026-05-28",
-          "close": 388.03,
-          "sma20": 381.79,
-          "sma50": 375.31
-        },
-        {
-          "date": "2026-05-29",
-          "close": 383.54,
-          "sma20": 381.83,
-          "sma50": 375.6
-        },
-        {
-          "date": "2026-06-01",
-          "close": 376.75,
-          "sma20": 382.12,
-          "sma50": 375.66
-        },
-        {
-          "date": "2026-06-02",
-          "close": 378.4,
-          "sma20": 382.5,
-          "sma50": 375.74
-        },
-        {
-          "date": "2026-06-03",
-          "close": 380.34,
-          "sma20": 382.72,
-          "sma50": 375.99
-        },
-        {
-          "date": "2026-06-04",
-          "close": 380.84,
-          "sma20": 382.83,
-          "sma50": 376.29
-        },
-        {
-          "date": "2026-06-05",
-          "close": 376.8,
-          "sma20": 382.66,
-          "sma50": 376.7
-        },
-        {
-          "date": "2026-06-08",
-          "close": 376.45,
-          "sma20": 382.46,
-          "sma50": 376.91
-        },
-        {
-          "date": "2026-06-09",
-          "close": 381.04,
-          "sma20": 382.75,
-          "sma50": 377.12
-        },
-        {
-          "date": "2026-06-10",
-          "close": 387.43,
-          "sma20": 383.27,
-          "sma50": 377.56
-        },
-        {
-          "date": "2026-06-11",
-          "close": 392.67,
-          "sma20": 383.77,
-          "sma50": 378.36
-        },
-        {
-          "date": "2026-06-12",
-          "close": 402.6,
-          "sma20": 384.59,
-          "sma50": 379.3
-        },
-        {
-          "date": "2026-06-15",
-          "close": 405.05,
-          "sma20": 385.28,
-          "sma50": 380.25
-        },
-        {
-          "date": "2026-06-16",
-          "close": 407.15,
-          "sma20": 386.58,
-          "sma50": 381.2
-        },
-        {
-          "date": "2026-06-17",
-          "close": 403.8,
-          "sma20": 387.64,
-          "sma50": 382.03
-        },
-        {
-          "date": "2026-06-18",
-          "close": 402.26,
-          "sma20": 388.74,
-          "sma50": 382.48
-        },
-        {
-          "date": "2026-06-19",
-          "close": 398.56,
-          "sma20": 389.5,
-          "sma50": 383.03
-        },
-        {
-          "date": "2026-06-22",
-          "close": 401.46,
-          "sma20": 389.96,
-          "sma50": 383.58
-        },
-        {
-          "date": "2026-06-23",
-          "close": 400.96,
-          "sma20": 390.61,
-          "sma50": 384.17
-        },
-        {
-          "date": "2026-06-24",
-          "close": 405.25,
-          "sma20": 391.47,
-          "sma50": 384.64
-        },
-        {
-          "date": "2026-06-25",
-          "close": 408.3,
-          "sma20": 392.48,
-          "sma50": 385.24
-        },
-        {
-          "date": "2026-06-26",
-          "close": 408.3,
-          "sma20": 393.72,
-          "sma50": 385.75
-        },
-        {
-          "date": "2026-06-29",
-          "close": 394.82,
-          "sma20": 394.62,
-          "sma50": 386.07
-        },
-        {
-          "date": "2026-06-30",
-          "close": 391.57,
-          "sma20": 395.28,
-          "sma50": 386.27
-        },
-        {
-          "date": "2026-07-01",
-          "close": 399.76,
-          "sma20": 396.25,
-          "sma50": 386.74
-        },
-        {
-          "date": "2026-07-02",
-          "close": 398.61,
-          "sma20": 397.14,
-          "sma50": 387.32
-        },
-        {
-          "date": "2026-07-03",
-          "close": 396.07,
-          "sma20": 398.11,
-          "sma50": 387.84
-        },
-        {
-          "date": "2026-07-06",
-          "close": 380.64,
-          "sma20": 398.31,
-          "sma50": 387.93
-        },
-        {
-          "date": "2026-07-07",
-          "close": 381.04,
-          "sma20": 398.31,
-          "sma50": 388.0
-        },
-        {
-          "date": "2026-07-08",
-          "close": 369.46,
-          "sma20": 397.42,
-          "sma50": 387.77
-        },
-        {
-          "date": "2026-07-09",
-          "close": 376.5,
-          "sma20": 396.61,
-          "sma50": 387.64
-        },
-        {
-          "date": "2026-07-10",
-          "close": 376.95,
-          "sma20": 395.32,
-          "sma50": 387.53
-        },
-        {
-          "date": "2026-07-13",
-          "close": 383.99,
-          "sma20": 394.27,
-          "sma50": 387.79
-        },
-        {
-          "date": "2026-07-14",
-          "close": 378.0,
-          "sma20": 392.81,
-          "sma50": 387.93
-        },
-        {
-          "date": "2026-07-15",
-          "close": 377.75,
-          "sma20": 391.51,
-          "sma50": 387.97
-        },
-        {
-          "date": "2026-07-16",
-          "close": 376.5,
-          "sma20": 390.22,
-          "sma50": 387.93
-        },
-        {
-          "date": "2026-07-17",
-          "close": 389.95,
-          "sma20": 389.79,
-          "sma50": 388.12
-        },
-        {
-          "date": "2026-07-20",
-          "close": 382.05,
-          "sma20": 388.82,
-          "sma50": 388.15
-        },
-        {
-          "date": "2026-07-21",
-          "close": 385.95,
-          "sma20": 388.07,
-          "sma50": 388.37
-        },
-        {
-          "date": "2026-07-22",
-          "close": 381.15,
-          "sma20": 386.87,
-          "sma50": 388.45
-        },
-        {
-          "date": "2026-07-23",
-          "close": 383.35,
-          "sma20": 385.62,
-          "sma50": 388.47
-        },
-        {
-          "date": "2026-07-24",
-          "close": 384.75,
-          "sma20": 384.44,
-          "sma50": 388.43
-        },
-        {
-          "date": "2026-07-27",
-          "close": 384.65,
-          "sma20": 383.93,
-          "sma50": 388.3
-        },
-        {
-          "date": "2026-07-28",
-          "close": 385.3,
-          "sma20": 383.62,
-          "sma50": 388.38
-        },
-        {
-          "date": "2026-07-29",
-          "close": 390.2,
-          "sma20": 383.14,
-          "sma50": 388.54
-        },
-        {
-          "date": "2026-07-30",
-          "close": 389.4,
-          "sma20": 382.68,
-          "sma50": 388.72
-        },
-        {
-          "date": "2026-07-31",
-          "close": 390.3,
-          "sma20": 382.39,
-          "sma50": 388.86
-        },
-        {
-          "date": "2026-08-03",
-          "close": 397.5,
-          "sma20": 383.24,
-          "sma50": 388.96
-        },
-        {
-          "date": "2026-08-04",
-          "close": 398.0,
-          "sma20": 384.08,
-          "sma50": 389.16
-        },
-        {
-          "date": "2026-08-05",
-          "close": 400.0,
-          "sma20": 385.61,
-          "sma50": 389.4
-        },
-        {
-          "date": "2026-08-06",
-          "close": 394.0,
-          "sma20": 386.49,
-          "sma50": 389.52
-        },
-        {
-          "date": "2026-08-07",
-          "close": 390.75,
-          "sma20": 387.18,
-          "sma50": 389.67
-        },
-        {
-          "date": "2026-08-10",
-          "close": 393.5,
-          "sma20": 387.65,
-          "sma50": 390.0
-        },
-        {
-          "date": "2026-08-11",
-          "close": 392.9,
-          "sma20": 388.4,
-          "sma50": 390.29
-        },
-        {
-          "date": "2026-08-12",
-          "close": 390.5,
-          "sma20": 389.03,
-          "sma50": 390.5
-        },
-        {
-          "date": "2026-08-13",
-          "close": 392.4,
-          "sma20": 389.83,
-          "sma50": 390.73
-        },
-        {
-          "date": "2026-08-14",
-          "close": 391.15,
-          "sma20": 389.89,
-          "sma50": 391.01
-        },
-        {
-          "date": "2026-08-17",
-          "close": 392.7,
-          "sma20": 390.42,
-          "sma50": 391.34
-        },
-        {
-          "date": "2026-08-18",
-          "close": 387.65,
-          "sma20": 390.51,
-          "sma50": 391.47
-        },
-        {
-          "date": "2026-08-19",
-          "close": 390.25,
-          "sma20": 390.96,
-          "sma50": 391.53
-        },
-        {
-          "date": "2026-08-20",
-          "close": 397.35,
-          "sma20": 391.66,
-          "sma50": 391.62
-        },
-        {
-          "date": "2026-08-21",
-          "close": 402.8,
-          "sma20": 392.56,
-          "sma50": 391.62
-        },
-        {
-          "date": "2026-08-24",
-          "close": 401.45,
-          "sma20": 393.4,
-          "sma50": 391.55
-        },
-        {
-          "date": "2026-08-25",
-          "close": 401.6,
-          "sma20": 394.22,
-          "sma50": 391.44
-        },
-        {
-          "date": "2026-08-26",
-          "close": 416.7,
-          "sma20": 395.54,
-          "sma50": 391.7
-        },
-        {
-          "date": "2026-08-27",
-          "close": 424.2,
-          "sma20": 397.29,
-          "sma50": 392.14
-        },
-        {
-          "date": "2026-08-28",
-          "close": 423.7,
-          "sma20": 398.96,
-          "sma50": 392.64
-        },
-        {
-          "date": "2026-08-31",
-          "close": 419.4,
-          "sma20": 400.05,
-          "sma50": 393.0
-        },
-        {
-          "date": "2026-09-01",
-          "close": 425.0,
-          "sma20": 401.4,
-          "sma50": 393.48
         },
         {
-          "date": "2026-09-02",
-          "close": 423.5,
-          "sma20": 402.58,
-          "sma50": 393.85
+          "date": "2026-09-03",
+          "close": 2901.0,
+          "sma20": 3003.86,
+          "sma50": 3058.87
         }
       ]
     },
     "ADANIPORTS.NS": {
-      "sma20": 1680.65,
-      "sma50": 1748.6,
-      "rsi14": 51.98,
-      "macd": -21.38,
-      "macd_signal": -21.83,
+      "sma20": 1681.23,
+      "sma50": 1746.81,
+      "rsi14": 50.9,
+      "macd": -17.34,
+      "macd_signal": -20.93,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 1681 < SMA50 1749).",
+      "action_reason": "Downtrend (SMA20 1681 < SMA50 1747).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 1492.71,
-          "sma20": 1495.33,
-          "sma50": 1464.79
-        },
         {
           "date": "2025-12-17",
           "close": 1480.06,
@@ -18579,26 +17480,26 @@
           "close": 1672.7,
           "sma20": 1680.65,
           "sma50": 1748.6
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1706.5,
+          "sma20": 1681.23,
+          "sma50": 1746.81
         }
       ]
     },
     "AXISBANK.NS": {
-      "sma20": 1245.07,
-      "sma50": 1275.05,
-      "rsi14": 58.86,
-      "macd": 0.19,
-      "macd_signal": -5.09,
+      "sma20": 1245.62,
+      "sma50": 1272.86,
+      "rsi14": 63.07,
+      "macd": 1.11,
+      "macd_signal": -3.85,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 1245 < SMA50 1275).",
+      "action_reason": "Downtrend (SMA20 1246 < SMA50 1273).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 1218.66,
-          "sma20": 1273.13,
-          "sma50": 1240.68
-        },
         {
           "date": "2025-12-17",
           "close": 1223.76,
@@ -19672,26 +18573,26 @@
           "close": 1253.9,
           "sma20": 1245.07,
           "sma50": 1275.05
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1267.0,
+          "sma20": 1245.62,
+          "sma50": 1272.86
         }
       ]
     },
     "HCLTECH.NS": {
-      "sma20": 1330.39,
-      "sma50": 1254.6,
-      "rsi14": 43.07,
-      "macd": 12.1,
-      "macd_signal": 16.95,
+      "sma20": 1329.59,
+      "sma50": 1259.19,
+      "rsi14": 42.68,
+      "macd": 10.97,
+      "macd_signal": 15.76,
       "signal": "Bullish",
       "action": "BUY",
-      "action_reason": "Uptrend (SMA20 1330 > SMA50 1255), RSI 43 not overbought.",
+      "action_reason": "Uptrend (SMA20 1330 > SMA50 1259), RSI 43 not overbought.",
       "exit_rule": "Exit if SMA20 crosses back below SMA50, or RSI rises above 70 (overbought \u2014 consider booking profit).",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 1592.76,
-          "sma20": 1588.64,
-          "sma50": 1515.14
-        },
         {
           "date": "2025-12-17",
           "close": 1595.94,
@@ -20170,7 +19071,7 @@
           "date": "2026-04-16",
           "close": 1408.58,
           "sma20": 1349.19,
-          "sma50": 1393.55
+          "sma50": 1393.56
         },
         {
           "date": "2026-04-17",
@@ -20765,26 +19666,26 @@
           "close": 1331.5,
           "sma20": 1330.39,
           "sma50": 1254.6
+        },
+        {
+          "date": "2026-09-03",
+          "close": 1319.0,
+          "sma20": 1329.59,
+          "sma50": 1259.19
         }
       ]
     },
     "ITC.NS": {
-      "sma20": 272.62,
-      "sma50": 279.77,
-      "rsi14": 37.18,
-      "macd": -4.8,
-      "macd_signal": -4.22,
+      "sma20": 271.47,
+      "sma50": 279.23,
+      "rsi14": 34.98,
+      "macd": -4.88,
+      "macd_signal": -4.35,
       "signal": "Bearish",
       "action": "SELL",
-      "action_reason": "Downtrend (SMA20 273 < SMA50 280).",
+      "action_reason": "Downtrend (SMA20 271 < SMA50 279).",
       "exit_rule": "Re-entry candidate once SMA20 crosses back above SMA50.",
       "history": [
-        {
-          "date": "2025-12-16",
-          "close": 383.02,
-          "sma20": 384.22,
-          "sma50": 387.39
-        },
         {
           "date": "2025-12-17",
           "close": 381.21,
@@ -21858,6 +20759,12 @@
           "close": 266.3,
           "sma20": 272.62,
           "sma50": 279.77
+        },
+        {
+          "date": "2026-09-03",
+          "close": 263.0,
+          "sma20": 271.47,
+          "sma50": 279.23
         }
       ]
     }
