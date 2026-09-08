@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T15:45:04+00:00",
+  "updated": "2026-09-08T14:24:03+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "BNPQY or HDB: Which Is the Better Value Stock Right Now?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bnpqy-hdb-better-value-stock-154001193.html",
+        "published": "2026-09-07T15:40:01Z"
+      },
+      {
         "title": "HDFC Bank Hits 30-Month Low as CEO Exit Deepens Overhang",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/hdfc-bank-hits-30-month-021933567.html",
@@ -89,12 +95,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-hdfc-bank-slips-2-091645918.html",
         "published": "2026-08-27T10:44:12Z"
-      },
-      {
-        "title": "BKEAY or HDB: Which Is the Better Value Stock Right Now?",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bkeay-hdb-better-value-stock-154001336.html",
-        "published": "2026-08-21T15:40:01Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
