@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T14:26:15+00:00",
+  "updated": "2026-09-10T14:17:51+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "India\u2019s NPCI, HDFC tie up to launch sovereign AI retail banking model",
+        "publisher": "Retail Banker International",
+        "url": "https://finance.yahoo.com/technology/ai/articles/india-npci-hdfc-tie-launch-115723007.html",
+        "published": "2026-09-10T11:57:23Z"
+      },
+      {
         "title": "BNPQY or HDB: Which Is the Better Value Stock Right Now?",
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bnpqy-hdb-better-value-stock-154001193.html",
@@ -89,12 +95,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143711971.html",
         "published": "2026-08-28T14:37:11Z"
-      },
-      {
-        "title": "India's HDFC Bank slips to 2-1/2-year low as legal, leadership woes linger",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-hdfc-bank-slips-2-091645918.html",
-        "published": "2026-08-27T10:44:12Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
+        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
+        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -451,7 +451,7 @@
     ],
     "ADANIENT.NS": [
       {
-        "title": "Adani Airport Holdings Raises Rs98.25bn From Global Funds",
+        "title": "Adani Airport Holdings raises Rs98.25bn from global funds",
         "publisher": "Investment Monitor",
         "url": "https://finance.yahoo.com/markets/stocks/articles/adani-airport-holdings-raises-rs98-131212902.html",
         "published": "2026-09-09T13:12:12Z"
@@ -547,6 +547,12 @@
     ],
     "AXISBANK.NS": [
       {
+        "title": "Axis Bank CEO's AI Push Signals Slower Hiring Ahead",
+        "publisher": "Bloomberg",
+        "url": "https://finance.yahoo.com/video/axis-bank-ceos-ai-push-142352226.html",
+        "published": "2026-09-09T14:23:52Z"
+      },
+      {
         "title": "India's Axis Bank bets on data centres to gold loans to outpace industry credit growth",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-axis-bank-bets-data-065341753.html",
@@ -569,12 +575,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/state-bank-india-hsbc-icici-094537063.html",
         "published": "2026-08-03T09:45:37Z"
-      },
-      {
-        "title": "India\u2019s Private-Sector Banks Sold Off on NIM Fears. Ignore the Panic and Buy the Dip in HDFC Stock Here.",
-        "publisher": "Barchart",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/india-private-sector-banks-sold-181344955.html",
-        "published": "2026-07-21T18:13:44Z"
       }
     ],
     "HCLTECH.NS": [
