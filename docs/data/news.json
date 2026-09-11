@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T14:17:51+00:00",
+  "updated": "2026-09-11T14:18:41+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Fall in Thursday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143626688.html",
+        "published": "2026-09-10T14:36:26Z"
+      },
+      {
         "title": "India\u2019s NPCI, HDFC tie up to launch sovereign AI retail banking model",
         "publisher": "Retail Banker International",
         "url": "https://finance.yahoo.com/technology/ai/articles/india-npci-hdfc-tie-launch-115723007.html",
@@ -89,15 +95,15 @@
         "publisher": "Motley Fool",
         "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-31-212740968.html",
         "published": "2026-08-31T21:27:40Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading, Up 2% for Week",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143711971.html",
-        "published": "2026-08-28T14:37:11Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "ICICI Prudential AMC gets clearance to buy up to 9.95% of four\u00a0lenders",
+        "publisher": "Retail Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/icici-prudential-amc-gets-clearance-115715409.html",
+        "published": "2026-09-11T11:57:15Z"
+      },
       {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading",
         "publisher": "MT Newswires",
@@ -121,15 +127,21 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/prudential-sell-2-stake-icici-104449355.html",
         "published": "2026-08-26T10:44:49Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144411158.html",
-        "published": "2026-08-25T14:44:11Z"
       }
     ],
     "SBIN.NS": [
+      {
+        "title": "India\u2019s National Stock Exchange Seeks $46 Billion Valuation in IPO",
+        "publisher": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/national-stock-exchange-of-india-seeks-2-36-billion-in-pared-back-ipo-19cf72eb?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-09-11T08:28:00Z"
+      },
+      {
+        "title": "India's Top Bank Says Data Centers Aiding Capex Cycle",
+        "publisher": "Bloomberg",
+        "url": "https://finance.yahoo.com/video/indias-top-bank-says-data-133852365.html",
+        "published": "2026-09-10T13:38:52Z"
+      },
       {
         "title": "State Bank of India targets 12,000 hires and 250 more branches \u2013 report",
         "publisher": "Retail Banker International",
@@ -147,21 +159,15 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/state-bank-india-sbkff-q1-190158807.html",
         "published": "2026-08-07T19:01:58Z"
-      },
-      {
-        "title": "India's largest lender SBI beats quarterly profit view on healthy loan growth",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/state-bank-india-beats-profit-082404373.html",
-        "published": "2026-08-07T10:14:08Z"
-      },
-      {
-        "title": "State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/state-bank-india-hsbc-icici-094537063.html",
-        "published": "2026-08-03T09:45:37Z"
       }
     ],
     "TCS.NS": [
+      {
+        "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
+        "published": "2026-09-10T20:50:17Z"
+      },
       {
         "title": "Rezolve\u2019s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?",
         "publisher": "Insider Monkey",
@@ -185,12 +191,6 @@
         "publisher": "Proactive",
         "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-revenue-jumps-nearly-155400575.html",
         "published": "2026-09-01T15:54:00Z"
-      },
-      {
-        "title": "Rezolve AI Stock Drops After Net Loss Widens \u2013 CEO Says Google Is \u2018Just The Beginning\u2019 With More Deals In Pipeline",
-        "publisher": "Stocktwits",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-ai-stock-drops-net-141501147.html",
-        "published": "2026-09-01T14:15:01Z"
       }
     ],
     "BAJFINANCE.NS": [
@@ -251,9 +251,9 @@
         "published": "2026-08-13T17:32:36Z"
       },
       {
-        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-larsen-toubro-secures-order-061543746.html",
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
         "published": "2026-08-13T06:15:43Z"
       }
     ],
@@ -291,6 +291,12 @@
     ],
     "INFY.NS": [
       {
+        "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
+        "published": "2026-09-10T20:50:17Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Head Slightly Lower in Thursday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145341703.html",
@@ -313,12 +319,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
         "published": "2026-08-20T23:02:07Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Track Lower in Tuesday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144111972.html",
-        "published": "2026-08-18T14:41:11Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -483,6 +483,12 @@
     ],
     "KOTAKBANK.NS": [
       {
+        "title": "ICICI Prudential AMC gets clearance to buy up to 9.95% of four\u00a0lenders",
+        "publisher": "Retail Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/icici-prudential-amc-gets-clearance-115715409.html",
+        "published": "2026-09-11T11:57:15Z"
+      },
+      {
         "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
@@ -505,12 +511,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/coca-cola-appoints-jpmorgan-citi-130505818.html",
         "published": "2026-07-20T13:05:05Z"
-      },
-      {
-        "title": "Kotak Mahindra Bank Ltd (BOM:500247) Q1 2027 Earnings Call Highlights: Strong Profit Growth ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/kotak-mahindra-bank-ltd-bom-010045699.html",
-        "published": "2026-07-20T01:00:45Z"
       }
     ],
     "ADANIPORTS.NS": [
@@ -579,6 +579,12 @@
     ],
     "HCLTECH.NS": [
       {
+        "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
+        "published": "2026-09-10T20:50:17Z"
+      },
+      {
         "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
@@ -601,12 +607,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/technology/articles/indias-wipro-misses-first-quarter-102301190.html",
         "published": "2026-07-16T10:23:01Z"
-      },
-      {
-        "title": "India's HCLTech wipes $1.54 billion in market cap as unchanged outlook signals demand uncertainty",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-hcltech-slips-unchanged-fy27-035529751.html",
-        "published": "2026-07-14T10:13:11Z"
       }
     ],
     "ITC.NS": [
