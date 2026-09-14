@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T14:18:41+00:00",
+  "updated": "2026-09-14T16:18:42+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -99,6 +99,12 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "India and Russia Are Finding Another Way Around the Dollar",
+        "publisher": "Moby",
+        "url": "https://finance.yahoo.com/markets/currencies/articles/india-russia-finding-another-way-151836088.html",
+        "published": "2026-09-11T15:18:36Z"
+      },
+      {
         "title": "ICICI Prudential AMC gets clearance to buy up to 9.95% of four\u00a0lenders",
         "publisher": "Retail Banker International",
         "url": "https://finance.yahoo.com/markets/stocks/articles/icici-prudential-amc-gets-clearance-115715409.html",
@@ -121,12 +127,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145341703.html",
         "published": "2026-08-27T14:53:41Z"
-      },
-      {
-        "title": "Prudential to sell 2% stake in ICICI Prudential AMC worth about $333 million",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/prudential-sell-2-stake-icici-104449355.html",
-        "published": "2026-08-26T10:44:49Z"
       }
     ],
     "SBIN.NS": [
@@ -227,6 +227,12 @@
     ],
     "LT.NS": [
       {
+        "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+        "publisher": "decrypt",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/india-begins-tokenizing-620-billion-110105449.html",
+        "published": "2026-09-14T11:01:05Z"
+      },
+      {
         "title": "L&T and MHI to build 50km people mover system at Al Maktoum Airport",
         "publisher": "World Construction Network",
         "url": "https://finance.yahoo.com/technology/articles/l-t-mhi-build-50km-100741491.html",
@@ -249,12 +255,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-thursday-173236999.html",
         "published": "2026-08-13T17:32:36Z"
-      },
-      {
-        "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
-        "published": "2026-08-13T06:15:43Z"
       }
     ],
     "HINDUNILVR.NS": [
@@ -291,6 +291,12 @@
     ],
     "INFY.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Monday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143901161.html",
+        "published": "2026-09-14T14:39:01Z"
+      },
+      {
         "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
@@ -313,12 +319,6 @@
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-deflate-value-25-hexaware-013005383.html",
         "published": "2026-08-26T01:30:05Z"
-      },
-      {
-        "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
-        "published": "2026-08-20T23:02:07Z"
       }
     ],
     "SUNPHARMA.NS": [
