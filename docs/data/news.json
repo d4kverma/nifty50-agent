@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T14:52:42+00:00",
+  "updated": "2026-09-16T14:49:32+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -291,6 +291,12 @@
     ],
     "INFY.NS": [
       {
+        "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
+        "publisher": "TechCrunch",
+        "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-ai-startup-130000046.html",
+        "published": "2026-09-16T13:00:00Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Monday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143901161.html",
@@ -313,12 +319,6 @@
         "publisher": "CIO Dive",
         "url": "https://finance.yahoo.com/technology/ai/articles/cios-still-waiting-ai-cost-160055325.html",
         "published": "2026-08-26T16:00:55Z"
-      },
-      {
-        "title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-deflate-value-25-hexaware-013005383.html",
-        "published": "2026-08-26T01:30:05Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -419,6 +419,12 @@
     ],
     "M&M.NS": [
       {
+        "title": "Mars zeroes in on gut health with startup partnerships",
+        "publisher": "Food Dive",
+        "url": "https://finance.yahoo.com/small-business/articles/mars-zeroes-gut-health-startup-110131217.html",
+        "published": "2026-09-15T11:01:31Z"
+      },
+      {
         "title": "Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/precision-camshafts-ltd-bom-539636-010108151.html",
@@ -441,12 +447,6 @@
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/small-business/articles/volkswagen-open-ceding-majority-control-102305426.html",
         "published": "2026-08-19T10:23:05Z"
-      },
-      {
-        "title": "Divgi TorqTransfer Systems Ltd (BOM:543812) (Q1 2027) Earnings Call Highlights: Navigating ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/divgi-torqtransfer-systems-ltd-bom-010531560.html",
-        "published": "2026-08-14T01:05:31Z"
       }
     ],
     "ADANIENT.NS": [
