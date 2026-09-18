@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-17T14:52:29+00:00",
+  "updated": "2026-09-18T14:22:11+00:00",
   "news": {
     "RELIANCE.NS": [
+      {
+        "title": "Reliance (NYSE:RS) Gets A Lift From Tax Relief As Valuation Looks Nearly Fair",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-nyse-rs-gets-lift-101251758.html",
+        "published": "2026-09-18T10:12:51Z"
+      },
       {
         "title": "Kering Expands Generation Award to India",
         "publisher": "WWD",
@@ -25,12 +31,6 @@
         "publisher": "Investor's Business Daily",
         "url": "https://www.investors.com/news/rolls-royce-jet-engines-india/?src=A00220&yptr=yahoo",
         "published": "2026-08-17T18:27:44Z"
-      },
-      {
-        "title": "ELAM: Let\u2019s make deal \u2013 not",
-        "publisher": "Odessa American, Texas",
-        "url": "https://finance.yahoo.com/energy/articles/elam-let-deal-not-000100531.html",
-        "published": "2026-08-08T00:01:00Z"
       }
     ],
     "BHARTIARTL.NS": [
@@ -579,6 +579,12 @@
     ],
     "HCLTECH.NS": [
       {
+        "title": "HCLTech targets mid-sized businesses with new AI services unit",
+        "publisher": "Verdict",
+        "url": "https://finance.yahoo.com/technology/ai/articles/hcltech-targets-mid-sized-businesses-071819868.html",
+        "published": "2026-09-18T07:18:19Z"
+      },
+      {
         "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
@@ -601,12 +607,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-odisha-state-approves-corporate-141911177.html",
         "published": "2026-07-21T14:19:11Z"
-      },
-      {
-        "title": "India's Wipro lags peers after earnings miss, weak forecast",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/technology/articles/indias-wipro-misses-first-quarter-102301190.html",
-        "published": "2026-07-16T10:23:01Z"
       }
     ],
     "ITC.NS": [
