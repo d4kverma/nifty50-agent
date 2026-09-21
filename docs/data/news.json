@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:22:11+00:00",
+  "updated": "2026-09-21T16:24:48+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,18 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145532894.html",
+        "published": "2026-09-21T14:55:32Z"
+      },
+      {
+        "title": "Apple Pay to launch in India next month with Axis Bank- report",
+        "publisher": "Electronic Payments",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-launch-india-next-072444839.html",
+        "published": "2026-09-21T07:24:44Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Fall in Thursday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143626688.html",
@@ -83,21 +95,15 @@
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bnpqy-hdb-better-value-stock-154001193.html",
         "published": "2026-09-07T15:40:01Z"
-      },
-      {
-        "title": "HDFC Bank Hits 30-Month Low as CEO Exit Deepens Overhang",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hdfc-bank-hits-30-month-021933567.html",
-        "published": "2026-09-01T02:19:33Z"
-      },
-      {
-        "title": "Stock Market Today, Aug. 31: Stocks Edge Lower as Oil Prices Surge Again",
-        "publisher": "Motley Fool",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-31-212740968.html",
-        "published": "2026-08-31T21:27:40Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "Apple Pay to launch in India next month with Axis Bank- report",
+        "publisher": "Electronic Payments",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-launch-india-next-072444839.html",
+        "published": "2026-09-21T07:24:44Z"
+      },
       {
         "title": "India and Russia Are Finding Another Way Around the Dollar",
         "publisher": "Moby",
@@ -121,12 +127,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144332208.html",
         "published": "2026-08-31T14:43:32Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Head Slightly Lower in Thursday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145341703.html",
-        "published": "2026-08-27T14:53:41Z"
       }
     ],
     "SBIN.NS": [
@@ -291,6 +291,18 @@
     ],
     "INFY.NS": [
       {
+        "title": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
+        "published": "2026-09-19T19:47:47Z"
+      },
+      {
+        "title": "India's Silicon Valley Is Straining Under Its Own Growth",
+        "publisher": "Bloomberg",
+        "url": "https://finance.yahoo.com/video/indias-silicon-valley-straining-under-140816187.html",
+        "published": "2026-09-19T14:08:16Z"
+      },
+      {
         "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
         "publisher": "TechCrunch",
         "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-ai-startup-130000046.html",
@@ -307,18 +319,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
         "published": "2026-09-10T20:50:17Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Head Slightly Lower in Thursday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145341703.html",
-        "published": "2026-08-27T14:53:41Z"
-      },
-      {
-        "title": "CIOs are still waiting for AI\u2019s cost savings",
-        "publisher": "CIO Dive",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cios-still-waiting-ai-cost-160055325.html",
-        "published": "2026-08-26T16:00:55Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -515,6 +515,12 @@
     ],
     "ADANIPORTS.NS": [
       {
+        "title": "Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adani-ports-stock-gulf-port-051515502.html",
+        "published": "2026-09-20T05:15:15Z"
+      },
+      {
         "title": "India's Adani Ports posts higher profit on domestic demand",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-adani-ports-posts-higher-084229648.html",
@@ -537,15 +543,15 @@
         "publisher": "The Wall Street Journal",
         "url": "https://www.wsj.com/business/logistics/adani-ports-to-sell-india-port-stake-to-swiss-shipping-group-msc-for-1-40b-39866d1b?siteid=yhoof2&yptr=yahoo",
         "published": "2026-06-30T05:41:00Z"
-      },
-      {
-        "title": "Adani Ports to sell 49% stake in Indian port to MSC for $1.4 billion",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/adani-ports-sell-49-stake-024547215.html",
-        "published": "2026-06-30T03:38:02Z"
       }
     ],
     "AXISBANK.NS": [
+      {
+        "title": "Apple Pay to launch in India next month with Axis Bank- report",
+        "publisher": "Electronic Payments",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-launch-india-next-072444839.html",
+        "published": "2026-09-21T07:24:44Z"
+      },
       {
         "title": "Axis Bank CEO's AI Push Signals Slower Hiring Ahead",
         "publisher": "Bloomberg",
@@ -569,12 +575,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-icici-bank-axis-bank-102907020.html",
         "published": "2026-08-07T10:29:07Z"
-      },
-      {
-        "title": "State Bank of India, HSBC and ICICI lead India's overseas deposit drive, data shows",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/state-bank-india-hsbc-icici-094537063.html",
-        "published": "2026-08-03T09:45:37Z"
       }
     ],
     "HCLTECH.NS": [
