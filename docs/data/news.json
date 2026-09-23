@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:41:33+00:00",
+  "updated": "2026-09-23T14:54:23+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Microsoft Drops as Three-Zone Hyderabad Region Goes Live",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-drops-three-zone-hyderabad-155029074.html",
+        "published": "2026-09-22T15:50:29Z"
+      },
+      {
         "title": "Microsoft Stays Flat as Hyderabad Adds AI Capacity Without Water Cooling",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stays-flat-hyderabad-adds-191137236.html",
@@ -89,12 +95,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143626688.html",
         "published": "2026-09-10T14:36:26Z"
-      },
-      {
-        "title": "India\u2019s NPCI, HDFC tie up to launch sovereign AI retail banking model",
-        "publisher": "Retail Banker International",
-        "url": "https://finance.yahoo.com/technology/ai/articles/india-npci-hdfc-tie-launch-115723007.html",
-        "published": "2026-09-10T11:57:23Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -163,6 +163,12 @@
     ],
     "TCS.NS": [
       {
+        "title": "Becoming \u2018AI native\u2019 might not be as profitable as you think. Unless your company does it right",
+        "publisher": "FastCompany",
+        "url": "https://finance.yahoo.com/technology/ai/articles/becoming-ai-native-might-not-130100859.html",
+        "published": "2026-09-21T13:01:00Z"
+      },
+      {
         "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
@@ -185,12 +191,6 @@
         "publisher": "Moby",
         "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-plc-q2-2026-205050637.html",
         "published": "2026-09-01T20:50:50Z"
-      },
-      {
-        "title": "Rezolve AI revenue jumps nearly 20-fold in H1, but losses widen and shares slide",
-        "publisher": "Proactive",
-        "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-revenue-jumps-nearly-155400575.html",
-        "published": "2026-09-01T15:54:00Z"
       }
     ],
     "BAJFINANCE.NS": [
@@ -547,6 +547,12 @@
     ],
     "AXISBANK.NS": [
       {
+        "title": "Cognizant Technology Solutions (CTSH) Rolled Out AI Engineering Tools To Clients",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cognizant-technology-solutions-ctsh-rolled-141549646.html",
+        "published": "2026-09-23T14:15:49Z"
+      },
+      {
         "title": "Apple (AAPL) Eyes India Payments With Apple Pay Debut Next Month",
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-eyes-india-payments-002925640.html",
@@ -569,12 +575,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-axis-bank-bets-data-065341753.html",
         "published": "2026-08-25T08:45:39Z"
-      },
-      {
-        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
-        "published": "2026-08-18T13:11:34Z"
       }
     ],
     "HCLTECH.NS": [
