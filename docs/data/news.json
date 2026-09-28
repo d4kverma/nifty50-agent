@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-25T15:09:20+00:00",
+  "updated": "2026-09-28T18:05:39+00:00",
   "news": {
     "RELIANCE.NS": [
+      {
+        "title": "Oil Refiners In Focus After Saudi Exports Rise and Brent Nears $110",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/energy/articles/oil-refiners-focus-saudi-exports-201455221.html",
+        "published": "2026-09-25T20:14:55Z"
+      },
       {
         "title": "Reliance (NYSE:RS) Gets A Lift From Tax Relief As Valuation Looks Nearly Fair",
         "publisher": "Simply Wall St.",
@@ -25,12 +31,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/meta-googles-jio-bet-heading-014514419.html",
         "published": "2026-09-01T01:45:14Z"
-      },
-      {
-        "title": "Rolls-Royce Stock Hits First New High In 14 Years. Firm Announces Engine Project.",
-        "publisher": "Investor's Business Daily",
-        "url": "https://www.investors.com/news/rolls-royce-jet-engines-india/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T18:27:44Z"
       }
     ],
     "BHARTIARTL.NS": [
@@ -291,6 +291,24 @@
     ],
     "INFY.NS": [
       {
+        "title": "Standard Chartered Predicts Chainlink at $200 and XRP at $28 by 2030. Which Will Get There First?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-predicts-chainlink-200-110000625.html",
+        "published": "2026-09-27T11:00:00Z"
+      },
+      {
+        "title": "Chainlink Jumped 12% in a Day. Can It Reach $15 by the End of October?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/chainlink-jumped-12-day-reach-153548793.html",
+        "published": "2026-09-25T15:35:48Z"
+      },
+      {
+        "title": "Litecoin, Cardano, Stellar, and Chainlink All Outperformed Bitcoin This Week. Which Rally Has the Strongest Support?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/litecoin-cardano-stellar-chainlink-outperformed-150807917.html",
+        "published": "2026-09-25T15:08:07Z"
+      },
+      {
         "title": "Chainlink\u2019s Infosys Deal: 1.7 Billion Bank Accounts, But Why Did LINK Drop 4%?",
         "publisher": "24/7 Wall St.",
         "url": "https://finance.yahoo.com/markets/crypto/articles/chainlink-infosys-deal-1-7-125518866.html",
@@ -301,24 +319,6 @@
         "publisher": "Insider Monkey",
         "url": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
         "published": "2026-09-19T19:47:47Z"
-      },
-      {
-        "title": "India's Silicon Valley Is Straining Under Its Own Growth",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/video/indias-silicon-valley-straining-under-140816187.html",
-        "published": "2026-09-19T14:08:16Z"
-      },
-      {
-        "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
-        "publisher": "TechCrunch",
-        "url": "https://finance.yahoo.com/technology/ai/articles/former-infosys-chief-ai-startup-130000046.html",
-        "published": "2026-09-16T13:00:00Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Monday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143901161.html",
-        "published": "2026-09-14T14:39:01Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -539,13 +539,25 @@
         "published": "2026-07-03T07:08:10Z"
       },
       {
-        "title": "Adani Ports to Sell India Port Stake to Swiss Shipping Group MSC for $1.40B",
-        "publisher": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/logistics/adani-ports-to-sell-india-port-stake-to-swiss-shipping-group-msc-for-1-40b-39866d1b?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-06-30T05:41:00Z"
+        "title": "Adani Ports to sell 49% stake in Indian port to MSC for $1.4 billion",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/adani-ports-sell-49-stake-024547215.html",
+        "published": "2026-06-30T03:38:02Z"
       }
     ],
     "AXISBANK.NS": [
+      {
+        "title": "Foldables, AI Servers and India Expansion: What Lies Ahead for Apple (AAPL) Under the New CEO?",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/technology/articles/foldables-ai-servers-india-expansion-092447891.html",
+        "published": "2026-09-27T09:24:47Z"
+      },
+      {
+        "title": "Apple (AAPL) Eyes an Apple Pay Launch in India. How Much can it Grow Without UPI?",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-eyes-apple-pay-005634655.html",
+        "published": "2026-09-26T00:56:34Z"
+      },
       {
         "title": "Cognizant Technology Solutions (CTSH) Rolled Out AI Engineering Tools To Clients",
         "publisher": "Simply Wall St.",
@@ -563,18 +575,6 @@
         "publisher": "Electronic Payments",
         "url": "https://finance.yahoo.com/technology/articles/apple-pay-launch-india-next-072444839.html",
         "published": "2026-09-21T07:24:44Z"
-      },
-      {
-        "title": "Axis Bank CEO's AI Push Signals Slower Hiring Ahead",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/video/axis-bank-ceos-ai-push-142352226.html",
-        "published": "2026-09-09T14:23:52Z"
-      },
-      {
-        "title": "India's Axis Bank bets on data centres to gold loans to outpace industry credit growth",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-axis-bank-bets-data-065341753.html",
-        "published": "2026-08-25T08:45:39Z"
       }
     ],
     "HCLTECH.NS": [
