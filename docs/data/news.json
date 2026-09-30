@@ -1,25 +1,621 @@
 {
-  "updated": "2026-09-29T16:28:17+00:00",
+  "updated": "2026-09-30T16:22:50+00:00",
   "news": {
-    "RELIANCE.NS": [],
-    "BHARTIARTL.NS": [],
-    "HDFCBANK.NS": [],
-    "ICICIBANK.NS": [],
-    "SBIN.NS": [],
-    "TCS.NS": [],
-    "BAJFINANCE.NS": [],
-    "LT.NS": [],
-    "HINDUNILVR.NS": [],
-    "INFY.NS": [],
-    "SUNPHARMA.NS": [],
-    "MARUTI.NS": [],
-    "TITAN.NS": [],
-    "M&M.NS": [],
-    "ADANIENT.NS": [],
-    "KOTAKBANK.NS": [],
-    "ADANIPORTS.NS": [],
-    "AXISBANK.NS": [],
-    "HCLTECH.NS": [],
-    "ITC.NS": []
+    "RELIANCE.NS": [
+      {
+        "title": "Oil Refiners In Focus After Saudi Exports Rise and Brent Nears $110",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/energy/articles/oil-refiners-focus-saudi-exports-201455221.html",
+        "published": "2026-09-25T20:14:55Z"
+      },
+      {
+        "title": "Reliance (NYSE:RS) Gets A Lift From Tax Relief As Valuation Looks Nearly Fair",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-nyse-rs-gets-lift-101251758.html",
+        "published": "2026-09-18T10:12:51Z"
+      },
+      {
+        "title": "Kering Expands Generation Award to India",
+        "publisher": "WWD",
+        "url": "https://finance.yahoo.com/economy/policy/articles/kering-expands-generation-award-india-101045849.html",
+        "published": "2026-09-07T10:10:45Z"
+      },
+      {
+        "title": "Reliance\u2019s JioHotstar takes its streaming empire global \u2014 without sports",
+        "publisher": "TechCrunch",
+        "url": "https://finance.yahoo.com/media-advertising/articles/reliance-jiohotstar-takes-streaming-empire-230000359.html",
+        "published": "2026-09-01T23:00:00Z"
+      },
+      {
+        "title": "Meta and Google's Jio Bet Is Heading Toward a $137 Billion Test",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/meta-googles-jio-bet-heading-014514419.html",
+        "published": "2026-09-01T01:45:14Z"
+      }
+    ],
+    "BHARTIARTL.NS": [
+      {
+        "title": "India's Airtel Payments Bank names Shabnam Sinha chairperson",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-airtel-payments-bank-names-124642016.html",
+        "published": "2026-08-17T12:46:42Z"
+      },
+      {
+        "title": "Singtel's quarterly profit tops estimates on Optus, digital services strength",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/singtel-posts-21-rise-first-234459872.html",
+        "published": "2026-08-12T23:44:59Z"
+      },
+      {
+        "title": "India's Vodafone Idea narrows quarterly loss on bigger per-user revenue",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-vodafone-idea-narrows-quarterly-134758108.html",
+        "published": "2026-08-10T14:25:57Z"
+      },
+      {
+        "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
+        "published": "2026-08-07T06:53:14Z"
+      },
+      {
+        "title": "Bharti Airtel Ltd (BOM:532454) (Q1 2027) Earnings Call Highlights: Record Postpaid Adds and ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bharti-airtel-ltd-bom-532454-010337318.html",
+        "published": "2026-08-07T01:03:37Z"
+      }
+    ],
+    "HDFCBANK.NS": [
+      {
+        "title": "Apple Pay launches in India with Axis Bank partnership",
+        "publisher": "Quartz",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-launches-india-axis-125526294.html",
+        "published": "2026-09-30T12:55:26Z"
+      },
+      {
+        "title": "WF vs. HDB: Which Stock Should Value Investors Buy Now?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wf-vs-hdb-stock-value-144002894.html",
+        "published": "2026-09-24T14:40:02Z"
+      },
+      {
+        "title": "Microsoft Drops as Three-Zone Hyderabad Region Goes Live",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-drops-three-zone-hyderabad-155029074.html",
+        "published": "2026-09-22T15:50:29Z"
+      },
+      {
+        "title": "Microsoft Stays Flat as Hyderabad Adds AI Capacity Without Water Cooling",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stays-flat-hyderabad-adds-191137236.html",
+        "published": "2026-09-21T19:11:37Z"
+      },
+      {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145532894.html",
+        "published": "2026-09-21T14:55:32Z"
+      }
+    ],
+    "ICICIBANK.NS": [
+      {
+        "title": "Apple Pay launches in India with Axis Bank partnership",
+        "publisher": "Quartz",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-launches-india-axis-125526294.html",
+        "published": "2026-09-30T12:55:26Z"
+      },
+      {
+        "title": "Apple Pay to launch in India next month with Axis Bank- report",
+        "publisher": "Electronic Payments",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-launch-india-next-072444839.html",
+        "published": "2026-09-21T07:24:44Z"
+      },
+      {
+        "title": "India and Russia Are Finding Another Way Around the Dollar",
+        "publisher": "Moby",
+        "url": "https://finance.yahoo.com/markets/currencies/articles/india-russia-finding-another-way-151836088.html",
+        "published": "2026-09-11T15:18:36Z"
+      },
+      {
+        "title": "ICICI Prudential AMC gets clearance to buy up to 9.95% of four\u00a0lenders",
+        "publisher": "Retail Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/icici-prudential-amc-gets-clearance-115715409.html",
+        "published": "2026-09-11T11:57:15Z"
+      },
+      {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143931763.html",
+        "published": "2026-09-02T14:39:31Z"
+      }
+    ],
+    "SBIN.NS": [
+      {
+        "title": "SBI and Kyobo Test Japan-Korea Stablecoin Settlement Model",
+        "publisher": "Coinspeaker",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/sbi-kyobo-test-japan-korea-110913067.html",
+        "published": "2026-09-17T11:09:13Z"
+      },
+      {
+        "title": "Ripple XRP News: Circle Arc Launch Puts SBI\u2019s Dual-Rail Strategy in Focus",
+        "publisher": "99bitcoins",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-xrp-news-circle-arc-104441498.html",
+        "published": "2026-09-17T10:44:41Z"
+      },
+      {
+        "title": "India\u2019s National Stock Exchange Seeks $46 Billion Valuation in IPO",
+        "publisher": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/national-stock-exchange-of-india-seeks-2-36-billion-in-pared-back-ipo-19cf72eb?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-09-11T08:28:00Z"
+      },
+      {
+        "title": "India's Top Bank Says Data Centers Aiding Capex Cycle",
+        "publisher": "Bloomberg",
+        "url": "https://finance.yahoo.com/video/indias-top-bank-says-data-133852365.html",
+        "published": "2026-09-10T13:38:52Z"
+      },
+      {
+        "title": "State Bank of India targets 12,000 hires and 250 more branches \u2013 report",
+        "publisher": "Retail Banker International",
+        "url": "https://finance.yahoo.com/small-business/articles/state-bank-india-targets-12-115109308.html",
+        "published": "2026-09-07T11:51:09Z"
+      }
+    ],
+    "TCS.NS": [
+      {
+        "title": "Becoming \u2018AI native\u2019 might not be as profitable as you think. Unless your company does it right",
+        "publisher": "FastCompany",
+        "url": "https://finance.yahoo.com/technology/ai/articles/becoming-ai-native-might-not-130100859.html",
+        "published": "2026-09-21T13:01:00Z"
+      },
+      {
+        "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
+        "published": "2026-09-10T20:50:17Z"
+      },
+      {
+        "title": "Rezolve\u2019s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-rzlv-revenue-surge-turning-084132796.html",
+        "published": "2026-09-03T08:41:32Z"
+      },
+      {
+        "title": "RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith",
+        "publisher": "Stocktwits",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rzlv-stock-stares-worst-week-054809907.html",
+        "published": "2026-09-02T05:48:09Z"
+      },
+      {
+        "title": "REZOLVE AI PLC Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-plc-q2-2026-205050637.html",
+        "published": "2026-09-01T20:50:50Z"
+      }
+    ],
+    "BAJFINANCE.NS": [
+      {
+        "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
+        "published": "2026-08-07T06:53:14Z"
+      },
+      {
+        "title": "Indian shares open lower weighed down by financials, higher oil",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indian-shares-track-muted-start-022722640.html",
+        "published": "2026-08-07T03:57:33Z"
+      },
+      {
+        "title": "Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finserv-ltd-bom-532978-190139205.html",
+        "published": "2026-07-31T19:01:39Z"
+      },
+      {
+        "title": "Indian shares notch monthly gains as AI unwind, upbeat earnings draw foreign inflows",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indian-shares-seen-opening-higher-023045799.html",
+        "published": "2026-07-31T10:18:29Z"
+      },
+      {
+        "title": "India's Bajaj Finance hits record high on strong loan growth, asset quality",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-bajaj-finance-record-high-043826183.html",
+        "published": "2026-07-31T10:15:48Z"
+      }
+    ],
+    "LT.NS": [
+      {
+        "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+        "publisher": "decrypt",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/india-begins-tokenizing-620-billion-110105449.html",
+        "published": "2026-09-14T11:01:05Z"
+      },
+      {
+        "title": "L&T and MHI to build 50km people mover system at Al Maktoum Airport",
+        "publisher": "World Construction Network",
+        "url": "https://finance.yahoo.com/technology/articles/l-t-mhi-build-50km-100741491.html",
+        "published": "2026-08-21T10:07:41Z"
+      },
+      {
+        "title": "What Does Nvidia (NVDA) Gain From Its New AI Factory Push In India?",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-gain-ai-101028140.html",
+        "published": "2026-08-14T10:10:28Z"
+      },
+      {
+        "title": "L&T\u2019s Vyoma.AI to construct NVIDIA B300 AI Factory\u202fin India",
+        "publisher": "World Construction Network",
+        "url": "https://finance.yahoo.com/technology/ai/articles/l-t-vyoma-ai-construct-100000397.html",
+        "published": "2026-08-14T10:00:00Z"
+      },
+      {
+        "title": "Sector Update: Tech Stocks Gain Thursday Afternoon",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-thursday-173236999.html",
+        "published": "2026-08-13T17:32:36Z"
+      }
+    ],
+    "HINDUNILVR.NS": [
+      {
+        "title": "Indian Consumer Staples Stocks With Pricing Power As Inflation Heats Up",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/indian-consumer-staples-stocks-pricing-132052218.html",
+        "published": "2026-09-22T13:20:52Z"
+      },
+      {
+        "title": "Hindustan Unilever Ltd (BOM:500696) Q1 2027 Earnings Call Highlights: Strong Revenue Growth ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hindustan-unilever-ltd-bom-500696-190030403.html",
+        "published": "2026-07-28T19:00:30Z"
+      },
+      {
+        "title": "Unilever India signals more price hikes as commodity inflation persists",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/unilever-india-posts-smaller-quarterly-043627667.html",
+        "published": "2026-07-28T10:18:21Z"
+      },
+      {
+        "title": "India's Swiggy names Nandita Sinha as CEO of quick commerce arm Instamart",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-swiggy-names-nandita-sinha-070820337.html",
+        "published": "2026-07-28T07:24:19Z"
+      },
+      {
+        "title": "India Inc hikes prices, shrinks packs as Iran war squeezes margins",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/india-inc-hikes-prices-shrinks-013623091.html",
+        "published": "2026-06-08T02:00:02Z"
+      }
+    ],
+    "INFY.NS": [
+      {
+        "title": "Accenture (ACN): A 50% Rally Into Earnings, and a Street That Cannot Agree on What It Means",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-50-rally-earnings-005828466.html",
+        "published": "2026-09-29T00:58:28Z"
+      },
+      {
+        "title": "Standard Chartered Predicts Chainlink at $200 and XRP at $28 by 2030. Which Will Get There First?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-predicts-chainlink-200-110000625.html",
+        "published": "2026-09-27T11:00:00Z"
+      },
+      {
+        "title": "Chainlink Jumped 12% in a Day. Can It Reach $15 by the End of October?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/chainlink-jumped-12-day-reach-153548793.html",
+        "published": "2026-09-25T15:35:48Z"
+      },
+      {
+        "title": "Litecoin, Cardano, Stellar, and Chainlink All Outperformed Bitcoin This Week. Which Rally Has the Strongest Support?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/litecoin-cardano-stellar-chainlink-outperformed-150807917.html",
+        "published": "2026-09-25T15:08:07Z"
+      },
+      {
+        "title": "Chainlink\u2019s Infosys Deal: 1.7 Billion Bank Accounts, But Why Did LINK Drop 4%?",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/chainlink-infosys-deal-1-7-125518866.html",
+        "published": "2026-09-24T12:55:18Z"
+      }
+    ],
+    "SUNPHARMA.NS": [
+      {
+        "title": "Here's How Trump's Drug Deals Are Likely to Impact Healthcare ETFs",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/healthcare/articles/heres-trumps-drug-deals-likely-151500696.html",
+        "published": "2026-09-07T15:15:00Z"
+      },
+      {
+        "title": "Trump Expands Drug Pricing Deals With 9 Pharma Companies, Bringing Total to 26 \u2014 RFK Jr. Details 'Very, Very Emotional' Conversations With President",
+        "publisher": "Benzinga",
+        "url": "https://finance.yahoo.com/healthcare/articles/trump-expands-drug-pricing-deals-220007792.html",
+        "published": "2026-09-02T22:00:07Z"
+      },
+      {
+        "title": "Trump's MFN Push Goes Beyond Big Pharma, Adds 9 Mid-Sized Drugmakers",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/healthcare/articles/trumps-mfn-push-goes-beyond-163500680.html",
+        "published": "2026-09-01T16:35:00Z"
+      },
+      {
+        "title": "Mid-cap biotechs join Trump\u2019s latest round of drug pricing deals",
+        "publisher": "BioPharma Dive",
+        "url": "https://finance.yahoo.com/healthcare/articles/mid-cap-biotechs-join-trump-121400658.html",
+        "published": "2026-09-01T12:14:00Z"
+      },
+      {
+        "title": "Trump lines up MFN deals with nine mid-size pharmas on drug pricing push",
+        "publisher": "Pharmaceutical Technology",
+        "url": "https://finance.yahoo.com/healthcare/articles/trump-lines-mfn-deals-nine-120516629.html",
+        "published": "2026-09-01T12:05:16Z"
+      }
+    ],
+    "MARUTI.NS": [
+      {
+        "title": "Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/precision-camshafts-ltd-bom-539636-010108151.html",
+        "published": "2026-09-02T01:01:08Z"
+      },
+      {
+        "title": "Lumax Industries Ltd (BOM:517206) (Q1 2027) Earnings Call Highlights: Strong Revenue Growth and ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lumax-industries-ltd-bom-517206-010455714.html",
+        "published": "2026-08-15T01:04:55Z"
+      },
+      {
+        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
+        "published": "2026-08-13T06:01:20Z"
+      },
+      {
+        "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
+        "published": "2026-08-10T16:09:07Z"
+      },
+      {
+        "title": "India's Maruti sees passenger vehicle market rising to up to 6.3 million units by 2031",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-maruti-sees-passenger-vehicle-090706819.html",
+        "published": "2026-08-09T09:07:06Z"
+      }
+    ],
+    "TITAN.NS": [
+      {
+        "title": "Titan Co Ltd (BOM:500114) (Q1 FY27) Earnings Call Highlights: Strong Growth Amidst Customs Duty ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/titan-co-ltd-bom-500114-210242343.html",
+        "published": "2026-08-07T21:02:42Z"
+      },
+      {
+        "title": "India Jewelry Stocks Lose 12% as Modi Targets $72 Billion In Gold Imports",
+        "publisher": "BeInCrypto",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/india-jewelry-stocks-lose-12-114219883.html",
+        "published": "2026-05-11T11:42:19Z"
+      },
+      {
+        "title": "India's Titan hits record high on strong fourth-quarter sales",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-titan-hits-record-high-041707425.html",
+        "published": "2026-04-08T04:25:14Z"
+      },
+      {
+        "title": "Titan Co Ltd (BOM:500114) Q3 2026 Earnings Call Highlights: Strategic Acquisitions and Market ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/news/titan-co-ltd-bom-500114-090032060.html",
+        "published": "2026-02-11T09:00:32Z"
+      },
+      {
+        "title": "Indian jewellers' stocks shine on strong festive-quarter sales; Titan hits record high",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indian-jewellers-stocks-shine-strong-065213020.html",
+        "published": "2026-01-07T06:52:13Z"
+      }
+    ],
+    "M&M.NS": [
+      {
+        "title": "Mars zeroes in on gut health with startup partnerships",
+        "publisher": "Food Dive",
+        "url": "https://finance.yahoo.com/small-business/articles/mars-zeroes-gut-health-startup-110131217.html",
+        "published": "2026-09-15T11:01:31Z"
+      },
+      {
+        "title": "Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/precision-camshafts-ltd-bom-539636-010108151.html",
+        "published": "2026-09-02T01:01:08Z"
+      },
+      {
+        "title": "ServiceNow (NOW) Expands Multiyear AI Partnership For Enterprise Deployments",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-expands-multiyear-ai-151138392.html",
+        "published": "2026-08-24T15:11:38Z"
+      },
+      {
+        "title": "Tech Mahindra, ServiceNow expand partnership to advance enterprise AI",
+        "publisher": "Verdict",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tech-mahindra-servicenow-expand-partnership-084323493.html",
+        "published": "2026-08-21T08:43:23Z"
+      },
+      {
+        "title": "Volkswagen open to ceding majority control of India unit \u2013 report",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/small-business/articles/volkswagen-open-ceding-majority-control-102305426.html",
+        "published": "2026-08-19T10:23:05Z"
+      }
+    ],
+    "ADANIENT.NS": [
+      {
+        "title": "EQT eyes $50bn India bet, Adani data centres in focus \u2013 report",
+        "publisher": "Investment Monitor",
+        "url": "https://finance.yahoo.com/energy/articles/eqt-eyes-50bn-india-bet-132120290.html",
+        "published": "2026-09-17T13:21:20Z"
+      },
+      {
+        "title": "Adani Airport Holdings raises Rs98.25bn from global funds",
+        "publisher": "Investment Monitor",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adani-airport-holdings-raises-rs98-131212902.html",
+        "published": "2026-09-09T13:12:12Z"
+      },
+      {
+        "title": "India's Adani Energy plans another share sale by early next fiscal, sources say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-adani-energy-plans-another-035637124.html",
+        "published": "2026-07-31T03:56:37Z"
+      },
+      {
+        "title": "Adani Enterprises Ltd (BOM:512599) Q1 2027 Earnings Call Highlights: Strategic Growth Amidst ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adani-enterprises-ltd-bom-512599-190344000.html",
+        "published": "2026-07-29T19:03:44Z"
+      },
+      {
+        "title": "India's Adani Enterprises posts quarterly loss on US settlement charge",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-adani-enterprises-posts-second-091732477.html",
+        "published": "2026-07-29T10:28:16Z"
+      }
+    ],
+    "KOTAKBANK.NS": [
+      {
+        "title": "ICICI Prudential AMC gets clearance to buy up to 9.95% of four\u00a0lenders",
+        "publisher": "Retail Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/icici-prudential-amc-gets-clearance-115715409.html",
+        "published": "2026-09-11T11:57:15Z"
+      },
+      {
+        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
+        "published": "2026-08-18T13:11:34Z"
+      },
+      {
+        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
+        "publisher": "Private Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
+        "published": "2026-08-14T11:52:36Z"
+      },
+      {
+        "title": "India's Kotak Investment Banking appoints co-CEOs",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-kotak-investment-banking-appoints-122745893.html",
+        "published": "2026-07-30T12:27:45Z"
+      },
+      {
+        "title": "Coca-Cola appoints JPMorgan, Citi for India bottler IPO, sources say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/coca-cola-appoints-jpmorgan-citi-130505818.html",
+        "published": "2026-07-20T13:05:05Z"
+      }
+    ],
+    "ADANIPORTS.NS": [
+      {
+        "title": "Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adani-ports-stock-gulf-port-051515502.html",
+        "published": "2026-09-20T05:15:15Z"
+      },
+      {
+        "title": "India's Adani Ports posts higher profit on domestic demand",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-adani-ports-posts-higher-084229648.html",
+        "published": "2026-07-29T08:42:29Z"
+      },
+      {
+        "title": "Factbox-A look at billionaire Adani's businesses as he weighs starting an airline",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/factbox-look-billionaire-adanis-businesses-060808956.html",
+        "published": "2026-07-23T06:08:08Z"
+      },
+      {
+        "title": "India's Kerala state not consulted on MSC's $1.4 billion port investment, chief minister says",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-kerala-state-not-consulted-070810610.html",
+        "published": "2026-07-03T07:08:10Z"
+      },
+      {
+        "title": "Adani Ports to sell 49% stake in Indian port to MSC for $1.4 billion",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/adani-ports-sell-49-stake-024547215.html",
+        "published": "2026-06-30T03:38:02Z"
+      }
+    ],
+    "AXISBANK.NS": [
+      {
+        "title": "Apple Pay launches in India with Axis Bank partnership",
+        "publisher": "Quartz",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-launches-india-axis-125526294.html",
+        "published": "2026-09-30T12:55:26Z"
+      },
+      {
+        "title": "Apple Launches Mobile Payment Services in India",
+        "publisher": "The Wall Street Journal",
+        "url": "https://www.wsj.com/tech/apple-launches-mobile-payment-services-in-india-8453423b?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-09-30T07:30:00Z"
+      },
+      {
+        "title": "Apple Pay finally launches in India after years on the sidelines",
+        "publisher": "TechCrunch",
+        "url": "https://finance.yahoo.com/technology/articles/apple-pay-set-launch-india-184500796.html",
+        "published": "2026-09-30T04:08:00Z"
+      },
+      {
+        "title": "Foldables, AI Servers and India Expansion: What Lies Ahead for Apple (AAPL) Under the New CEO?",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/technology/articles/foldables-ai-servers-india-expansion-092447891.html",
+        "published": "2026-09-27T09:24:47Z"
+      },
+      {
+        "title": "Apple (AAPL) Eyes an Apple Pay Launch in India. How Much can it Grow Without UPI?",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-eyes-apple-pay-005634655.html",
+        "published": "2026-09-26T00:56:34Z"
+      }
+    ],
+    "HCLTECH.NS": [
+      {
+        "title": "HCLTech targets mid-sized businesses with new AI services unit",
+        "publisher": "Verdict",
+        "url": "https://finance.yahoo.com/technology/ai/articles/hcltech-targets-mid-sized-businesses-071819868.html",
+        "published": "2026-09-18T07:18:19Z"
+      },
+      {
+        "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
+        "published": "2026-09-10T20:50:17Z"
+      },
+      {
+        "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
+        "published": "2026-08-20T23:02:07Z"
+      },
+      {
+        "title": "India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-hcltech-sarvam-set-1-065004954.html",
+        "published": "2026-07-24T08:17:08Z"
+      },
+      {
+        "title": "India's Odisha state approves corporate investments worth $475 million",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-odisha-state-approves-corporate-141911177.html",
+        "published": "2026-07-21T14:19:11Z"
+      }
+    ],
+    "ITC.NS": [
+      {
+        "title": "British American Tobacco plans to offload stake in India's ITC Hotels",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/british-american-tobacco-plans-offload-142827642.html",
+        "published": "2025-12-04T14:28:27Z"
+      }
+    ]
   }
 }
