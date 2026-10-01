@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:22:50+00:00",
+  "updated": "2026-10-01T16:59:46+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -73,6 +73,12 @@
         "published": "2026-09-30T12:55:26Z"
       },
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144123090.html",
+        "published": "2026-09-25T14:41:23Z"
+      },
+      {
         "title": "WF vs. HDB: Which Stock Should Value Investors Buy Now?",
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/wf-vs-hdb-stock-value-144002894.html",
@@ -89,12 +95,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stays-flat-hyderabad-adds-191137236.html",
         "published": "2026-09-21T19:11:37Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-145532894.html",
-        "published": "2026-09-21T14:55:32Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -291,6 +291,12 @@
     ],
     "INFY.NS": [
       {
+        "title": "Accenture Soars 23% as Record Bookings Dispel AI Demand Fears; Infosys Jumps 8%, IBM Climbs 5%",
+        "publisher": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-soars-23-record-bookings-141118466.html",
+        "published": "2026-10-01T14:11:18Z"
+      },
+      {
         "title": "Accenture (ACN): A 50% Rally Into Earnings, and a Street That Cannot Agree on What It Means",
         "publisher": "Insider Monkey",
         "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-50-rally-earnings-005828466.html",
@@ -313,12 +319,6 @@
         "publisher": "24/7 Wall St.",
         "url": "https://finance.yahoo.com/markets/crypto/articles/litecoin-cardano-stellar-chainlink-outperformed-150807917.html",
         "published": "2026-09-25T15:08:07Z"
-      },
-      {
-        "title": "Chainlink\u2019s Infosys Deal: 1.7 Billion Bank Accounts, But Why Did LINK Drop 4%?",
-        "publisher": "24/7 Wall St.",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/chainlink-infosys-deal-1-7-125518866.html",
-        "published": "2026-09-24T12:55:18Z"
       }
     ],
     "SUNPHARMA.NS": [
