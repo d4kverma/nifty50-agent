@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T17:43:04+00:00",
+  "updated": "2026-11-04T17:56:16+00:00",
   "fundamentals": {
     "RELIANCE.NS": {
       "market_cap_cr": null,
       "pe_ratio": 21.6,
-      "forward_pe": 17.7,
+      "forward_pe": 17.8,
       "eps": 60.68,
       "dividend_yield_pct": 0.46,
       "week52_high": 1611.8,
@@ -15,11 +15,11 @@
       "beta": 0.183
     },
     "BHARTIARTL.NS": {
-      "market_cap_cr": 1288282.9,
+      "market_cap_cr": 1289905.0,
       "pe_ratio": 43.2,
       "forward_pe": 25.1,
       "eps": 47.84,
-      "dividend_yield_pct": 1.21,
+      "dividend_yield_pct": 1.16,
       "week52_high": 2174.5,
       "week52_low": 1726.3,
       "sector": "Communication Services",
@@ -28,11 +28,11 @@
       "beta": -0.033
     },
     "HDFCBANK.NS": {
-      "market_cap_cr": 1119612.9,
-      "pe_ratio": 15.9,
-      "forward_pe": 11.6,
+      "market_cap_cr": 1136897.0,
+      "pe_ratio": 16.1,
+      "forward_pe": 11.8,
       "eps": 45.75,
-      "dividend_yield_pct": 1.86,
+      "dividend_yield_pct": 1.79,
       "week52_high": 1017.5,
       "week52_low": 669.2,
       "sector": "Financial Services",
@@ -41,11 +41,11 @@
       "beta": 0.394
     },
     "ICICIBANK.NS": {
-      "market_cap_cr": 1022898.2,
+      "market_cap_cr": 1022619.9,
       "pe_ratio": 17.5,
       "forward_pe": 14.5,
       "eps": 81.43,
-      "dividend_yield_pct": 0.86,
+      "dividend_yield_pct": 0.84,
       "week52_high": 1480.0,
       "week52_low": 1187.6,
       "sector": "Financial Services",
@@ -54,10 +54,10 @@
       "beta": 0.193
     },
     "SBIN.NS": {
-      "market_cap_cr": 895615.2,
-      "pe_ratio": 10.4,
+      "market_cap_cr": 903677.5,
+      "pe_ratio": 10.0,
       "forward_pe": 9.2,
-      "eps": 93.3,
+      "eps": 97.97,
       "dividend_yield_pct": 1.76,
       "week52_high": 1234.7,
       "week52_low": 933.9,
@@ -68,8 +68,8 @@
     },
     "TCS.NS": {
       "market_cap_cr": null,
-      "pe_ratio": 17.5,
-      "forward_pe": 15.5,
+      "pe_ratio": 17.1,
+      "forward_pe": 15.1,
       "eps": 142.66,
       "dividend_yield_pct": 1.92,
       "week52_high": 3350.0,
@@ -80,9 +80,9 @@
       "beta": 0.075
     },
     "BAJFINANCE.NS": {
-      "market_cap_cr": 603718.7,
-      "pe_ratio": 27.9,
-      "forward_pe": 19.3,
+      "market_cap_cr": 618656.0,
+      "pe_ratio": 28.6,
+      "forward_pe": 19.8,
       "eps": 34.78,
       "dividend_yield_pct": 0.56,
       "week52_high": 1176.4,
@@ -93,7 +93,7 @@
       "beta": 0.312
     },
     "LT.NS": {
-      "market_cap_cr": 543227.8,
+      "market_cap_cr": 542704.9,
       "pe_ratio": 30.4,
       "forward_pe": 21.9,
       "eps": 129.82,
@@ -106,11 +106,11 @@
       "beta": 0.495
     },
     "HINDUNILVR.NS": {
-      "market_cap_cr": 461177.8,
-      "pe_ratio": 43.6,
-      "forward_pe": 36.8,
+      "market_cap_cr": 464537.7,
+      "pe_ratio": 43.9,
+      "forward_pe": 37.1,
       "eps": 45.04,
-      "dividend_yield_pct": 2.16,
+      "dividend_yield_pct": 2.09,
       "week52_high": 2488.0,
       "week52_low": 1758.2,
       "sector": "Consumer Defensive",
@@ -119,11 +119,11 @@
       "beta": 0.314
     },
     "INFY.NS": {
-      "market_cap_cr": 465023.7,
-      "pe_ratio": 15.3,
-      "forward_pe": 14.4,
+      "market_cap_cr": 456963.4,
+      "pe_ratio": 15.0,
+      "forward_pe": 14.1,
       "eps": 75.1,
-      "dividend_yield_pct": 4.48,
+      "dividend_yield_pct": 4.53,
       "week52_high": 1728.0,
       "week52_low": 980.4,
       "sector": "Technology",
@@ -132,8 +132,8 @@
       "beta": 0.02
     },
     "SUNPHARMA.NS": {
-      "market_cap_cr": 424658.3,
-      "pe_ratio": 38.7,
+      "market_cap_cr": 425498.1,
+      "pe_ratio": 38.8,
       "forward_pe": 28.1,
       "eps": 45.7,
       "dividend_yield_pct": 0.9,
@@ -145,11 +145,11 @@
       "beta": 0.132
     },
     "MARUTI.NS": {
-      "market_cap_cr": 373164.4,
-      "pe_ratio": 27.7,
-      "forward_pe": 21.4,
+      "market_cap_cr": 377125.9,
+      "pe_ratio": 28.0,
+      "forward_pe": 21.7,
       "eps": 427.83,
-      "dividend_yield_pct": 1.2,
+      "dividend_yield_pct": 1.18,
       "week52_high": 17370.0,
       "week52_low": 10985.0,
       "sector": "Consumer Cyclical",
@@ -158,24 +158,24 @@
       "beta": 0.263
     },
     "TITAN.NS": {
-      "market_cap_cr": 404791.9,
-      "pe_ratio": 70.3,
-      "forward_pe": 51.1,
+      "market_cap_cr": 421863.8,
+      "pe_ratio": 73.3,
+      "forward_pe": 53.2,
       "eps": 64.88,
-      "dividend_yield_pct": 0.34,
+      "dividend_yield_pct": 0.33,
       "week52_high": 5186.7,
-      "week52_low": 3715.0,
+      "week52_low": 3736.0,
       "sector": "Consumer Cyclical",
       "industry": "Luxury Goods",
       "roe_pct": null,
       "beta": 0.238
     },
     "M&M.NS": {
-      "market_cap_cr": 349181.7,
-      "pe_ratio": 17.7,
-      "forward_pe": 18.5,
+      "market_cap_cr": 355653.8,
+      "pe_ratio": 18.0,
+      "forward_pe": 18.9,
       "eps": 164.27,
-      "dividend_yield_pct": 1.15,
+      "dividend_yield_pct": 1.13,
       "week52_high": 3839.9,
       "week52_low": 2744.3,
       "sector": "Consumer Cyclical",
@@ -184,9 +184,9 @@
       "beta": 0.289
     },
     "ADANIENT.NS": {
-      "market_cap_cr": 351060.9,
-      "pe_ratio": 55.3,
-      "forward_pe": 46.1,
+      "market_cap_cr": 366750.5,
+      "pe_ratio": 57.8,
+      "forward_pe": 48.2,
       "eps": 46.91,
       "dividend_yield_pct": 0.05,
       "week52_high": 3245.0,
@@ -197,9 +197,9 @@
       "beta": 0.866
     },
     "KOTAKBANK.NS": {
-      "market_cap_cr": 462228.3,
-      "pe_ratio": 21.5,
-      "forward_pe": 18.9,
+      "market_cap_cr": 457005.6,
+      "pe_ratio": 21.3,
+      "forward_pe": 18.7,
       "eps": 21.58,
       "dividend_yield_pct": 0.14,
       "week52_high": 465.95,
@@ -210,12 +210,12 @@
       "beta": 0.257
     },
     "ADANIPORTS.NS": {
-      "market_cap_cr": 430126.1,
-      "pe_ratio": 31.2,
-      "forward_pe": 23.5,
+      "market_cap_cr": 440056.2,
+      "pe_ratio": 31.9,
+      "forward_pe": 24.0,
       "eps": 59.92,
       "dividend_yield_pct": 0.4,
-      "week52_high": 1891.1,
+      "week52_high": 1921.3,
       "week52_low": 1292.0,
       "sector": "Industrials",
       "industry": "Marine Shipping",
@@ -223,7 +223,7 @@
       "beta": 0.453
     },
     "AXISBANK.NS": {
-      "market_cap_cr": 383872.5,
+      "market_cap_cr": 383676.2,
       "pe_ratio": 12.9,
       "forward_pe": 10.5,
       "eps": 95.83,
@@ -236,11 +236,11 @@
       "beta": 0.383
     },
     "HCLTECH.NS": {
-      "market_cap_cr": 389510.5,
-      "pe_ratio": 21.3,
-      "forward_pe": 18.0,
+      "market_cap_cr": 380280.9,
+      "pe_ratio": 20.8,
+      "forward_pe": 17.5,
       "eps": 67.59,
-      "dividend_yield_pct": 3.35,
+      "dividend_yield_pct": 3.34,
       "week52_high": 1780.1,
       "week52_low": 1030.0,
       "sector": "Technology",
@@ -249,17 +249,17 @@
       "beta": -0.051
     },
     "ITC.NS": {
-      "market_cap_cr": 343249.1,
-      "pe_ratio": 18.2,
-      "forward_pe": 16.2,
+      "market_cap_cr": 350893.6,
+      "pe_ratio": 18.6,
+      "forward_pe": 16.6,
       "eps": 15.07,
-      "dividend_yield_pct": 6.01,
-      "week52_high": 414.5,
+      "dividend_yield_pct": 5.84,
+      "week52_high": 413.3,
       "week52_low": 252.8,
       "sector": "Consumer Defensive",
       "industry": "Tobacco",
       "roe_pct": 26.8,
-      "beta": null
+      "beta": -0.067
     }
   }
 }
