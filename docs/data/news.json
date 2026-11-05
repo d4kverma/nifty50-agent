@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T17:56:28+00:00",
+  "updated": "2026-11-05T17:57:22+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -22,14 +22,14 @@
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios Media",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
+        "publisher": "Axios",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
         "published": "2026-10-28T14:32:26Z"
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
+        "publisher": "Axios Media",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
         "published": "2026-10-28T14:32:26Z"
       }
     ],
@@ -99,6 +99,18 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155825220.html",
+        "published": "2026-11-05T15:58:25Z"
+      },
+      {
+        "title": "Zacks Industry Outlook Highlights ICICI, Canadian Imperial Bank and KB Financial",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-icici-071400142.html",
+        "published": "2026-11-05T07:14:00Z"
+      },
+      {
         "title": "3 Foreign Bank Stocks to Invest in Despite Challenging Industry Trends",
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/3-foreign-bank-stocks-invest-153700762.html",
@@ -115,18 +127,6 @@
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predict-25-125502577.html",
         "published": "2026-10-29T12:55:02Z"
-      },
-      {
-        "title": "Top Stock Reports for Tesla, Netflix & American Express",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-tesla-netflix-190800305.html",
-        "published": "2026-10-28T19:08:00Z"
-      },
-      {
-        "title": "What Makes ICICI Bank (IBN) a New Strong Buy Stock",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/makes-icici-bank-ibn-strong-150003975.html",
-        "published": "2026-10-28T15:00:03Z"
       }
     ],
     "SBIN.NS": [
@@ -291,6 +291,18 @@
     ],
     "INFY.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155825220.html",
+        "published": "2026-11-05T15:58:25Z"
+      },
+      {
+        "title": "Infosys: 3 Key Takeaways for Long-Term Investors",
+        "publisher": "Motley Fool",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-3-key-takeaways-long-015223370.html",
+        "published": "2026-11-05T01:52:23Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Friday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144016114.html",
@@ -307,18 +319,6 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/technology/ai/articles/truist-financial-tfc-expands-hyderabad-111243456.html",
         "published": "2026-10-27T11:12:43Z"
-      },
-      {
-        "title": "Infosys (INFY) Q2 2027 Earnings Call Transcript",
-        "publisher": "Motley Fool",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-infy-q2-2027-earnings-134027812.html",
-        "published": "2026-10-26T13:40:27Z"
-      },
-      {
-        "title": "Company News for Oct 26, 2026",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-oct-26-2026-085900060.html",
-        "published": "2026-10-26T08:59:00Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -355,6 +355,12 @@
     ],
     "MARUTI.NS": [
       {
+        "title": "Subros Ltd (BOM:517168) (Q2 2027) Earnings Call Highlights: Strong 36% Revenue Growth Offset by ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/subros-ltd-bom-517168-q2-190548111.html",
+        "published": "2026-11-04T19:05:48Z"
+      },
+      {
         "title": "Maruti Suzuki quarterly profit falls 26.8% despite sales growth",
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-quarterly-profit-falls-183826060.html",
@@ -377,12 +383,6 @@
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
         "published": "2026-08-10T16:09:07Z"
-      },
-      {
-        "title": "India's Apollo Tyres posts quarterly profit rise on price hikes, firm demand in key markets",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-apollo-tyres-posts-quarterly-132207122.html",
-        "published": "2026-08-06T13:22:07Z"
       }
     ],
     "TITAN.NS": [
@@ -471,6 +471,12 @@
     ],
     "KOTAKBANK.NS": [
       {
+        "title": "Is Deutsche Bank (XTRA:DBK) Reasonable Or Stretched After A 239% Run?",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-xtra-dbk-reasonable-062032529.html",
+        "published": "2026-11-05T06:20:32Z"
+      },
+      {
         "title": "CCI approves Kotak\u2019s purchase of Deutsche Bank\u2019s India retail operations",
         "publisher": "Retail Banker International",
         "url": "https://finance.yahoo.com/news/cci-approves-kotak-purchase-deutsche-114639423.html",
@@ -493,12 +499,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
         "published": "2026-08-18T13:11:34Z"
-      },
-      {
-        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
-        "publisher": "Private Banker International",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
-        "published": "2026-08-14T11:52:36Z"
       }
     ],
     "ADANIPORTS.NS": [
