@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T17:57:22+00:00",
+  "updated": "2026-11-06T17:23:58+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -22,14 +22,14 @@
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
+        "publisher": "Axios Media",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
         "published": "2026-10-28T14:32:26Z"
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios Media",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
+        "publisher": "Axios",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
         "published": "2026-10-28T14:32:26Z"
       }
     ],
@@ -99,6 +99,12 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Surge in Friday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154451331.html",
+        "published": "2026-11-06T15:44:51Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155825220.html",
@@ -121,15 +127,15 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154953483.html",
         "published": "2026-11-03T15:49:53Z"
-      },
-      {
-        "title": "Wall Street Analysts Predict a 25.44% Upside in ICICI Bank (IBN): Here's  What You Should Know",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predict-25-125502577.html",
-        "published": "2026-10-29T12:55:02Z"
       }
     ],
     "SBIN.NS": [
+      {
+        "title": "Google could take stake in TeraWulf\u2019s $19B AI project",
+        "publisher": "CoinDesk",
+        "url": "https://finance.yahoo.com/video/google-could-stake-terawulf-19b-193547457.html",
+        "published": "2026-11-05T19:35:47Z"
+      },
       {
         "title": "State Bank of India (SBKFF) (Q2 2027) Earnings Call Highlights: Record Profit, Two-Decade-Low ...",
         "publisher": "GuruFocus.com",
@@ -153,12 +159,6 @@
         "publisher": "CoinGape",
         "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-joins-ripple-partner-sbi-055139575.html",
         "published": "2026-10-27T05:51:39Z"
-      },
-      {
-        "title": "Black October: Widespread AI cyberattacks are sounding alarms around the world",
-        "publisher": "Yahoo Finance Video",
-        "url": "https://finance.yahoo.com/video/black-october-widespread-ai-cyberattacks-are-sounding-alarms-around-the-world-145059067.html",
-        "published": "2026-10-23T14:50:59Z"
       }
     ],
     "TCS.NS": [
@@ -195,12 +195,6 @@
     ],
     "BAJFINANCE.NS": [
       {
-        "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
-        "published": "2026-08-07T06:53:14Z"
-      },
-      {
         "title": "Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finserv-ltd-bom-532978-190139205.html",
@@ -223,6 +217,12 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bajaj-finance-posts-higher-095501327.html",
         "published": "2026-07-30T11:08:28Z"
+      },
+      {
+        "title": "Indian telecom firm Bharti Airtel to invest $2.2 billion to expand digital lending",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indian-telecom-firm-bharti-airtel-111532339.html",
+        "published": "2026-02-23T11:15:32Z"
       }
     ],
     "LT.NS": [
@@ -266,14 +266,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
@@ -379,13 +379,19 @@
         "published": "2026-08-15T01:04:55Z"
       },
       {
-        "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
-        "publisher": "Just Auto",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
-        "published": "2026-08-10T16:09:07Z"
+        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
+        "published": "2026-08-13T06:01:20Z"
       }
     ],
     "TITAN.NS": [
+      {
+        "title": "Titan Co Ltd (BOM:500114) (Q2 2027) Earnings Call Highlights: Duty Gains and Studded Jewelry ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/titan-co-ltd-bom-500114-011803601.html",
+        "published": "2026-11-06T01:18:03Z"
+      },
       {
         "title": "Titan Co Ltd (BOM:500114) (Q1 FY27) Earnings Call Highlights: Strong Growth Amidst Customs Duty ...",
         "publisher": "GuruFocus.com",
@@ -406,6 +412,12 @@
       }
     ],
     "M&M.NS": [
+      {
+        "title": "Mahindra posts 25% rise in Q2 consolidated profit after tax",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-posts-25-rise-q2-122951970.html",
+        "published": "2026-11-06T12:29:51Z"
+      },
       {
         "title": "Volkswagen halts India EV spending amid JSW partnership uncertainty \u2013 report",
         "publisher": "Just Auto",
@@ -429,12 +441,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/precision-camshafts-ltd-bom-539636-010108151.html",
         "published": "2026-09-02T01:01:08Z"
-      },
-      {
-        "title": "Tech Mahindra, ServiceNow expand partnership to advance enterprise AI",
-        "publisher": "Verdict",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tech-mahindra-servicenow-expand-partnership-084323493.html",
-        "published": "2026-08-21T08:43:23Z"
       }
     ],
     "ADANIENT.NS": [
@@ -463,10 +469,10 @@
         "published": "2026-09-09T13:12:12Z"
       },
       {
-        "title": "India's Adani Energy plans another share sale by early next fiscal, sources say",
+        "title": "Billionaire Adani weighs airline launch in Indian duopoly market, sources say",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-adani-energy-plans-another-035637124.html",
-        "published": "2026-07-31T03:56:37Z"
+        "url": "https://finance.yahoo.com/news/indias-adani-group-considers-launching-050554840.html",
+        "published": "2026-07-23T08:20:42Z"
       }
     ],
     "KOTAKBANK.NS": [
@@ -495,10 +501,10 @@
         "published": "2026-09-11T11:57:15Z"
       },
       {
-        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
-        "published": "2026-08-18T13:11:34Z"
+        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
+        "publisher": "Private Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
+        "published": "2026-08-14T11:52:36Z"
       }
     ],
     "ADANIPORTS.NS": [
@@ -519,12 +525,6 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/adani-ports-stock-gulf-port-051515502.html",
         "published": "2026-09-20T05:15:15Z"
-      },
-      {
-        "title": "India's Adani Ports posts higher profit on domestic demand",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-adani-ports-posts-higher-084229648.html",
-        "published": "2026-07-29T08:42:29Z"
       },
       {
         "title": "Gautam Adani\u2019s Net Worth Swells By $2 Billion\u2014Becomes Asia\u2019s Richest Person",
