@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T17:23:58+00:00",
+  "updated": "2026-11-09T20:38:52+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -22,14 +22,14 @@
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios Media",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
+        "publisher": "Axios",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
         "published": "2026-10-28T14:32:26Z"
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
+        "publisher": "Axios Media",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
         "published": "2026-10-28T14:32:26Z"
       }
     ],
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Standard Chartered hires HDFC executive to lead India private banking arm",
+        "publisher": "Private Banker International",
+        "url": "https://finance.yahoo.com/news/standard-chartered-hires-hdfc-executive-115753321.html",
+        "published": "2026-11-09T11:57:53Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Surge in Wednesday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154159877.html",
@@ -89,15 +95,15 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155452713.html",
         "published": "2026-11-02T15:54:52Z"
-      },
-      {
-        "title": "A $9.5 Billion Fund Bought These 3 Stocks",
-        "publisher": "TIKR",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/9-5-billion-fund-bought-154023240.html",
-        "published": "2026-11-02T15:40:23Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "5 Best All-Time High Stocks to Buy According to Wall Street",
+        "publisher": "Insider Monkey",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-time-high-stocks-190458183.html",
+        "published": "2026-11-09T19:03:49Z"
+      },
       {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Surge in Friday Trading",
         "publisher": "MT Newswires",
@@ -121,15 +127,15 @@
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/3-foreign-bank-stocks-invest-153700762.html",
         "published": "2026-11-04T15:37:00Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Higher in Tuesday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154953483.html",
-        "published": "2026-11-03T15:49:53Z"
       }
     ],
     "SBIN.NS": [
+      {
+        "title": "Standard Chartered and SBI back crypto insurance firm",
+        "publisher": "TheStreet",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-sbi-back-crypto-210846511.html",
+        "published": "2026-11-06T21:08:46Z"
+      },
       {
         "title": "Google could take stake in TeraWulf\u2019s $19B AI project",
         "publisher": "CoinDesk",
@@ -153,12 +159,6 @@
         "publisher": "Retail Banker International",
         "url": "https://finance.yahoo.com/news/india-apex-bank-ramps-cybersecurity-120322222.html",
         "published": "2026-11-02T12:03:22Z"
-      },
-      {
-        "title": "BlackRock Joins Ripple-Partner SBI Holdings and Startale to Link Tokenized MMFs with JPYSC",
-        "publisher": "CoinGape",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-joins-ripple-partner-sbi-055139575.html",
-        "published": "2026-10-27T05:51:39Z"
       }
     ],
     "TCS.NS": [
@@ -413,6 +413,12 @@
     ],
     "M&M.NS": [
       {
+        "title": "Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-mahindra-ltd-mahmf-q2-032028656.html",
+        "published": "2026-11-07T03:20:28Z"
+      },
+      {
         "title": "Mahindra posts 25% rise in Q2 consolidated profit after tax",
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-posts-25-rise-q2-122951970.html",
@@ -435,12 +441,6 @@
         "publisher": "Food Dive",
         "url": "https://finance.yahoo.com/small-business/articles/mars-zeroes-gut-health-startup-110131217.html",
         "published": "2026-09-15T11:01:31Z"
-      },
-      {
-        "title": "Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/precision-camshafts-ltd-bom-539636-010108151.html",
-        "published": "2026-09-02T01:01:08Z"
       }
     ],
     "ADANIENT.NS": [
