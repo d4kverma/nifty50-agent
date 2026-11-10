@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:38:52+00:00",
+  "updated": "2026-11-10T17:40:19+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -22,14 +22,14 @@
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
+        "publisher": "Axios Media",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
         "published": "2026-10-28T14:32:26Z"
       },
       {
         "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios Media",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
+        "publisher": "Axios",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
         "published": "2026-10-28T14:32:26Z"
       }
     ],
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
+        "published": "2026-11-10T15:41:41Z"
+      },
+      {
         "title": "Standard Chartered hires HDFC executive to lead India private banking arm",
         "publisher": "Private Banker International",
         "url": "https://finance.yahoo.com/news/standard-chartered-hires-hdfc-executive-115753321.html",
@@ -89,15 +95,15 @@
         "publisher": "Payments Dive",
         "url": "https://finance.yahoo.com/small-business/articles/mastercard-scales-india-161804418.html",
         "published": "2026-11-02T16:18:04Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Surge in Monday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155452713.html",
-        "published": "2026-11-02T15:54:52Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
+        "published": "2026-11-10T15:41:41Z"
+      },
       {
         "title": "5 Best All-Time High Stocks to Buy According to Wall Street",
         "publisher": "Insider Monkey",
@@ -121,15 +127,15 @@
         "publisher": "Zacks",
         "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-icici-071400142.html",
         "published": "2026-11-05T07:14:00Z"
-      },
-      {
-        "title": "3 Foreign Bank Stocks to Invest in Despite Challenging Industry Trends",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-foreign-bank-stocks-invest-153700762.html",
-        "published": "2026-11-04T15:37:00Z"
       }
     ],
     "SBIN.NS": [
+      {
+        "title": "Why SBI Cards Fell Even As Profit Rose",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-sbi-cards-fell-even-042744404.html",
+        "published": "2026-11-10T04:27:44Z"
+      },
       {
         "title": "Standard Chartered and SBI back crypto insurance firm",
         "publisher": "TheStreet",
@@ -153,12 +159,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-backed-anthropic-plans-retail-093920998.html",
         "published": "2026-11-03T09:39:20Z"
-      },
-      {
-        "title": "India\u2019s apex bank ramps up cybersecurity scrutiny on lenders \u2013 report",
-        "publisher": "Retail Banker International",
-        "url": "https://finance.yahoo.com/news/india-apex-bank-ramps-cybersecurity-120322222.html",
-        "published": "2026-11-02T12:03:22Z"
       }
     ],
     "TCS.NS": [
@@ -195,6 +195,12 @@
     ],
     "BAJFINANCE.NS": [
       {
+        "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
+        "published": "2026-08-07T06:53:14Z"
+      },
+      {
         "title": "Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finserv-ltd-bom-532978-190139205.html",
@@ -217,12 +223,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bajaj-finance-posts-higher-095501327.html",
         "published": "2026-07-30T11:08:28Z"
-      },
-      {
-        "title": "Indian telecom firm Bharti Airtel to invest $2.2 billion to expand digital lending",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indian-telecom-firm-bharti-airtel-111532339.html",
-        "published": "2026-02-23T11:15:32Z"
       }
     ],
     "LT.NS": [
@@ -266,14 +266,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
@@ -379,10 +379,10 @@
         "published": "2026-08-15T01:04:55Z"
       },
       {
-        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
-        "published": "2026-08-13T06:01:20Z"
+        "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
+        "published": "2026-08-10T16:09:07Z"
       }
     ],
     "TITAN.NS": [
@@ -469,10 +469,10 @@
         "published": "2026-09-09T13:12:12Z"
       },
       {
-        "title": "Billionaire Adani weighs airline launch in Indian duopoly market, sources say",
+        "title": "India's Adani Energy plans another share sale by early next fiscal, sources say",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-adani-group-considers-launching-050554840.html",
-        "published": "2026-07-23T08:20:42Z"
+        "url": "https://finance.yahoo.com/news/indias-adani-energy-plans-another-035637124.html",
+        "published": "2026-07-31T03:56:37Z"
       }
     ],
     "KOTAKBANK.NS": [
@@ -501,10 +501,10 @@
         "published": "2026-09-11T11:57:15Z"
       },
       {
-        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
-        "publisher": "Private Banker International",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
-        "published": "2026-08-14T11:52:36Z"
+        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
+        "published": "2026-08-18T13:11:34Z"
       }
     ],
     "ADANIPORTS.NS": [
@@ -525,6 +525,12 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/adani-ports-stock-gulf-port-051515502.html",
         "published": "2026-09-20T05:15:15Z"
+      },
+      {
+        "title": "India's Adani Ports posts higher profit on domestic demand",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-adani-ports-posts-higher-084229648.html",
+        "published": "2026-07-29T08:42:29Z"
       },
       {
         "title": "Gautam Adani\u2019s Net Worth Swells By $2 Billion\u2014Becomes Asia\u2019s Richest Person",
