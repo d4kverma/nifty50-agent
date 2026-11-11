@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:40:19+00:00",
+  "updated": "2026-11-11T17:50:51+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Here's Where Investors Turned To As They Fled AI Stocks",
+        "publisher": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
+        "published": "2026-11-10T20:19:37Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
@@ -89,15 +95,15 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154953483.html",
         "published": "2026-11-03T15:49:53Z"
-      },
-      {
-        "title": "Mastercard scales in India",
-        "publisher": "Payments Dive",
-        "url": "https://finance.yahoo.com/small-business/articles/mastercard-scales-india-161804418.html",
-        "published": "2026-11-02T16:18:04Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "Here's Where Investors Turned To As They Fled AI Stocks",
+        "publisher": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
+        "published": "2026-11-10T20:19:37Z"
+      },
       {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading",
         "publisher": "MT Newswires",
@@ -121,12 +127,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155825220.html",
         "published": "2026-11-05T15:58:25Z"
-      },
-      {
-        "title": "Zacks Industry Outlook Highlights ICICI, Canadian Imperial Bank and KB Financial",
-        "publisher": "Zacks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-icici-071400142.html",
-        "published": "2026-11-05T07:14:00Z"
       }
     ],
     "SBIN.NS": [
@@ -227,6 +227,12 @@
     ],
     "LT.NS": [
       {
+        "title": "L&T secures order for Noida Metro Aqua Line extension project",
+        "publisher": "World Construction Network",
+        "url": "https://finance.yahoo.com/news/l-t-secures-order-noida-090739889.html",
+        "published": "2026-11-11T09:07:39Z"
+      },
+      {
         "title": "Larsen & Toubro Ltd (LTOUF) (Q2 2027) Earnings Call Highlights: Record INR1. ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/larsen-toubro-ltd-ltouf-q2-150317828.html",
@@ -249,12 +255,6 @@
         "publisher": "Power Technology",
         "url": "https://finance.yahoo.com/news/l-t-receives-lntp-1-134408314.html",
         "published": "2026-10-08T13:44:08Z"
-      },
-      {
-        "title": "India raises policy rate by 25 bps in first hike in nearly four years",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/economy/policy/articles/india-raises-policy-rate-25-044329341.html",
-        "published": "2026-10-07T06:57:55Z"
       }
     ],
     "HINDUNILVR.NS": [
@@ -291,6 +291,18 @@
     ],
     "INFY.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154814184.html",
+        "published": "2026-11-11T15:48:14Z"
+      },
+      {
+        "title": "The Overlooked AI Trade Hiding in a Beaten-Down Corner of the Market",
+        "publisher": "Motley Fool",
+        "url": "https://finance.yahoo.com/technology/ai/articles/overlooked-ai-trade-hiding-beaten-222136739.html",
+        "published": "2026-11-10T22:21:36Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155825220.html",
@@ -307,18 +319,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144016114.html",
         "published": "2026-10-30T14:40:16Z"
-      },
-      {
-        "title": "Cognizant Sinks as Bookings Drop 7% and AI Shifts \u201cFrom Capability to Value Realization\u201d",
-        "publisher": "TIKR",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cognizant-sinks-bookings-drop-7-140110848.html",
-        "published": "2026-10-29T14:01:10Z"
-      },
-      {
-        "title": "Truist Financial (TFC) Expands Hyderabad AI Hub As India Team Tops 1,000",
-        "publisher": "Simply Wall St.",
-        "url": "https://finance.yahoo.com/technology/ai/articles/truist-financial-tfc-expands-hyderabad-111243456.html",
-        "published": "2026-10-27T11:12:43Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -541,6 +541,12 @@
     ],
     "AXISBANK.NS": [
       {
+        "title": "Here's Where Investors Turned To As They Fled AI Stocks",
+        "publisher": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
+        "published": "2026-11-10T20:19:37Z"
+      },
+      {
         "title": "Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%",
         "publisher": "Investing.com",
         "url": "https://finance.yahoo.com/economy/policy/articles/indian-bank-stocks-rise-rbi-062355615.html",
@@ -563,12 +569,6 @@
         "publisher": "TechCrunch",
         "url": "https://finance.yahoo.com/technology/articles/apple-pay-set-launch-india-184500796.html",
         "published": "2026-09-30T04:08:00Z"
-      },
-      {
-        "title": "Foldables, AI Servers and India Expansion: What Lies Ahead for Apple (AAPL) Under the New CEO?",
-        "publisher": "Insider Monkey",
-        "url": "https://finance.yahoo.com/technology/articles/foldables-ai-servers-india-expansion-092447891.html",
-        "published": "2026-09-27T09:24:47Z"
       }
     ],
     "HCLTECH.NS": [
