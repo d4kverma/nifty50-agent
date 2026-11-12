@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:50:51+00:00",
+  "updated": "2026-11-12T18:08:39+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -35,6 +35,12 @@
     ],
     "BHARTIARTL.NS": [
       {
+        "title": "Bharti Airtel Ltd (BOM:532454) (Q2 2027) Earnings Call Highlights: Strong Cash Flow, Record ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bharti-airtel-ltd-bom-532454-190212042.html",
+        "published": "2026-11-11T19:02:12Z"
+      },
+      {
         "title": "Bharti Airtel Stock And 2 Indian Telecom Shares Riding The Jio IPO Shift",
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bharti-airtel-stock-2-indian-120944242.html",
@@ -57,12 +63,6 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/jio-ipo-buzz-investors-looking-041752746.html",
         "published": "2026-10-20T04:17:52Z"
-      },
-      {
-        "title": "Airtel Mobile Commerce (LSE:AMC) Shares Dropped, What Is Behind The Move?",
-        "publisher": "Simply Wall St.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/airtel-mobile-commerce-lse-amc-071705098.html",
-        "published": "2026-10-13T07:17:05Z"
       }
     ],
     "HDFCBANK.NS": [
@@ -131,6 +131,18 @@
     ],
     "SBIN.NS": [
       {
+        "title": "SBI Shinsei Bank (TSE:8303) Stock May Be 25% Undervalued On Excess Returns",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sbi-shinsei-bank-tse-8303-091654725.html",
+        "published": "2026-11-12T09:16:54Z"
+      },
+      {
+        "title": "Mufin Green Finance Ltd (BOM:542774) (Q2 2027) Earnings Call Highlights: AUM Jumps 71% as ...",
+        "publisher": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mufin-green-finance-ltd-bom-030745343.html",
+        "published": "2026-11-12T03:07:45Z"
+      },
+      {
         "title": "Why SBI Cards Fell Even As Profit Rose",
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/why-sbi-cards-fell-even-042744404.html",
@@ -147,18 +159,6 @@
         "publisher": "CoinDesk",
         "url": "https://finance.yahoo.com/video/google-could-stake-terawulf-19b-193547457.html",
         "published": "2026-11-05T19:35:47Z"
-      },
-      {
-        "title": "State Bank of India (SBKFF) (Q2 2027) Earnings Call Highlights: Record Profit, Two-Decade-Low ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/state-bank-india-sbkff-q2-070344654.html",
-        "published": "2026-11-04T07:03:44Z"
-      },
-      {
-        "title": "Amazon-Backed Anthropic Plans Retail Share Offerings in Six International Markets",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-backed-anthropic-plans-retail-093920998.html",
-        "published": "2026-11-03T09:39:20Z"
       }
     ],
     "TCS.NS": [
@@ -195,12 +195,6 @@
     ],
     "BAJFINANCE.NS": [
       {
-        "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
-        "published": "2026-08-07T06:53:14Z"
-      },
-      {
         "title": "Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finserv-ltd-bom-532978-190139205.html",
@@ -223,6 +217,12 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bajaj-finance-posts-higher-095501327.html",
         "published": "2026-07-30T11:08:28Z"
+      },
+      {
+        "title": "Indian telecom firm Bharti Airtel to invest $2.2 billion to expand digital lending",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indian-telecom-firm-bharti-airtel-111532339.html",
+        "published": "2026-02-23T11:15:32Z"
       }
     ],
     "LT.NS": [
@@ -266,14 +266,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
@@ -379,10 +379,10 @@
         "published": "2026-08-15T01:04:55Z"
       },
       {
-        "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
-        "publisher": "Just Auto",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
-        "published": "2026-08-10T16:09:07Z"
+        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
+        "published": "2026-08-13T06:01:20Z"
       }
     ],
     "TITAN.NS": [
@@ -469,10 +469,10 @@
         "published": "2026-09-09T13:12:12Z"
       },
       {
-        "title": "India's Adani Energy plans another share sale by early next fiscal, sources say",
+        "title": "Billionaire Adani weighs airline launch in Indian duopoly market, sources say",
         "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-adani-energy-plans-another-035637124.html",
-        "published": "2026-07-31T03:56:37Z"
+        "url": "https://finance.yahoo.com/news/indias-adani-group-considers-launching-050554840.html",
+        "published": "2026-07-23T08:20:42Z"
       }
     ],
     "KOTAKBANK.NS": [
@@ -501,10 +501,10 @@
         "published": "2026-09-11T11:57:15Z"
       },
       {
-        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
-        "published": "2026-08-18T13:11:34Z"
+        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
+        "publisher": "Private Banker International",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
+        "published": "2026-08-14T11:52:36Z"
       }
     ],
     "ADANIPORTS.NS": [
@@ -525,12 +525,6 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/adani-ports-stock-gulf-port-051515502.html",
         "published": "2026-09-20T05:15:15Z"
-      },
-      {
-        "title": "India's Adani Ports posts higher profit on domestic demand",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-adani-ports-posts-higher-084229648.html",
-        "published": "2026-07-29T08:42:29Z"
       },
       {
         "title": "Gautam Adani\u2019s Net Worth Swells By $2 Billion\u2014Becomes Asia\u2019s Richest Person",
