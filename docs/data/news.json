@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T18:08:39+00:00",
+  "updated": "2026-11-13T17:38:31+00:00",
   "news": {
     "RELIANCE.NS": [
+      {
+        "title": "Reliance plans $4.6bn investment in Andhra Pradesh coal-to-gas project",
+        "publisher": "Offshore Technology",
+        "url": "https://finance.yahoo.com/news/reliance-plans-4-6bn-investment-105018840.html",
+        "published": "2026-11-13T10:50:18Z"
+      },
       {
         "title": "Reliance Industries Ltd (WBO:RLI) (Q2 2027) Earnings Call Highlights: Record EBITDA and PAT as ...",
         "publisher": "GuruFocus.com",
@@ -24,12 +30,6 @@
         "title": "Jio Platforms breaks India's IPO record",
         "publisher": "Axios Media",
         "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226316.html",
-        "published": "2026-10-28T14:32:26Z"
-      },
-      {
-        "title": "Jio Platforms breaks India's IPO record",
-        "publisher": "Axios",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-breaks-indias-ipo-143226703.html",
         "published": "2026-10-28T14:32:26Z"
       }
     ],
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "WF vs. HDB: Which Stock Should Value Investors Buy Now?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wf-vs-hdb-stock-value-154003319.html",
+        "published": "2026-11-13T15:40:03Z"
+      },
+      {
         "title": "Here's Where Investors Turned To As They Fled AI Stocks",
         "publisher": "Investor's Business Daily",
         "url": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
@@ -89,15 +95,15 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154159877.html",
         "published": "2026-11-04T15:41:59Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Higher in Tuesday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154953483.html",
-        "published": "2026-11-03T15:49:53Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "Jindal Power secures $470m funding for Botswana power project",
+        "publisher": "Power Technology",
+        "url": "https://finance.yahoo.com/news/jindal-power-secures-470m-funding-131028508.html",
+        "published": "2026-11-13T13:10:28Z"
+      },
       {
         "title": "Here's Where Investors Turned To As They Fled AI Stocks",
         "publisher": "Investor's Business Daily",
@@ -121,12 +127,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154451331.html",
         "published": "2026-11-06T15:44:51Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155825220.html",
-        "published": "2026-11-05T15:58:25Z"
       }
     ],
     "SBIN.NS": [
@@ -195,6 +195,12 @@
     ],
     "BAJFINANCE.NS": [
       {
+        "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
+        "published": "2026-08-07T06:53:14Z"
+      },
+      {
         "title": "Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finserv-ltd-bom-532978-190139205.html",
@@ -217,12 +223,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bajaj-finance-posts-higher-095501327.html",
         "published": "2026-07-30T11:08:28Z"
-      },
-      {
-        "title": "Indian telecom firm Bharti Airtel to invest $2.2 billion to expand digital lending",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indian-telecom-firm-bharti-airtel-111532339.html",
-        "published": "2026-02-23T11:15:32Z"
       }
     ],
     "LT.NS": [
@@ -266,14 +266,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
@@ -379,10 +379,10 @@
         "published": "2026-08-15T01:04:55Z"
       },
       {
-        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
-        "published": "2026-08-13T06:01:20Z"
+        "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
+        "published": "2026-08-10T16:09:07Z"
       }
     ],
     "TITAN.NS": [
@@ -445,6 +445,12 @@
     ],
     "ADANIENT.NS": [
       {
+        "title": "Reliance plans $4.6bn investment in Andhra Pradesh coal-to-gas project",
+        "publisher": "Offshore Technology",
+        "url": "https://finance.yahoo.com/news/reliance-plans-4-6bn-investment-105018840.html",
+        "published": "2026-11-13T10:50:18Z"
+      },
+      {
         "title": "Can Jabil (JBL) Still Be A Bargain After Its AI Venture?",
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-still-bargain-ai-100709175.html",
@@ -467,12 +473,6 @@
         "publisher": "Investment Monitor",
         "url": "https://finance.yahoo.com/markets/stocks/articles/adani-airport-holdings-raises-rs98-131212902.html",
         "published": "2026-09-09T13:12:12Z"
-      },
-      {
-        "title": "Billionaire Adani weighs airline launch in Indian duopoly market, sources say",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/indias-adani-group-considers-launching-050554840.html",
-        "published": "2026-07-23T08:20:42Z"
       }
     ],
     "KOTAKBANK.NS": [
@@ -501,10 +501,10 @@
         "published": "2026-09-11T11:57:15Z"
       },
       {
-        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
-        "publisher": "Private Banker International",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
-        "published": "2026-08-14T11:52:36Z"
+        "title": "Four Indian private lenders eye dollar debt before RBI swap window deadline, bankers say",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/four-indian-private-lenders-eye-131134816.html",
+        "published": "2026-08-18T13:11:34Z"
       }
     ],
     "ADANIPORTS.NS": [
@@ -527,6 +527,12 @@
         "published": "2026-09-20T05:15:15Z"
       },
       {
+        "title": "India's Adani Ports posts higher profit on domestic demand",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-adani-ports-posts-higher-084229648.html",
+        "published": "2026-07-29T08:42:29Z"
+      },
+      {
         "title": "Gautam Adani\u2019s Net Worth Swells By $2 Billion\u2014Becomes Asia\u2019s Richest Person",
         "publisher": "Forbes",
         "url": "https://finance.yahoo.com/markets/stocks/articles/gautam-adani-net-worth-swells-143311633.html",
@@ -534,6 +540,12 @@
       }
     ],
     "AXISBANK.NS": [
+      {
+        "title": "Jindal Power secures $470m funding for Botswana power project",
+        "publisher": "Power Technology",
+        "url": "https://finance.yahoo.com/news/jindal-power-secures-470m-funding-131028508.html",
+        "published": "2026-11-13T13:10:28Z"
+      },
       {
         "title": "Here's Where Investors Turned To As They Fled AI Stocks",
         "publisher": "Investor's Business Daily",
@@ -557,12 +569,6 @@
         "publisher": "The Wall Street Journal",
         "url": "https://www.wsj.com/tech/apple-launches-mobile-payment-services-in-india-8453423b?siteid=yhoof2&yptr=yahoo",
         "published": "2026-09-30T07:30:00Z"
-      },
-      {
-        "title": "Apple Pay finally launches in India after years on the sidelines",
-        "publisher": "TechCrunch",
-        "url": "https://finance.yahoo.com/technology/articles/apple-pay-set-launch-india-184500796.html",
-        "published": "2026-09-30T04:08:00Z"
       }
     ],
     "HCLTECH.NS": [
