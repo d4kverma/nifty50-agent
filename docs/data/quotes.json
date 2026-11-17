@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:17:45+00:00",
+  "updated": "2026-11-17T19:04:38+00:00",
   "quotes": {
     "RELIANCE.NS": {
       "name": "Reliance Industries",
@@ -9,217 +9,217 @@
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 7653026,
-      "date": "2026-11-13"
+      "volume": 15861037,
+      "date": "2026-11-16"
     },
     "BHARTIARTL.NS": {
       "name": "Bharti Airtel",
       "price": NaN,
-      "prev_close": 2096.0,
+      "prev_close": 2106.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 9553335,
-      "date": "2026-11-13"
+      "volume": 6982324,
+      "date": "2026-11-16"
     },
     "HDFCBANK.NS": {
       "name": "HDFC Bank",
       "price": NaN,
-      "prev_close": 812.3,
+      "prev_close": 804.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 27143063,
-      "date": "2026-11-13"
+      "volume": 34908094,
+      "date": "2026-11-16"
     },
     "ICICIBANK.NS": {
       "name": "ICICI Bank",
       "price": NaN,
-      "prev_close": 1590.0,
+      "prev_close": 1583.6,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 10069097,
-      "date": "2026-11-13"
+      "volume": 15279818,
+      "date": "2026-11-16"
     },
     "SBIN.NS": {
       "name": "State Bank of India",
       "price": NaN,
-      "prev_close": 1086.5,
+      "prev_close": 1080.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 16215258,
-      "date": "2026-11-13"
+      "volume": 16307702,
+      "date": "2026-11-16"
     },
     "TCS.NS": {
       "name": "Tata Consultancy Services",
       "price": NaN,
-      "prev_close": 2442.4,
+      "prev_close": 2407.5,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 1802297,
-      "date": "2026-11-13"
+      "volume": 3025870,
+      "date": "2026-11-16"
     },
     "BAJFINANCE.NS": {
       "name": "Bajaj Finance",
       "price": NaN,
-      "prev_close": 1115.0,
+      "prev_close": 1117.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 8224916,
-      "date": "2026-11-13"
+      "volume": 5352545,
+      "date": "2026-11-16"
     },
     "LT.NS": {
       "name": "Larsen & Toubro",
       "price": NaN,
-      "prev_close": 4159.2,
+      "prev_close": 4143.8,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 1136716,
-      "date": "2026-11-13"
+      "volume": 1939756,
+      "date": "2026-11-16"
     },
     "HINDUNILVR.NS": {
       "name": "Hindustan Unilever",
       "price": NaN,
-      "prev_close": 1974.0,
+      "prev_close": 1992.9,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 1093464,
-      "date": "2026-11-13"
+      "volume": 1103860,
+      "date": "2026-11-16"
     },
     "INFY.NS": {
       "name": "Infosys",
       "price": NaN,
-      "prev_close": 1151.2,
+      "prev_close": 1141.5,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 4851757,
-      "date": "2026-11-13"
+      "volume": 7145164,
+      "date": "2026-11-16"
     },
     "SUNPHARMA.NS": {
       "name": "Sun Pharmaceutical Industries",
       "price": NaN,
-      "prev_close": 1885.0,
+      "prev_close": 1880.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 1301360,
-      "date": "2026-11-13"
+      "volume": 1437973,
+      "date": "2026-11-16"
     },
     "MARUTI.NS": {
       "name": "Maruti Suzuki India",
       "price": NaN,
-      "prev_close": 13024.0,
+      "prev_close": 12854.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 662297,
-      "date": "2026-11-13"
+      "volume": 439820,
+      "date": "2026-11-16"
     },
     "TITAN.NS": {
       "name": "Titan Company",
       "price": NaN,
-      "prev_close": 4921.9,
+      "prev_close": 4844.9,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 912474,
-      "date": "2026-11-13"
+      "volume": 438824,
+      "date": "2026-11-16"
     },
     "M&M.NS": {
       "name": "Mahindra & Mahindra",
       "price": NaN,
-      "prev_close": 3399.0,
+      "prev_close": 3333.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 1245026,
-      "date": "2026-11-13"
+      "volume": 2572034,
+      "date": "2026-11-16"
     },
     "ADANIENT.NS": {
       "name": "Adani Enterprises",
       "price": NaN,
-      "prev_close": 2741.5,
+      "prev_close": 2688.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 810098,
-      "date": "2026-11-13"
+      "volume": 2014961,
+      "date": "2026-11-16"
     },
     "KOTAKBANK.NS": {
       "name": "Kotak Mahindra Bank",
       "price": NaN,
-      "prev_close": 490.4,
+      "prev_close": 488.55,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 13326637,
-      "date": "2026-11-13"
+      "volume": 15625466,
+      "date": "2026-11-16"
     },
     "ADANIPORTS.NS": {
       "name": "Adani Ports and SEZ",
       "price": NaN,
-      "prev_close": 1930.0,
+      "prev_close": 1903.3,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 1351209,
-      "date": "2026-11-13"
+      "volume": 1936652,
+      "date": "2026-11-16"
     },
     "AXISBANK.NS": {
       "name": "Axis Bank",
       "price": NaN,
-      "prev_close": 1342.9,
+      "prev_close": 1331.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 5346656,
-      "date": "2026-11-13"
+      "volume": 6981537,
+      "date": "2026-11-16"
     },
     "HCLTECH.NS": {
       "name": "HCL Technologies",
       "price": NaN,
-      "prev_close": 1380.8,
+      "prev_close": 1378.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 2123739,
-      "date": "2026-11-13"
+      "volume": 2929047,
+      "date": "2026-11-16"
     },
     "ITC.NS": {
       "name": "ITC",
       "price": NaN,
-      "prev_close": 284.05,
+      "prev_close": 285.0,
       "change": NaN,
       "pct_change": NaN,
       "day_high": NaN,
       "day_low": NaN,
-      "volume": 49024463,
-      "date": "2026-11-13"
+      "volume": 15917706,
+      "date": "2026-11-16"
     }
   }
 }
