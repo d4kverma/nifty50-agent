@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T19:05:03+00:00",
+  "updated": "2026-11-18T18:47:35+00:00",
   "news": {
     "RELIANCE.NS": [
+      {
+        "title": "Reliance seeks manufacturing partners for its 1,600-satellite network - Bloomberg",
+        "publisher": "Investing.com",
+        "url": "https://finance.yahoo.com/technology/articles/reliance-seeks-manufacturing-partners-1-020204124.html",
+        "published": "2026-11-18T02:02:04Z"
+      },
       {
         "title": "Reliance Bets $1.6 Billion on India's Biogas Boom",
         "publisher": "Oilprice.com",
@@ -25,12 +31,6 @@
         "publisher": "Bloomberg",
         "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-adds-record-19-billion-111336617.html",
         "published": "2026-11-02T11:13:36Z"
-      },
-      {
-        "title": "3 Oil Stocks Worth Watching If Energy Prices Stay High",
-        "publisher": "Simply Wall St.",
-        "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-worth-watching-021124324.html",
-        "published": "2026-11-02T02:11:24Z"
       }
     ],
     "BHARTIARTL.NS": [
@@ -99,6 +99,12 @@
     ],
     "ICICIBANK.NS": [
       {
+        "title": "ICICI Bank Hits a 52-Week High: Can Growth Drivers Sustain the Rally?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/icici-bank-hits-52-week-164500260.html",
+        "published": "2026-11-18T16:45:00Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Tuesday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-153931695.html",
@@ -121,12 +127,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
         "published": "2026-11-10T15:41:41Z"
-      },
-      {
-        "title": "5 Best All-Time High Stocks to Buy According to Wall Street",
-        "publisher": "Insider Monkey",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-time-high-stocks-190458183.html",
-        "published": "2026-11-09T19:03:49Z"
       }
     ],
     "SBIN.NS": [
@@ -195,6 +195,12 @@
     ],
     "BAJFINANCE.NS": [
       {
+        "title": "India\u2019s Humyn Labs raises $47M to feed US robotics companies the data they need",
+        "publisher": "TechCrunch",
+        "url": "https://finance.yahoo.com/technology/ai/articles/india-humyn-labs-raises-47m-113000683.html",
+        "published": "2026-11-18T11:30:00Z"
+      },
+      {
         "title": "Market Chatter: BlackRock, Goldman Sachs, Nomura Buy Into Bajaj Finance Share Offering",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-blackrock-goldman-sachs-090424939.html",
@@ -217,12 +223,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bajaj-finance-record-high-043826183.html",
         "published": "2026-07-31T10:15:48Z"
-      },
-      {
-        "title": "Bajaj Finance Ltd (BOM:500034) (Q1 2027) Earnings Call Highlights: Record Customer Additions ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finance-ltd-bom-500034-210105931.html",
-        "published": "2026-07-30T21:01:05Z"
       }
     ],
     "LT.NS": [
@@ -272,14 +272,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
@@ -413,6 +413,24 @@
     ],
     "M&M.NS": [
       {
+        "title": "Mars Finds Surprising Value in Personalized M&M\u2019s",
+        "publisher": "WSJ",
+        "url": "https://finance.yahoo.com/video/mars-finds-surprising-value-personalized-165600289.html",
+        "published": "2026-11-18T16:56:00Z"
+      },
+      {
+        "title": "How Mars Is Innovating With and For Consumers | WSJLI",
+        "publisher": "WSJ",
+        "url": "https://finance.yahoo.com/video/mars-innovating-consumers-wsjli-162200839.html",
+        "published": "2026-11-18T16:22:00Z"
+      },
+      {
+        "title": "Mars Bought Pringles And Cheez-It in a $36B Deal. Now Plans To Open 4 Pet Hospitals As Part Of $1.4B U.S. Expansion",
+        "publisher": "Benzinga",
+        "url": "https://finance.yahoo.com/healthcare/articles/mars-bought-pringles-cheez-36b-182439298.html",
+        "published": "2026-11-17T18:24:39Z"
+      },
+      {
         "title": "Mahindra & Mahindra Ltd (MAHMF) (Q2 2027) Earnings Call Highlights: Revenue and Profit Jump ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-mahindra-ltd-mahmf-q2-032028656.html",
@@ -423,24 +441,6 @@
         "publisher": "Just Auto",
         "url": "https://finance.yahoo.com/markets/stocks/articles/mahindra-posts-25-rise-q2-122951970.html",
         "published": "2026-11-06T12:29:51Z"
-      },
-      {
-        "title": "Volkswagen halts India EV spending amid JSW partnership uncertainty \u2013 report",
-        "publisher": "Just Auto",
-        "url": "https://finance.yahoo.com/news/volkswagen-halts-india-ev-spending-173101226.html",
-        "published": "2026-10-26T17:31:01Z"
-      },
-      {
-        "title": "Barclays downgrades Mobileye, cites lack of progress on advanced wins",
-        "publisher": "Investing.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-downgrades-mobileye-cites-lack-143731107.html",
-        "published": "2026-09-30T14:37:31Z"
-      },
-      {
-        "title": "Mars zeroes in on gut health with startup partnerships",
-        "publisher": "Food Dive",
-        "url": "https://finance.yahoo.com/small-business/articles/mars-zeroes-gut-health-startup-110131217.html",
-        "published": "2026-09-15T11:01:31Z"
       }
     ],
     "ADANIENT.NS": [
