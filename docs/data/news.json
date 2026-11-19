@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T18:47:35+00:00",
+  "updated": "2026-11-19T18:57:13+00:00",
   "news": {
     "RELIANCE.NS": [
+      {
+        "title": "Reliance Industries (NSEI:RELIANCE) Stock Sees Modest Fair Value Cut As Growth Assumptions Ease",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-industries-nsei-reliance-stock-011426476.html",
+        "published": "2026-11-19T01:14:26Z"
+      },
       {
         "title": "Reliance seeks manufacturing partners for its 1,600-satellite network - Bloomberg",
         "publisher": "Investing.com",
@@ -25,12 +31,6 @@
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-industries-ltd-wbo-rli-070425946.html",
         "published": "2026-11-03T07:04:25Z"
-      },
-      {
-        "title": "Reliance Adds Record $19 Billion in Market Value on Profit Beat",
-        "publisher": "Bloomberg",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-adds-record-19-billion-111336617.html",
-        "published": "2026-11-02T11:13:36Z"
       }
     ],
     "BHARTIARTL.NS": [
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154541394.html",
+        "published": "2026-11-19T15:45:41Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Start Week Sharply Lower in Monday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154847227.html",
@@ -89,12 +95,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
         "published": "2026-11-10T15:41:41Z"
-      },
-      {
-        "title": "Standard Chartered hires HDFC executive to lead India private banking arm",
-        "publisher": "Private Banker International",
-        "url": "https://finance.yahoo.com/news/standard-chartered-hires-hdfc-executive-115753321.html",
-        "published": "2026-11-09T11:57:53Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -272,14 +272,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
