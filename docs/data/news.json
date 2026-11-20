@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:57:13+00:00",
+  "updated": "2026-11-20T18:30:46+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -67,6 +67,12 @@
     ],
     "HDFCBANK.NS": [
       {
+        "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Tumble 7% for Week",
+        "publisher": "MT Newswires",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154056709.html",
+        "published": "2026-11-20T15:40:56Z"
+      },
+      {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154541394.html",
@@ -89,12 +95,6 @@
         "publisher": "Investor's Business Daily",
         "url": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
         "published": "2026-11-10T20:19:37Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
-        "published": "2026-11-10T15:41:41Z"
       }
     ],
     "ICICIBANK.NS": [
@@ -272,14 +272,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
@@ -290,6 +290,12 @@
       }
     ],
     "INFY.NS": [
+      {
+        "title": "ServiceNow vs. UiPath: Which Technology Stock Is a Better Buy for 2027?",
+        "publisher": "Motley Fool",
+        "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-vs-uipath-technology-stock-190302076.html",
+        "published": "2026-11-19T19:03:02Z"
+      },
       {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading",
         "publisher": "MT Newswires",
@@ -313,12 +319,6 @@
         "publisher": "Motley Fool",
         "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-3-key-takeaways-long-015223370.html",
         "published": "2026-11-05T01:52:23Z"
-      },
-      {
-        "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Friday Trading",
-        "publisher": "MT Newswires",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144016114.html",
-        "published": "2026-10-30T14:40:16Z"
       }
     ],
     "SUNPHARMA.NS": [
