@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:30:30+00:00",
+  "updated": "2026-11-27T19:25:42+00:00",
   "news": {
     "RELIANCE.NS": [
       {
@@ -47,12 +47,6 @@
         "published": "2026-10-28T12:09:44Z"
       },
       {
-        "title": "Billionaire Ambani's Jio soars in market debut after India's biggest IPO",
-        "publisher": "AFP",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ambanis-jio-jumps-21-051824469.html",
-        "published": "2026-10-28T10:43:11Z"
-      },
-      {
         "title": "Jio shares surge over 20% in blockbuster market debut",
         "publisher": "Investing.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/jio-shares-surge-over-20-061143874.html",
@@ -63,9 +57,21 @@
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/jio-ipo-buzz-investors-looking-041752746.html",
         "published": "2026-10-20T04:17:52Z"
+      },
+      {
+        "title": "Airtel Mobile Commerce (LSE:AMC) Shares Dropped, What Is Behind The Move?",
+        "publisher": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/airtel-mobile-commerce-lse-amc-071705098.html",
+        "published": "2026-10-13T07:17:05Z"
       }
     ],
     "HDFCBANK.NS": [
+      {
+        "title": "Deutsche Bank (DB) Down 5.9% Since Last Earnings Report: Can It Rebound?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-db-down-5-153010285.html",
+        "published": "2026-11-27T15:30:10Z"
+      },
       {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Tumble in Wednesday Trading",
         "publisher": "MT Newswires",
@@ -89,15 +95,15 @@
         "publisher": "TIKR",
         "url": "https://finance.yahoo.com/markets/stocks/articles/3-5-billion-fund-dumps-170801034.html",
         "published": "2026-11-23T17:08:01Z"
-      },
-      {
-        "title": "Why HDFC Bank (HDB) is Standing Strong Amid Market Turmoil",
-        "publisher": "Insider Monkey",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-hdfc-bank-hdb-standing-041924130.html",
-        "published": "2026-11-23T04:19:24Z"
       }
     ],
     "ICICIBANK.NS": [
+      {
+        "title": "Why Is UBS (UBS) Down 5.7% Since Last Earnings Report?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-ubs-down-5-153020515.html",
+        "published": "2026-11-27T15:30:20Z"
+      },
       {
         "title": "SBI, HDFC, and ICICI retain systemically important bank status",
         "publisher": "Retail Banker International",
@@ -121,15 +127,27 @@
         "publisher": "Power Technology",
         "url": "https://finance.yahoo.com/news/jindal-power-secures-470m-funding-131028508.html",
         "published": "2026-11-13T13:10:28Z"
-      },
-      {
-        "title": "Here's Where Investors Turned To As They Fled AI Stocks",
-        "publisher": "Investor's Business Daily",
-        "url": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
-        "published": "2026-11-10T20:19:37Z"
       }
     ],
     "SBIN.NS": [
+      {
+        "title": "European Stock Indexes Rise as Tech Rally Extends",
+        "publisher": "The Wall Street Journal",
+        "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-11-27T08:32:00Z"
+      },
+      {
+        "title": "CORPWATCH: India clears SBI Mutual Fund for near-10% South Indian Bank stake",
+        "publisher": "IntelliNews",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/corpwatch-india-clears-sbi-mutual-002113948.html",
+        "published": "2026-11-27T00:21:13Z"
+      },
+      {
+        "title": "Korea pulls the plug on crypto barons' grip over exchanges",
+        "publisher": "IntelliNews",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/korea-pulls-plug-crypto-barons-000626595.html",
+        "published": "2026-11-27T00:06:26Z"
+      },
       {
         "title": "Japan's largest financial institutions tap Solana for stablecoin payments and tokenization",
         "publisher": "Yahoo Finance Video",
@@ -141,24 +159,6 @@
         "publisher": "Yahoo Finance Video",
         "url": "https://finance.yahoo.com/video/japans-biggest-banks-pick-solana-as-fidelity-adds-defi-tokens-222056705.html",
         "published": "2026-11-25T17:00:00Z"
-      },
-      {
-        "title": "SBI, HDFC, and ICICI retain systemically important bank status",
-        "publisher": "Retail Banker International",
-        "url": "https://finance.yahoo.com/news/sbi-hdfc-icici-retain-systemically-115304861.html",
-        "published": "2026-11-24T11:53:04Z"
-      },
-      {
-        "title": "Americans fear the worst after Pentagon doomsday prepping, \u2018Black October\u2019 cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
-        "publisher": "Fortune",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/americans-fear-worst-pentagon-doomsday-232109128.html",
-        "published": "2026-11-15T23:21:09Z"
-      },
-      {
-        "title": "SBI Shinsei Bank (TSE:8303) Stock May Be 25% Undervalued On Excess Returns",
-        "publisher": "Simply Wall St.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sbi-shinsei-bank-tse-8303-091654725.html",
-        "published": "2026-11-12T09:16:54Z"
       }
     ],
     "TCS.NS": [
@@ -207,6 +207,12 @@
         "published": "2026-11-17T09:04:24Z"
       },
       {
+        "title": "Jefferies sees brighter India outlook as credit, capital flows ramp up; removes HDFC Bank in portfolio revamp",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/jefferies-sees-brighter-india-outlook-065314636.html",
+        "published": "2026-08-07T06:53:14Z"
+      },
+      {
         "title": "Bajaj Finserv Ltd (BOM:532978) (Q1 2027) Earnings Call Highlights: Strong Growth Amid Insurance ...",
         "publisher": "GuruFocus.com",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finserv-ltd-bom-532978-190139205.html",
@@ -217,12 +223,6 @@
         "publisher": "Reuters",
         "url": "https://finance.yahoo.com/news/indias-bajaj-finance-record-high-043826183.html",
         "published": "2026-07-31T10:15:48Z"
-      },
-      {
-        "title": "Bajaj Finance Ltd (BOM:500034) (Q1 2027) Earnings Call Highlights: Record Customer Additions ...",
-        "publisher": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finance-ltd-bom-500034-210105931.html",
-        "published": "2026-07-30T21:01:05Z"
       }
     ],
     "LT.NS": [
@@ -272,14 +272,14 @@
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Food",
-        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
+        "publisher": "Just Drinks",
+        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
         "title": "India regulator accuses Nestl\u00e9, Unilever of misleading health claims",
-        "publisher": "Just Drinks",
-        "url": "https://finance.yahoo.com/healthcare/articles/india-regulator-accuses-nestl-unilever-132828149.html",
+        "publisher": "Just Food",
+        "url": "https://finance.yahoo.com/news/india-regulator-accuses-nestl-unilever-132828960.html",
         "published": "2026-10-19T13:28:28Z"
       },
       {
@@ -290,6 +290,12 @@
       }
     ],
     "INFY.NS": [
+      {
+        "title": "ServiceNow (NOW) Down 16% Since Last Earnings Report: Can It Rebound?",
+        "publisher": "Zacks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-down-16-since-153017193.html",
+        "published": "2026-11-27T15:30:17Z"
+      },
       {
         "title": "Asian Equities Traded in the US as American Depositary Receipts Tumble in Wednesday Trading",
         "publisher": "MT Newswires",
@@ -313,12 +319,6 @@
         "publisher": "MT Newswires",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154814184.html",
         "published": "2026-11-11T15:48:14Z"
-      },
-      {
-        "title": "The Overlooked AI Trade Hiding in a Beaten-Down Corner of the Market",
-        "publisher": "Motley Fool",
-        "url": "https://finance.yahoo.com/technology/ai/articles/overlooked-ai-trade-hiding-beaten-222136739.html",
-        "published": "2026-11-10T22:21:36Z"
       }
     ],
     "SUNPHARMA.NS": [
@@ -379,10 +379,10 @@
         "published": "2026-08-15T01:04:55Z"
       },
       {
-        "title": "Exclusive-Emails reveal Indian carmakers' fuel contamination worries before public retreat",
-        "publisher": "Reuters",
-        "url": "https://finance.yahoo.com/news/exclusive-emails-reveal-indian-carmakers-060120603.html",
-        "published": "2026-08-13T06:01:20Z"
+        "title": "Maruti Suzuki eyes 6.3 million-unit India car market by FY31",
+        "publisher": "Just Auto",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-eyes-6-3-160907516.html",
+        "published": "2026-08-10T16:09:07Z"
       }
     ],
     "TITAN.NS": [
@@ -477,6 +477,18 @@
     ],
     "KOTAKBANK.NS": [
       {
+        "title": "European Stock Indexes Rise as Tech Rally Extends",
+        "publisher": "The Wall Street Journal",
+        "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-11-27T08:32:00Z"
+      },
+      {
+        "title": "CORPWATCH: India clears SBI Mutual Fund for near-10% South Indian Bank stake",
+        "publisher": "IntelliNews",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/corpwatch-india-clears-sbi-mutual-002113948.html",
+        "published": "2026-11-27T00:21:13Z"
+      },
+      {
         "title": "Is Deutsche Bank (XTRA:DBK) Reasonable Or Stretched After A 239% Run?",
         "publisher": "Simply Wall St.",
         "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-xtra-dbk-reasonable-062032529.html",
@@ -493,18 +505,6 @@
         "publisher": "Investing.com",
         "url": "https://finance.yahoo.com/economy/policy/articles/indian-bank-stocks-rise-rbi-062355615.html",
         "published": "2026-10-06T06:23:55Z"
-      },
-      {
-        "title": "ICICI Prudential AMC gets clearance to buy up to 9.95% of four\u00a0lenders",
-        "publisher": "Retail Banker International",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/icici-prudential-amc-gets-clearance-115715409.html",
-        "published": "2026-09-11T11:57:15Z"
-      },
-      {
-        "title": "Ravi Malani to head portfolio management services at Sanctum Wealth",
-        "publisher": "Private Banker International",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ravi-malani-head-portfolio-management-115236947.html",
-        "published": "2026-08-14T11:52:36Z"
       }
     ],
     "ADANIPORTS.NS": [
@@ -533,10 +533,10 @@
         "published": "2026-09-20T05:15:15Z"
       },
       {
-        "title": "Gautam Adani\u2019s Net Worth Swells By $2 Billion\u2014Becomes Asia\u2019s Richest Person",
-        "publisher": "Forbes",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gautam-adani-net-worth-swells-143311633.html",
-        "published": "2026-06-05T14:33:11Z"
+        "title": "India's Adani Ports posts higher profit on domestic demand",
+        "publisher": "Reuters",
+        "url": "https://finance.yahoo.com/news/indias-adani-ports-posts-higher-084229648.html",
+        "published": "2026-07-29T08:42:29Z"
       }
     ],
     "AXISBANK.NS": [
